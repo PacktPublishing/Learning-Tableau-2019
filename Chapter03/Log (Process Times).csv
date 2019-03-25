@@ -1,0 +1,9 @@
+Event	Process	Start Time	End Time	Status
+Initialize	Initial Startup	1/1/2018 8:30	1/1/2018 8:32	Success
+Cache Reset	Initial Startup	1/1/2018 8:32	1/1/2018 8:33	Success
+Allocate Memory	Initial Startup	1/1/2018 8:32	1/1/2018 8:45	Success
+System Check	Initial Startup	1/1/2018 8:45	1/1/2018 9:00	Success
+Update Check	Initial Startup	1/1/2018 8:48	1/1/2018 8:59	Success
+Data Sync	Execute Main Routines	1/1/2018 9:00	1/1/2018 9:15	Success
+Validate Checksum	Execute Main Routines	1/1/2018 9:15	1/1/2018 9:18	Error
+Wait Cycle	Execute Main Routines	1/1/2018 9:18	1/1/2018 9:23	Success

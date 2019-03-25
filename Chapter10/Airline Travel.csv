@@ -1,0 +1,1399 @@
+﻿Passenger Email,Row ID,Purchase Date,Travel Date,Passenger ID,Airline,Ticket Price,Route,Ticket Type,Row_ID,Person
+ekiefer@vizpainter.com,4144,1/10/2019,2/6/2019,EH-14125,United,184,DFW-CMH,Economy,252,Eileen Kiefer
+abarton@vizpainter.com,9102,9/10/2017,11/12/2017,AB-10105,American Airlines,214,DFW-CMH,Economy,7,Adrian Barton
+achung@vizpainter.com,2194,10/22/2018,12/17/2018,AP-10915,United,199,DFW-COS,Economy,44,Anna Chung
+svernon@vizpainter.com,6695,6/7/2018,8/30/2018,SS-20515,Delta,293,DFW-HIO,Economy,690,Seth Vernon
+dbolton@vizpainter.com,710,9/28/2016,12/4/2016,DP-13165,Delta,200,DFW-SEA,Economy,223,Dennis Bolton
+hkirkland@vizpainter.com,14,10/25/2018,12/10/2018,IM-15070,United,153,DFW-SEA,Economy,325,Heather Kirkland
+ao'donnell@vizpainter.com,703,10/28/2018,11/7/2018,AS-10285,Delta,188,DFW-MCO,Economy,54,Anthony O'Donnell
+rbierner@vizpainter.com,8960,9/23/2019,11/30/2019,RO-19780,American,124,DFW-GRB,Economy,628,Richard Bierner
+mo'connel@vizpainter.com,1277,4/23/2018,5/26/2018,MS-17710,American,456,DFW-HIO,Business,519,Meg O'Connel
+tboeckenhauer@vizpainter.com,3907,3/29/2017,4/10/2017,VT-21700,American,345,DFW-MCO,Economy,759,Tom Boeckenhauer
+jsundaresam@vizpainter.com,3575,5/27/2019,8/12/2019,JW-15955,American Airlines,259,DFW-CMH,Economy,395,Joni Sundaresam
+tturnell@vizpainter.com,4484,8/8/2018,11/8/2018,XP-21865,AA,163,DFW-COS,Economy,762,Tonja Turnell
+jfrazer@vizpainter.com,2010,10/6/2016,11/21/2016,JF-15190,United,246,DFW-GRB,Economy,345,Jamie Frazer
+hpawlan@vizpainter.com,1025,11/19/2019,12/20/2019,HR-14770,United,212,DFW-SEA,Business,320,Harold Pawlan
+fharton@vizpainter.com,1526,11/15/2017,12/11/2017,GH-14425,Delta,338,DFW-CMH,Business,289,Fred Harton
+bhoffman@vizpainter.com,9534,10/22/2018,10/31/2018,BW-11200,United,178,DFW-BUR,Economy,114,Brosina Hoffman
+psewall@vizpainter.com,676,10/22/2019,12/8/2019,RB-19570,United,309,DFW-HIO,Business,602,Penelope Sewall
+as,9003,8/30/2016,12/9/2016,EM-13825,United,166,DFW-COS,Economy,259,Emily Grady
+fwasserman@vizpainter.com,4848,5/29/2016,6/27/2016,GK-14620,American Airlines,216,DFW-CMH,Economy,292,Fred Wasserman
+mlee@vizpainter.com,1925,12/1/2019,12/7/2019,NP-18325,American Airlines,347,DFW-COS,Business,550,Muhammed Lee
+lpelletier,2609,11/1/2016,11/30/2016,MC-17590,United,180,DFW-IAD,Business,471,Liz Pelletier
+creiten@vizpainter.com,2454,2/19/2019,3/22/2019,DB-13405,American,226,DFW-HIO,Economy,187,Cyra Reiten
+tboeckenhauer@vizpainter.com,3911,2/25/2017,4/10/2017,VT-21700,American (AA),396,DFW-BUF,1st Class,759,Tom Boeckenhauer
+sluxemburg@vizpainter.com,9559,1/29/2018,5/5/2018,SM-20905,American (AA),325,DFW-HIO,Economy,676,Sara Luxemburg
+mcrier@vizpainter.com,147,10/19/2016,10/28/2016,MG-17680,United,325,DFW-MCO,Economy,484,Marc Crier
+bpaige@vizpainter.com,165,7/30/2016,9/12/2016,BM-11140,United,198,DFW-CMH,Business,86,Beth Paige
+hjas@vizpainter.com,8769,7/24/2017,10/9/2017,IL-15100,American Airlines,285,DFW-HIO,Business,324,Heather Jas
+tsissman@vizpainter.com,3941,3/13/2019,5/23/2019,TS-21340,American (AA),465,DFW-MCO,1st Class,738,Thais Sissman
+sfoulston@vizpainter.com,7315,5/5/2018,6/2/2018,TN-21040,American,198,DFW-SAN,Economy,730,Sylvia Foulston
+scooley@vizpainter.com,8286,12/11/2017,12/26/2017,SZ-20035,Delta,323,DFW-MCO,Business,704,Sonia Cooley
+mlichtenstein@vizpainter.com,4419,11/10/2016,12/27/2016,MH-17455,Delta,284,DFW-MCO,Economy,492,Marina Lichtenstein
+agerbode@vizpainter.com,8920,3/9/2016,4/8/2016,AH-10690,Delta,306,DFW-MCO,Economy,35,Andy Gerbode
+fgastineau@vizpainter.com,5588,2/21/2017,3/20/2017,GA-14725,AA,137,DFW-BUR,Economy,283,Frank Gastineau
+jstevenson@vizpainter.com,4128,8/17/2016,9/24/2016,JL-15835,Delta,225,DFW-JFK,Economy,372,Jill Stevenson
+,7039,8/21/2019,9/27/2019,PB-19105,United,135,DFW-CMH,Economy,563,Neil Ducich
+mhuthwaite@vizpainter.com,7297,3/22/2016,5/5/2016,NC-18340,United,301,DFW-BUR,Business,534,Michelle Huthwaite
+bmoss@vizpainter.com,8573,11/13/2016,12/2/2016,BT-11680,United,342,DFW-CHS,Business,110,Brian Moss
+abellavance@vizpainter.com,8005,10/19/2016,12/3/2016,AA-10645,United,266,DFW-MCO,Business,4,Adam Bellavance
+lpreis@vizpainter.com,6796,11/1/2017,11/20/2017,MC-17605,American,274,DFW-MCO,Business,472,Liz Preis
+jmolinari@vizpainter.com,2973,9/23/2019,11/9/2019,JF-15565,American (AA),335,DFW-JFK,Business,350,Janet Molinari
+nchilds@vizpainter.com,6147,10/18/2019,11/24/2019,PJ-18835,Delta,98,DFW-CMH,Economy,574,Noah Childs
+ehernandez@vizpainter.com,2889,10/16/2019,12/19/2019,EP-13915,American (AA),358,DFW-COS,Business,266,Erica Hernandez
+jdeggeller@vizpainter.com,2542,2/24/2018,5/4/2018,KD-16615,Delta,182,DFW-MCO,Economy,409,Justin Deggeller
+dmartin@vizpainter.com,1252,11/13/2019,12/24/2019,DJ-13630,United,241,DFW-CMH,Economy,200,Darrin Martin
+awitt@vizpainter.com,6257,6/28/2017,9/8/2017,AT-10435,American Airlines,164,DFW-SEA,Business,56,Anthony Witt
+lryan@vizpainter.com,4850,9/7/2016,9/14/2016,MC-17275,Delta,183,DFW-CMH,Economy,468,Lisa Ryan
+mabelman@vizpainter.com,3193,4/27/2019,6/7/2019,ML-18040,Delta,161,DFW-SEA,Business,503,Matt Abelman
+lshagiari@vizpainter.com,9356,11/18/2017,12/5/2017,MA-17560,United,196,DFW-CMH,Business,464,Lindsay Shagiari
+cludwig@vizpainter.com,1264,9/1/2018,10/2/2018,CC-12220,Delta,302,DFW-SAN,Economy,125,Carl Ludwig
+aandreadi@vizpainter.com,4582,8/26/2018,9/22/2018,AP-10720,American (AA),338,DFW-MCO,Economy,43,Anna Andreadi
+kharms@vizpainter.com,9701,11/24/2019,12/19/2019,KM-16660,AA,405,DFW-SAN,1st Class,421,Katharine Harms
+fharton@vizpainter.com,1523,9/22/2017,12/11/2017,GH-14425,United,133,DFW-COS,Economy,289,Fred Harton
+arussell@vizpainter.com,9314,10/20/2017,11/11/2017,AG-10495,American Airlines,315,DFW-JFK,Economy,23,Alex Russell
+tturnell@vizpainter.com,4481,8/27/2018,11/8/2018,XP-21865,AA,479,DFW-BUR,1st Class,762,Tonja Turnell
+dlawera@vizpainter.com,1270,3/11/2019,6/8/2019,DC-12850,United,155,DFW-COS,Economy,190,Dan Lawera
+qjones@vizpainter.com,6003,11/25/2016,12/17/2016,RF-19345,United,123,DFW-SEA,Economy,616,Quincy Jones
+sweien@vizpainter.com,4659,4/24/2017,5/7/2017,SV-20785,United,161,DFW-COS,Economy,696,Shaun Weien
+ebraxton@vizpainter.com,8694,10/15/2018,10/28/2018,ED-13885,Delta,190,DFW-HIO,Economy,246,Ed Braxton
+ejacobs@vizpainter.com,5038,10/23/2019,11/21/2019,EG-13900,Delta,161,DFW-HIO,Economy,247,Ed Jacobs
+arosenblatt@vizpainter.com,9163,11/3/2018,12/12/2018,AG-10900,American,315,DFW-SLC,Economy,27,Allen Rosenblatt
+pchand@vizpainter.com,8153,1/18/2019,3/25/2019,RB-19360,United,257,DFW-COS,Business,599,Pauline Chand
+onelson@vizpainter.com,884,8/20/2018,10/24/2018,PM-19135,Delta,203,DFW-MCO,Economy,580,Odella Nelson
+jgalang@vizpainter.com,831,4/29/2019,6/21/2019,JE-15745,United,491,DFW-GRB,1st Class,343,James Galang
+jkimmel@vizpainter.com,304,10/15/2019,11/23/2019,JH-15910,Delta,242,DFW-ELP,Economy,357,Jay Kimmel
+rcrowe@vizpainter.com,1563,5/16/2019,6/30/2019,SG-20470,Delta,96,DFW-ELP,Economy,663,Ryan Crowe
+habelman@vizpainter.com,6988,5/30/2018,9/5/2018,JA-15970,United,156,DFW-SEA,Economy,326,Helen Abelman
+mo'connel@vizpainter.com,1276,3/23/2018,5/26/2018,MS-17710,United,282,DFW-COS,Business,519,Meg O'Connel
+mmorse@vizpainter.com,4577,10/10/2018,12/18/2018,MG-17650,Delta,457,DFW-JFK,Business,483,Magdelene Morse
+ccheatham@vizpainter.com,6706,4/24/2017,6/28/2017,CS-12355,United,299,DFW-SAN,Business,169,Clay Cheatham
+dmedina@vizpainter.com,5746,2/24/2019,3/30/2019,DH-13075,United,374,DFW-MCO,Business,196,Dario Medina
+ttaslimi@vizpainter.com,1379,7/27/2016,8/9/2016,VD-21670,United,196,DFW-SAN,Economy,750,Tim Taslimi
+hflentye@vizpainter.com,1622,6/19/2019,7/15/2019,JC-15385,United,152,DFW-IAD,Economy,332,Herbert Flentye
+ebarreto@vizpainter.com,1747,6/20/2018,8/17/2018,EM-14065,American (AA),58,DFW-SEA,Economy,261,Eric Barreto
+asmayling@vizpainter.com,7703,4/30/2018,9/2/2018,AA-10480,Delta,91,DFW-COS,Economy,3,Aaron Smayling
+gthornton@vizpainter.com,9591,4/22/2016,5/15/2016,HD-14785,Delta,445,DFW-SEA,1st Class,308,Grant Thornton
+jcastell@vizpainter.com,1713,1/8/2017,2/4/2017,JP-15520,United,195,DFW-COS,Business,384,John Castell
+bcastell@vizpainter.com,9879,3/24/2019,4/21/2019,BE-11455,American Airlines,220,DFW-SAN,Economy,75,Becky Castell
+iliston@vizpainter.com,8711,8/31/2016,11/18/2016,JD-16150,United,548,DFW-JFK,1st Class,339,Ivan Liston
+kferguson@vizpainter.com,4674,6/24/2018,8/6/2018,KL-16645,American Airlines,280,DFW-SAN,Economy,418,Karen Ferguson
+sperrino,4882,10/13/2019,11/4/2019,TB-21175,Delta,322,DFW-HIO,Economy,707,Stefania Perrino
+pkriz@vizpainter.com,5690,10/8/2017,12/31/2017,RB-19705,United,387,DFW-SLC,Economy,604,Pete Kriz
+bspruell@vizpainter.com,9815,9/24/2018,11/30/2018,CB-12025,Delta,120,DFW-SEA,Economy,120,Bryan Spruell
+kferguson@vizpainter.com,4418,1/24/2019,4/12/2019,KL-16645,Delta,65,DFW-SEA,Economy,418,Karen Ferguson
+ckastensmidt@vizpainter.com,1631,3/28/2018,5/8/2018,CL-12565,AA,577,DFW-JFK,1st Class,146,Chloris Kastensmidt
+jbell-@vizpainter.com,2687,9/1/2018,9/11/2018,KB-16315,Delta,153,DFW-SEA,Economy,399,Joy Bell-
+mhuthwaite@vizpainter.com,1150,3/21/2017,4/4/2017,NC-18340,Delta,169,DFW-SAN,Economy,534,Michelle Huthwaite
+atate@vizpainter.com,1570,11/5/2019,11/29/2019,AH-10075,Delta,152,DFW-CMH,Economy,29,Alyssa Tate
+dbadders@vizpainter.com,5572,11/25/2016,12/9/2016,EA-14035,Delta,178,DFW-COS,Economy,236,Dorothy Badders
+rskaria@vizpainter.com,1446,6/5/2019,6/16/2019,SD-20485,Delta,411,DFW-JFK,Business,657,Roy Skaria
+tprescott@vizpainter.com,1520,1/24/2019,2/13/2019,VW-21775,United,40,DFW-SEA,Economy,760,Tom Prescott
+sbern@vizpainter.com,4052,9/6/2016,10/3/2016,SM-20950,American Airlines,161,DFW-CMH,Economy,677,Sarah Bern
+ehernandez@vizpainter.com,5133,4/5/2017,6/27/2017,EP-13915,Delta,408,DFW-SAN,Business,266,Erica Hernandez
+kbrennan@vizpainter.com,7426,5/26/2018,6/27/2018,LC-17140,AA,373,DFW-SLC,Business,439,Ken Brennan
+rphan@vizpainter.com,2013,10/26/2017,12/11/2017,SC-20800,American,386,DFW-JFK,Business,656,Roy Phan
+ltron@vizpainter.com,8197,8/12/2019,9/9/2019,LP-17095,Delta,379,DFW-HIO,Business,450,Larry Tron
+pgardner@vizpainter.com,8332,1/13/2018,3/12/2018,PS-18760,Delta,281,DFW-JFK,Economy,587,Patrick Gardner
+mreese@vizpainter.com,1764,7/20/2018,8/8/2018,ML-17755,Delta,147,DFW-DSM,Economy,502,Mathew Reese
+schance@vizpainter.com,6096,8/29/2019,9/26/2019,SV-20365,United,161,DFW-COS,Business,695,Shaun Chance
+dpowers@vizpainter.com,2533,5/29/2016,8/21/2016,DJ-13510,Delta,296,DFW-BUR,Business,199,Darren Powers
+azypern@vizpainter.com,7850,4/20/2018,5/6/2018,AS-10090,United,276,DFW-JFK,Economy,50,Annie Zypern
+ajones@vizpainter.com,2312,4/16/2019,6/12/2019,BC-11125,United,162,DFW-CMH,Economy,64,Astrea Jones
+mhamilton@vizpainter.com,4923,10/13/2019,12/29/2019,MH-18115,Delta,133,DFW-BUR,Economy,496,Mark Hamilton
+eludwig@vizpainter.com,4896,12/2/2018,12/29/2018,EH-13765,United,196,DFW-MEM,Business,248,Ed Ludwig
+cvanderzanden@vizpainter.com,5863,3/10/2018,5/4/2018,CM-12235,Delta,238,DFW-COS,Economy,152,Christina VanderZanden
+smatthias@vizpainter.com,3621,8/29/2018,9/28/2018,SH-19975,Delta,502,DFW-CMH,1st Class,666,Sally Matthias
+mcrebagga@vizpainter.com,2000,1/19/2016,2/9/2016,ND-18460,Delta,146,DFW-SAN,Economy,539,Mick Crebagga
+nfjeld@vizpainter.com,5700,8/8/2019,11/8/2019,PG-18895,Delta,214,DFW-COS,Economy,572,Nicole Fjeld
+sphelps@vizpainter.com,3667,11/25/2016,12/13/2016,TB-21250,American,289,DFW-SAN,Economy,709,Stephanie Phelps
+jbarnett@vizpainter.com,980,9/4/2017,12/12/2017,KB-16600,Delta,254,DFW-COS,Economy,402,Julia Barnett
+cmcmahon@vizpainter.com,6123,9/17/2019,12/9/2019,CB-12415,United,269,DFW-JFK,Economy,121,Candace McMahon
+lolson@vizpainter.com,9714,10/10/2016,11/10/2016,MD-17350,Delta,279,DFW-HIO,Economy,477,Lori Olson
+dlloyd@vizpainter.com,7003,7/25/2016,8/21/2016,DW-13195,United,278,DFW-MCO,Economy,232,Dionis Lloyd
+cschnelling@vizpainter.com,3130,10/30/2016,12/17/2016,CC-12100,United,317,DFW-SLC,Economy,123,Cari Schnelling
+csachs@vizpainter.com,9512,10/5/2016,12/16/2016,CS-11845,United,188,DFW-SEA,Economy,163,Chuck Sachs
+mjones@vizpainter.com,2814,10/16/2017,11/18/2017,MP-18175,United,296,DFW-HIO,Economy,515,Max Jones
+klampkin@vizpainter.com,4087,6/25/2018,8/5/2018,LC-16930,American (AA),209,DFW-SEA,Economy,436,Kelly Lampkin
+asd,9590,2/27/2016,5/15/2016,HD-14785,Delta,243,DFW-COS,Economy,308,Grant Thornton
+metezadi@vizpainter.com,5546,9/3/2019,9/26/2019,MG-17890,Delta,376,DFW-JFK,Business,487,Maria Etezadi
+kmiller@vizpainter.com,5351,10/7/2019,12/16/2019,LH-16900,United,394,DFW-COS,1st Class,443,Khloe Miller
+tcoyne,7892,9/2/2018,12/29/2018,TS-21655,Delta,301,DFW-MCO,Economy,742,Theresa Coyne
+jferguson@vizpainter.com,8162,8/23/2017,10/3/2017,JJ-15445,Delta,126,DFW-GRB,Economy,360,Jennifer Ferguson
+mmorse@vizpainter.com,6205,11/9/2019,12/3/2019,MG-17650,American (AA),280,DFW-MCO,Business,483,Magdelene Morse
+sphelps@vizpainter.com,6030,10/7/2018,11/15/2018,TB-21250,Delta,148,DFW-CMH,Economy,709,Stephanie Phelps
+kandreada@vizpainter.com,9756,3/4/2019,3/29/2019,LC-16870,American,451,DFW-JFK,Business,434,Kelly Andreada
+jfrazer@vizpainter.com,6142,5/27/2019,7/15/2019,JF-15190,United,392,DFW-JFK,Economy,345,Jamie Frazer
+tchand@vizpainter.com,2057,9/23/2019,12/25/2019,TP-21130,American Airlines,455,DFW-SLC,Business,731,Tamara Chand
+lcacioppo@vizpainter.com,4080,11/19/2017,12/24/2017,LS-17245,Delta,240,DFW-SAN,Economy,457,Lena Cacioppo
+kdana@vizpainter.com,9021,12/1/2016,12/18/2016,LE-16810,American,544,DFW-MCO,1st Class,440,Ken Dana
+knunn@vizpainter.com,7457,2/17/2017,4/18/2017,LL-16840,American Airlines,323,DFW-SAN,Business,446,Kristina Nunn
+imaddox@vizpainter.com,8755,9/5/2019,9/10/2019,JD-16015,American (AA),71,DFW-SEA,Economy,337,Irene Maddox
+kthornton@vizpainter.com,3210,11/10/2017,1/15/2018,LA-16780,United,233,DFW-SAN,Economy,431,Kean Thornton
+gdortch@vizpainter.com,8302,7/24/2019,7/31/2019,GZ-14545,United,187,DFW-HIO,Economy,305,Giulietta Dortch
+dwilson@vizpainter.com,5342,10/13/2017,11/14/2017,DV-13465,American Airlines,194,DFW-HIO,Economy,231,Dianna Wilson
+hredmond@vizpainter.com,4562,9/6/2017,12/9/2017,HM-14860,Delta,162,DFW-SAN,Economy,317,Hallie Redmond
+scohen@vizpainter.com,6711,11/17/2018,12/11/2018,SP-20650,American Airlines,290,DFW-SEA,1st Class,683,Scott Cohen
+jfrazer@vizpainter.com,6143,5/29/2019,7/15/2019,JF-15190,American Airlines,236,DFW-SAN,Economy,345,Jamie Frazer
+jlebron@vizpainter.com,3121,5/1/2017,6/12/2017,JE-15610,United,492,DFW-MCO,1st Class,341,Jack Lebron
+swendt@vizpainter.com,9333,8/1/2019,9/13/2019,SS-20410,United,264,DFW-GRB,Business,689,Sean Wendt
+btrafton@vizpainter.com,8936,6/3/2019,8/27/2019,BP-11185,AA,335,DFW-HIO,Business,96,Bobby Trafton
+povercash@vizpainter.com,7910,9/23/2018,12/7/2018,RD-19720,United,258,DFW-CMH,Economy,611,Philisse Overcash
+cgute@vizpainter.com,4190,9/6/2018,9/30/2018,CS-12175,United,255,DFW-COS,Economy,167,Claire Gute
+pvan@vizpainter.com,4150,9/25/2019,10/28/2019,RB-19330,Delta,208,DFW-HIO,Economy,598,Paul Van Hugh
+moakman@vizpainter.com,6864,11/26/2019,12/7/2019,MY-17380,United,215,DFW-COS,Economy,529,Michael Oakman
+mcollins@vizpainter.com,5402,8/14/2019,9/23/2019,ML-18265,Delta,301,DFW-HIO,Economy,504,Matt Collins
+pprost@vizpainter.com,3746,8/25/2018,9/28/2018,RA-19915,United,422,DFW-JFK,Business,596,Paul Prost
+bdonatelli@vizpainter.com,5399,9/5/2018,10/1/2018,BM-11650,Delta,120,DFW-SEA,Economy,88,Bill Donatelli
+lradford@vizpainter.com,6804,11/30/2018,12/31/2018,LW-16825,United,321,DFW-SLC,Economy,460,Lena Radford
+mkennedy@vizpainter.com,6318,11/1/2016,11/29/2016,NG-18355,American Airlines,87,DFW-COS,Economy,543,Mike Kennedy
+mfritzler@vizpainter.com,4304,8/13/2018,10/4/2018,MO-17500,Delta,245,DFW-MEM,Economy,510,Maureen Fritzler
+ebarreto@vizpainter.com,484,6/15/2016,7/27/2016,EM-14065,Delta,282,DFW-HIO,Economy,261,Eric Barreto
+pryan@vizpainter.com,8733,6/19/2019,6/28/2019,PW-19030,Delta,212,DFW-COS,Business,591,Patrick Ryan
+rcrowe@vizpainter.com,5549,10/22/2016,12/1/2016,SG-20470,United,308,DFW-GRB,Business,663,Ryan Crowe
+mhuthwaite@vizpainter.com,4365,5/5/2019,5/22/2019,NC-18340,American Airlines,359,DFW-JFK,Business,534,Michelle Huthwaite
+rmarley@vizpainter.com,4841,9/23/2019,11/25/2019,SC-20050,United,445,DFW-MCO,1st Class,644,Robert Marley
+mjones@vizpainter.com,4835,9/26/2019,10/10/2019,MP-18175,Delta,65,DFW-SEA,Economy,515,Max Jones
+mschwartz@vizpainter.com,2081,11/1/2017,12/29/2017,MS-17365,United,372,DFW-SAN,1st Class,517,Maxwell Schwartz
+ccunningham@vizpainter.com,8667,11/11/2018,1/1/2019,CJ-11875,American,159,DFW-CMH,Economy,139,Chad Cunningham
+cbergmann@vizpainter.com,5195,11/14/2016,12/1/2016,CS-12250,Delta,176,DFW-CMH,Economy,168,Claudia Bergmann
+hholden@vizpainter.com,9415,9/5/2017,10/22/2017,JC-15775,United,206,DFW-SAN,Economy,333,Hilary Holden
+beason@vizpainter.com,5682,7/10/2018,9/30/2018,BP-11230,American,141,DFW-COS,Economy,97,Brad Eason
+jmatthias@vizpainter.com,356,4/2/2018,4/13/2018,JL-15505,United,227,DFW-MEM,Business,371,Jill Matthias
+jgross@vizpainter.com,5666,7/4/2018,7/21/2018,JG-15310,Delta,464,DFW-JFK,Business,353,Jason Gross
+rfranzösisch@vizpainter.com,3615,10/2/2019,11/20/2019,SC-20770,Delta,147,DFW-ELP,Economy,655,Roy Französisch
+smackendrick@vizpainter.com,9216,9/30/2018,11/25/2018,TH-21235,United,314,DFW-COS,Business,726,Susan MacKendrick
+shopkins@vizpainter.com,5769,1/26/2017,3/1/2017,SS-20875,Delta,348,DFW-IAD,Business,692,Shahid Hopkins
+kbrennan@vizpainter.com,7427,6/4/2018,6/27/2018,LC-17140,Delta,323,DFW-MCO,Economy,439,Ken Brennan
+jelijah@vizpainter.com,7181,11/27/2015,1/7/2016,JO-15145,American,482,DFW-CMH,1st Class,380,Joe Elijah
+jradford@vizpainter.com,2619,11/10/2019,12/25/2019,JM-15655,Delta,98,DFW-CMH,Economy,377,Jim Radford
+hgreene@vizpainter.com,6420,9/12/2018,11/4/2018,HW-14935,Delta,274,DFW-SLC,Economy,322,Harry Greene
+jpistek@vizpainter.com,5786,9/16/2019,10/8/2019,JK-16090,Delta,197,DFW-DSM,Business,367,Jeremy Pistek
+dordway@vizpainter.com,6366,1/30/2019,4/5/2019,DS-13030,AA,346,DFW-SAN,Business,228,Denny Ordway
+nmautz@vizpainter.com,5901,10/6/2017,11/24/2017,PB-18805,American Airlines,388,DFW-SEA,1st Class,562,Nathan Mautz
+sulpright@vizpainter.com,4413,5/7/2016,6/24/2016,TB-21280,Delta,330,DFW-SAN,Business,710,Stephanie Ulpright
+cphan@vizpainter.com,1489,10/10/2017,11/7/2017,CM-12655,AA,314,DFW-MCO,Business,155,Christine Phan
+kandreada@vizpainter.com,7220,3/19/2017,5/6/2017,LC-16870,United,186,DFW-SEA,Economy,434,Kelly Andreada
+dbrumfield@vizpainter.com,8027,9/1/2017,9/15/2017,DM-13525,Delta,241,DFW-JFK,Economy,217,Deborah Brumfield
+po'donnell@vizpainter.com,8315,5/28/2016,7/16/2016,PV-18985,Delta,197,DFW-BUR,Economy,590,Patrick O'Donnell
+scalhoun@vizpainter.com,3049,2/12/2019,4/4/2019,TC-21475,Delta,334,DFW-ELP,Business,719,Stuart Calhoun
+schance@vizpainter.com,6094,6/30/2019,9/26/2019,SV-20365,Delta,228,DFW-HIO,Economy,695,Shaun Chance
+dmiller@vizpainter.com,3967,3/25/2018,4/6/2018,DW-13540,American (AA),224,DFW-CMH,Economy,234,Don Miller
+jlonsdale@vizpainter.com,4492,11/3/2016,12/3/2016,JK-15730,American,181,DFW-LNK,Economy,366,Jeremy Lonsdale
+svittorini@vizpainter.com,2751,7/15/2016,8/11/2016,TM-21010,United,600,DFW-JFK,1st Class,728,Susan Vittorini
+lshagiari@vizpainter.com,5962,7/9/2016,11/13/2016,MA-17560,United,214,DFW-SAN,Economy,464,Lindsay Shagiari
+ccrestani@vizpainter.com,9347,2/5/2019,2/20/2019,CK-12325,Delta,179,DFW-MCO,Economy,142,Charles Crestani
+mjones@vizpainter.com,4728,11/1/2016,11/29/2016,MP-18175,United,92,DFW-BUF,Economy,515,Max Jones
+kferguson@vizpainter.com,3230,7/20/2016,8/16/2016,KL-16645,United,296,DFW-JFK,Economy,418,Karen Ferguson
+thudgings@vizpainter.com,7725,9/12/2018,9/29/2018,TS-21505,Delta,375,DFW-GRB,Business,740,Thea Hudgings
+sflanagan@vizpainter.com,3273,11/29/2016,2/16/2017,SJ-20215,Delta,472,DFW-SLC,Business,670,Sandra Flanagan
+mchen@vizpainter.com,3851,11/23/2017,12/9/2017,MS-17980,American Airlines,426,DFW-COS,1st Class,522,Michael Chen
+dpercer@vizpainter.com,5129,8/15/2016,9/14/2016,DM-13015,Delta,285,DFW-SAN,Business,215,Dean percer
+kharms@vizpainter.com,9700,12/5/2019,12/19/2019,KM-16660,AA,187,DFW-GRB,Economy,421,Katharine Harms
+rpölking@vizpainter.com,1836,5/26/2016,6/24/2016,RM-19375,American Airlines,260,DFW-CMH,Business,625,Resi Pölking
+rdemir@vizpainter.com,2357,6/23/2017,9/2/2017,SC-20260,AA,260,DFW-CHS,Business,647,Roger Demir
+nfjeld@vizpainter.com,7265,4/6/2019,6/17/2019,PG-18895,United,225,DFW-CMH,Business,572,Nicole Fjeld
+ahwang@vizpainter.com,9530,1/24/2019,3/24/2019,AC-10615,United,386,DFW-JFK,Economy,14,Alan Hwang
+tsissman@vizpainter.com,988,1/17/2017,3/10/2017,TS-21340,American (AA),178,DFW-SEA,Economy,738,Thais Sissman
+sbraxton@vizpainter.com,4047,9/3/2019,10/25/2019,SP-20920,American,223,DFW-GRB,Economy,685,Sean Braxton
+pflathmann@vizpainter.com,8219,8/13/2016,10/7/2016,RD-19930,Delta,204,DFW-MCO,Economy,614,Phillip Flathmann
+bdrucker@vizpainter.com,7539,10/28/2019,12/5/2019,BS-11380,United,236,DFW-JFK,Economy,100,Bradley Drucker
+asteele@vizpainter.com,6588,4/13/2019,7/27/2019,AM-10705,Delta,231,DFW-BUF,Economy,42,Ann Steele
+scoram@vizpainter.com,1273,2/23/2018,4/26/2018,SP-20545,United,326,DFW-SEA,Business,681,Scot Coram
+jkriz@vizpainter.com,55,11/22/2018,12/16/2018,JM-15265,Delta,284,DFW-SAN,Economy,375,Jim Kriz
+bfranz@vizpainter.com,9553,5/15/2017,6/3/2017,BD-11560,Delta,382,DFW-HIO,Business,67,Barry Franz
+creiter@vizpainter.com,9956,11/12/2017,12/16/2017,DB-12970,United,228,DFW-ELP,Business,181,Craig Reiter
+pgardner@vizpainter.com,6810,8/30/2019,9/15/2019,PS-18760,United,62,DFW-SEA,Economy,587,Patrick Gardner
+scompany@vizpainter.com,4564,8/26/2019,9/30/2019,SJ-20125,United,456,DFW-SLC,Economy,669,Sample Company A
+pbzostek@vizpainter.com,3637,8/28/2018,11/14/2018,PP-18955,American,229,DFW-COS,Business,586,Patrick Bzostek
+scooley@vizpainter.com,3848,8/6/2019,11/27/2019,SZ-20035,Delta,325,DFW-JFK,Economy,704,Sonia Cooley
+jstevenson@vizpainter.com,7518,9/22/2019,12/12/2019,JL-15835,American,300,DFW-HIO,Economy,372,Jill Stevenson
+so'donnell@vizpainter.com,3709,9/11/2016,11/27/2016,SS-20140,American,292,DFW-GRB,Business,688,Sean O'Donnell
+sphelps@vizpainter.com,3449,9/6/2018,10/13/2018,TB-21250,Delta,184,DFW-SEA,Business,709,Stephanie Phelps
+sgilcrest@vizpainter.com,5503,10/22/2019,11/5/2019,TH-21115,American,209,DFW-MCO,Economy,725,Susan Gilcrest
+beplett@vizpainter.com,4763,11/16/2018,1/4/2019,BM-11785,American (AA),75,DFW-DSM,Economy,89,Bill Eplett
+jjackson@vizpainter.com,1710,9/28/2019,11/5/2019,JK-15205,American Airlines,338,DFW-SLC,Economy,362,Jennifer Jackson
+darnett@vizpainter.com,4617,8/18/2017,9/7/2017,DS-13180,Delta,425,DFW-HIO,Business,229,Dianna Arnett
+emurdock@vizpainter.com,7473,3/26/2018,7/3/2018,EM-14140,United,288,DFW-LNK,Business,263,Eric Murdock
+sknutson@vizpainter.com,4189,4/8/2019,5/22/2019,SG-20890,Delta,326,DFW-JFK,Business,665,Sally Knutson
+pgardner@vizpainter.com,8335,1/17/2018,3/12/2018,PS-18760,Delta,57,DFW-SEA,Economy,587,Patrick Gardner
+ahwang@vizpainter.com,1950,8/29/2019,9/5/2019,AC-10615,American (AA),210,DFW-GRB,Economy,14,Alan Hwang
+rhightower@vizpainter.com,8116,8/10/2019,9/3/2019,RW-19540,American (AA),343,DFW-MCO,Business,636,Ritsa Hightower
+lwillingham@vizpainter.com,3645,11/21/2016,12/23/2016,MC-17845,Delta,328,DFW-CMH,Business,474,Liz Willingham
+againer@vizpainter.com,2964,11/18/2019,12/20/2019,AY-10555,AA,394,DFW-SLC,Economy,60,Arthur Gainer
+dpowers@vizpainter.com,2857,8/10/2018,8/28/2018,DJ-13510,United,490,DFW-SLC,Business,199,Darren Powers
+gmcgarr@vizpainter.com,1286,4/23/2018,7/3/2018,GM-14500,American Airlines,424,DFW-JFK,Business,295,Gary McGarr
+ashonely@vizpainter.com,1287,6/7/2017,7/8/2017,AD-10180,United,87,DFW-CMH,Economy,16,Alan Shonely
+hryan@vizpainter.com,2565,3/10/2017,3/22/2017,HR-14830,United,420,DFW-JFK,Business,321,Harold Ryan
+ttrevino@vizpainter.com,8702,2/23/2019,6/19/2019,TS-21205,Delta,390,DFW-JFK,Economy,737,Ted Trevino
+mbrown@vizpainter.com,1703,6/8/2017,7/15/2017,ND-18370,Delta,184,DFW-COS,Economy,538,Mick Brown
+sbraxton@vizpainter.com,3971,7/31/2016,11/26/2016,SP-20920,United,453,DFW-COS,1st Class,685,Sean Braxton
+hredmond@vizpainter.com,4563,11/10/2017,12/9/2017,HM-14860,Delta,333,DFW-MCO,Economy,317,Hallie Redmond
+ncrebassa@vizpainter.com,5919,8/27/2017,9/23/2017,PF-19120,American Airlines,104,DFW-BUF,Economy,568,Nick Crebassa
+ccarreira@vizpainter.com,490,3/22/2016,6/13/2016,CW-11905,United,239,DFW-HIO,Economy,177,Craig Carreira
+tboland@vizpainter.com,2525,2/27/2017,4/10/2017,TT-21220,American Airlines,174,DFW-CMH,Business,744,Thomas Boland
+rcrowe@vizpainter.com,7341,6/25/2016,8/1/2016,SG-20470,United,669,DFW-SLC,1st Class,663,Ryan Crowe
+gthornton@vizpainter.com,8537,5/26/2017,6/11/2017,HD-14785,Delta,300,DFW-SEA,Business,308,Grant Thornton
+scompany@vizpainter.com,7807,8/24/2017,9/26/2017,SJ-20125,United,52,DFW-SEA,Economy,669,Sample Company A
+lolson@vizpainter.com,7522,8/20/2018,9/11/2018,MD-17350,Delta,196,DFW-SEA,Economy,477,Lori Olson
+mellison@vizpainter.com,9007,10/29/2019,11/18/2019,NB-18655,United,368,DFW-JFK,Economy,533,Michelle Ellison
+educich@vizpainter.com,2855,7/14/2019,8/20/2019,EM-13810,Delta,250,DFW-JFK,Economy,258,Emily Ducich
+hdahlen@vizpainter.com,71,6/3/2018,9/23/2018,HM-14980,American Airlines,298,DFW-SEA,1st Class,318,Harold Dahlen
+pflathmann@vizpainter.com,8222,9/25/2016,10/7/2016,RD-19930,Delta,142,DFW-BUR,Economy,614,Phillip Flathmann
+ashami@vizpainter.com,4317,5/20/2017,7/1/2017,AB-10165,United,489,DFW-JFK,Business,9,Adrian Shami
+rhightower@vizpainter.com,1421,8/31/2017,9/30/2017,RW-19540,United,376,DFW-SEA,1st Class,636,Ritsa Hightower
+cstewart@vizpainter.com,2692,6/17/2018,9/2/2018,CS-12130,American Airlines,112,DFW-COS,Economy,166,Cindy Stewart
+dsmith@vizpainter.com,6677,8/11/2017,11/23/2017,DL-13330,Delta,235,DFW-GRB,Business,211,David Smith
+mseite@vizpainter.com,755,11/6/2017,12/12/2017,MS-17830,American Airlines,290,DFW-MCO,Economy,521,Melanie Seite
+rpayne@vizpainter.com,993,7/18/2018,8/27/2018,RF-19735,United,294,DFW-BUR,Business,617,Rachel Payne
+ltron@vizpainter.com,8199,7/1/2019,9/9/2019,LP-17095,American,204,DFW-COS,Economy,450,Larry Tron
+cschnelling@vizpainter.com,6471,5/3/2017,9/2/2017,CC-12100,American (AA),529,DFW-SAN,1st Class,123,Cari Schnelling
+snorling@vizpainter.com,1208,6/15/2018,7/17/2018,SW-20755,American Airlines,190,DFW-SEA,Economy,703,Skye Norling
+ebraxton@vizpainter.com,8668,12/1/2018,12/24/2018,ED-13885,American (AA),71,DFW-SEA,Economy,246,Ed Braxton
+dlawera@vizpainter.com,7901,7/21/2019,8/18/2019,DC-12850,American (AA),412,DFW-HIO,1st Class,190,Dan Lawera
+knunn@vizpainter.com,1816,5/19/2017,6/4/2017,LL-16840,AA,244,DFW-IAD,Business,446,Kristina Nunn
+rdemir@vizpainter.com,6940,6/13/2019,6/29/2019,SC-20260,American (AA),78,DFW-SEA,Economy,647,Roger Demir
+mhernandez@vizpainter.com,3151,12/7/2017,12/18/2017,NF-18385,American Airlines,449,DFW-HIO,1st Class,540,Mick Hernandez
+sbrown@vizpainter.com,8862,8/26/2017,9/18/2017,SN-20560,Delta,253,DFW-MCO,Economy,678,Sarah Brown
+jcastell@vizpainter.com,473,10/10/2016,11/11/2016,JP-15520,United,293,DFW-BUF,Business,384,John Castell
+rskaria@vizpainter.com,428,7/24/2016,9/13/2016,SD-20485,Delta,143,DFW-CHS,Economy,657,Roy Skaria
+dmedina@vizpainter.com,3703,5/16/2017,6/19/2017,DH-13075,Delta,115,DFW-CMH,Economy,196,Dario Medina
+mhagelstein@vizpainter.com,8360,3/26/2016,4/18/2016,MM-18055,American (AA),193,DFW-HIO,Economy,507,Matt Hagelstein
+bgeld@vizpainter.com,4488,7/27/2017,9/11/2017,CA-12055,Delta,46,DFW-SEA,Economy,116,Bruce Geld
+hryan@vizpainter.com,1188,10/23/2016,11/30/2016,HR-14830,AA,308,DFW-JFK,Economy,321,Harold Ryan
+csundaresam@vizpainter.com,8782,2/20/2017,3/4/2017,CM-12715,Delta,165,DFW-BUF,Economy,156,Christine Sundaresam
+fmcadams@vizpainter.com,7782,2/1/2017,3/12/2017,FO-14305,American,232,DFW-SEA,Economy,280,Filia McAdams
+cmccrossin@vizpainter.com,3293,9/21/2016,12/30/2016,CK-12595,United,276,DFW-DSM,Business,143,Charles McCrossin
+crozendal@vizpainter.com,2466,10/10/2019,12/9/2019,CS-12460,Delta,315,DFW-IAD,Business,171,Clay Rozendal
+againer@vizpainter.com,8908,11/14/2018,12/19/2018,AY-10555,Delta,200,DFW-SAN,Economy,60,Arthur Gainer
+rmarley@vizpainter.com,9771,11/10/2018,11/30/2018,SC-20050,United,318,DFW-COS,1st Class,644,Robert Marley
+ldecherney@vizpainter.com,2563,11/28/2017,12/31/2017,MB-17305,American (AA),249,DFW-COS,Economy,466,Lisa DeCherney
+scollister@vizpainter.com,5358,7/4/2016,8/11/2016,SS-20590,Delta,202,DFW-HIO,Economy,691,Shahid Collister
+rmurray@vizpainter.com,4756,11/17/2018,2/8/2019,SC-20380,American (AA),312,DFW-COS,Business,649,Roland Murray
+po'brill@vizpainter.com,1156,11/3/2016,12/21/2016,PS-19045,American,176,DFW-ELP,Business,589,Patrick O'Brill
+mlee@vizpainter.com,1585,6/18/2017,8/12/2017,NP-18325,United,420,DFW-MCO,Business,550,Muhammed Lee
+abergman@vizpainter.com,1300,7/16/2017,10/7/2017,AA-10315,Delta,290,DFW-JFK,Economy,1,Aaron Bergman
+gmatthias@vizpainter.com,6920,4/23/2017,5/28/2017,HG-14965,Delta,219,DFW-SEA,Economy,311,Greg Matthias
+cdarley@vizpainter.com,4497,6/1/2019,6/23/2019,CC-12670,United,198,DFW-COS,Business,131,Carol Darley
+dcampbell@vizpainter.com,6324,2/26/2016,6/23/2016,DB-13660,American Airlines,233,DFW-CHS,Economy,189,Dan Campbell
+mwillingham@vizpainter.com,320,10/19/2016,11/9/2016,NM-18445,AA,255,DFW-SAN,Economy,548,Mitch Willingham
+rdemir@vizpainter.com,6941,5/26/2019,6/29/2019,SC-20260,Delta,435,DFW-DSM,1st Class,647,Roger Demir
+remerson@vizpainter.com,6269,8/27/2017,10/4/2017,RM-19675,Delta,254,DFW-SEA,Business,626,Ricardo Emerson
+mvan@vizpainter.com,9285,10/29/2016,11/23/2016,MK-17905,American Airlines,499,DFW-SLC,Business,498,Mark Van Huff
+nzandusky@vizpainter.com,2475,8/13/2018,11/6/2018,PF-19225,United,315,DFW-HIO,Economy,570,Nick Zandusky
+aratner@vizpainter.com,4042,12/22/2016,1/2/2017,AJ-10795,Delta,276,DFW-SAN,Economy,38,Anemone Ratner
+klonsdale@vizpainter.com,7103,8/31/2016,9/24/2016,LH-16750,United,214,DFW-SEA,Economy,442,Ken Lonsdale
+bpak@vizpainter.com,7050,9/23/2016,9/30/2016,BF-11005,AA,157,DFW-CMH,Economy,77,Becky Pak
+sperrino@vizpainter.com,9135,12/25/2017,4/17/2018,TB-21175,United,361,DFW-JFK,Economy,707,Stefania Perrino
+fmerwin,6177,8/12/2017,9/26/2017,GB-14575,American Airlines,368,DFW-JFK,Business,285,Frank Merwin
+jo'carroll@vizpainter.com,8986,9/26/2017,12/7/2017,JG-15115,United,398,DFW-MCO,Business,351,Jas O'Carroll
+djones@vizpainter.com,2162,12/21/2017,1/12/2018,DW-13480,Delta,186,DFW-CMH,Economy,233,Don Jones
+sgoranitis@vizpainter.com,57,5/20/2018,6/18/2018,TB-21055,American Airlines,232,DFW-COS,Business,706,Speros Goranitis
+bdahlen@vizpainter.com,9628,9/27/2016,11/27/2016,BT-11440,American (AA),230,DFW-SEA,Economy,107,Brian Dahlen
+tcoyne@vizpainter.com,7676,4/24/2019,5/9/2019,TS-21655,American,237,DFW-GRB,Business,742,Theresa Coyne
+sroelle@vizpainter.com,8544,7/24/2016,8/11/2016,TB-21625,Delta,181,DFW-HIO,Economy,715,Steven Roelle
+sulpright@vizpainter.com,4414,5/25/2016,6/24/2016,TB-21280,Delta,194,DFW-GRB,Economy,710,Stephanie Ulpright
+afoster@vizpainter.com,7276,9/23/2017,11/17/2017,AW-10930,American Airlines,277,DFW-MCO,Business,59,Art Foster
+lradford@vizpainter.com,6803,8/31/2018,12/31/2018,LW-16825,United,289,DFW-HIO,Economy,460,Lena Radford
+ndecherney@vizpainter.com,1638,9/9/2016,12/2/2016,NW-18400,Delta,228,DFW-SAN,Economy,557,Natalie DeCherney
+mcrier,4473,9/6/2019,9/29/2019,MG-17680,United,434,DFW-HIO,Business,484,Marc Crier
+jdaniels@vizpainter.com,6245,11/14/2017,11/25/2017,KB-16405,American,208,DFW-CMH,Business,400,Joy Daniels
+myedwab@vizpainter.com,6172,12/1/2018,12/23/2018,MH-17440,AA,66,DFW-CMH,Economy,491,Maribeth Yedwab
+mreese@vizpainter.com,1767,5/15/2018,8/8/2018,ML-17755,American,247,DFW-IAD,Economy,502,Mathew Reese
+dhallsten@vizpainter.com,8824,10/20/2019,11/7/2019,DK-13090,American (AA),155,DFW-COS,Economy,204,Dave Hallsten
+aschoenberger@vizpainter.com,8382,2/9/2018,3/19/2018,AC-10660,Delta,145,DFW-SAN,Economy,15,Alan Schoenberger
+scooley@vizpainter.com,5261,8/10/2016,9/10/2016,SZ-20035,Delta,541,DFW-SAN,1st Class,704,Sonia Cooley
+schapman@vizpainter.com,2650,5/28/2016,9/12/2016,TB-21400,United,284,DFW-SAN,Economy,712,Steve Chapman
+sshifley@vizpainter.com,2700,1/31/2016,3/23/2016,SM-20320,Delta,114,DFW-CMH,Economy,675,Saphhira Shifley
+tboland@vizpainter.com,9292,8/22/2016,9/25/2016,TT-21220,United,114,DFW-SEA,Economy,744,Thomas Boland
+rhansen@vizpainter.com,4358,11/13/2019,12/11/2019,RR-19315,United,86,DFW-COS,Economy,632,Rick Hansen
+gtran@vizpainter.com,3060,9/15/2019,10/23/2019,HH-15010,Delta,62,DFW-ELP,Economy,313,Greg Tran
+ktakahito@vizpainter.com,2512,3/22/2017,4/19/2017,KW-16570,United,211,DFW-HIO,Economy,430,Kean Takahito
+sulpright@vizpainter.com,1640,5/18/2018,6/1/2018,TB-21280,United,51,DFW-SEA,Economy,710,Stephanie Ulpright
+airving@vizpainter.com,7580,11/4/2017,11/27/2017,AT-10735,American (AA),169,DFW-GRB,Economy,57,Arianne Irving
+bpak@vizpainter.com,2246,8/6/2019,11/25/2019,BF-11005,American (AA),287,DFW-GRB,Business,77,Becky Pak
+dpercer@vizpainter.com,4264,10/18/2019,11/8/2019,DM-13015,United,223,DFW-SEA,Economy,215,Dean percer
+aavila@vizpainter.com,6194,10/12/2019,12/26/2019,AG-10330,American (AA),110,DFW-SEA,Economy,21,Alex Avila
+cadams@vizpainter.com,3630,11/14/2019,11/29/2019,CC-12610,American Airlines,181,DFW-GRB,Economy,130,Carol Adams
+sperrino@vizpainter.com,4883,9/2/2019,11/4/2019,TB-21175,Delta,230,DFW-JFK,Economy,707,Stefania Perrino
+mtillman@vizpainter.com,3116,7/9/2018,8/30/2018,MS-17770,Delta,515,DFW-SLC,Business,520,Meg Tillman
+sweien@vizpainter.com,4658,3/20/2017,5/7/2017,SV-20785,American Airlines,264,DFW-GRB,Economy,696,Shaun Weien
+sjackson@vizpainter.com,2118,8/9/2018,9/23/2018,SW-20245,Delta,250,DFW-COS,Economy,699,Shirley Jackson
+dliebe@vizpainter.com,568,8/30/2019,10/7/2019,EB-13840,American Airlines,68,DFW-SEA,Economy,239,Dorris liebe
+mmorse@vizpainter.com,4575,11/28/2018,12/18/2018,MG-17650,Delta,332,DFW-MCO,Economy,483,Magdelene Morse
+handreada@vizpainter.com,836,7/1/2018,7/26/2018,JB-15400,Delta,184,DFW-CHS,Business,327,Helen Andreada
+thouse@vizpainter.com,5325,11/25/2017,12/9/2017,TZ-21580,American (AA),354,DFW-CMH,Business,748,Tiffany House
+bfranzösisch@vizpainter.com,635,9/20/2019,9/26/2019,BD-11605,Delta,219,DFW-IAD,Economy,68,Barry Französisch
+rdilbeck@vizpainter.com,5170,9/18/2016,11/16/2016,SC-20020,Delta,278,DFW-JFK,Economy,643,Robert Dilbeck
+pfox@vizpainter.com,1041,2/1/2018,3/24/2018,RD-19660,American,444,DFW-ELP,1st Class,610,Philip Fox
+pjones@vizpainter.com,9364,3/2/2019,3/25/2019,PS-18970,AA,286,DFW-MCO,Economy,588,Patrick Jones
+dlatchford@vizpainter.com,9253,9/10/2019,9/25/2019,DO-13645,Delta,414,DFW-HIO,Business,220,Delfina Latchford
+npatel@vizpainter.com,4764,7/31/2016,9/21/2016,NR-18550,AA,106,DFW-MEM,Economy,554,Naresj Patel
+ssunley@vizpainter.com,6937,8/14/2018,9/4/2018,TA-21385,Delta,382,DFW-MCO,Business,705,Sonia Sunley
+mmacintyre@vizpainter.com,8423,9/17/2019,10/16/2019,NP-18670,American (AA),119,DFW-BUR,Economy,551,Muhammed MacIntyre
+mjones@vizpainter.com,2811,8/19/2017,11/18/2017,MP-18175,AA,321,DFW-COS,1st Class,515,Max Jones
+lelliston@vizpainter.com,868,6/22/2018,10/1/2018,LS-16945,Delta,207,DFW-IAD,Economy,453,Laurel Elliston
+ccatlett@vizpainter.com,7772,11/16/2018,12/2/2018,CS-12505,United,140,DFW-SEA,Economy,173,Corey Catlett
+tsumrall@vizpainter.com,9372,4/5/2017,5/31/2017,VP-21760,Delta,315,DFW-SLC,Economy,757,Todd Sumrall
+scompany@vizpainter.com,8508,2/27/2018,3/12/2018,SJ-20125,United,255,DFW-MEM,Economy,669,Sample Company A
+gmatthias@vizpainter.com,4612,12/27/2017,1/26/2018,HG-14965,American,177,DFW-SEA,Economy,311,Greg Matthias
+cludwig@vizpainter.com,7159,3/12/2018,3/31/2018,CC-12220,United,143,DFW-COS,Economy,125,Carl Ludwig
+areiter@vizpainter.com,3029,11/29/2019,12/21/2019,AI-10855,Delta,495,DFW-SLC,Business,36,Andy Reiter
+ltron@vizpainter.com,7464,7/5/2018,9/15/2018,LP-17095,United,86,DFW-CMH,Economy,450,Larry Tron
+gmatthias@vizpainter.com,8956,9/13/2016,9/24/2016,HG-14965,United,344,DFW-COS,Business,311,Greg Matthias
+jrupert@vizpainter.com,2252,12/6/2016,2/18/2017,JM-16195,United,73,DFW-COS,Economy,379,Jocasta Rupert
+mhuthwaite@vizpainter.com,1147,2/26/2017,4/4/2017,NC-18340,AA,204,DFW-GRB,Economy,534,Michelle Huthwaite
+iliston@vizpainter.com,2943,2/25/2019,3/30/2019,JD-16150,American (AA),389,DFW-SLC,Economy,339,Ivan Liston
+tsumrall@vizpainter.com,8993,9/26/2019,10/20/2019,VP-21760,United,395,DFW-HIO,Business,757,Todd Sumrall
+aballentine@vizpainter.com,2446,5/14/2018,5/27/2018,AF-10870,American Airlines,322,DFW-SAN,Business,17,Alejandro Ballentine
+scoram@vizpainter.com,6322,8/7/2016,10/17/2016,SP-20545,Delta,94,DFW-SEA,Economy,681,Scot Coram
+kferguson@vizpainter.com,9672,10/9/2019,11/19/2019,KL-16645,Delta,207,DFW-SAN,Economy,418,Karen Ferguson
+jfrazer@vizpainter.com,6141,5/28/2019,7/15/2019,JF-15190,United,378,DFW-COS,1st Class,345,Jamie Frazer
+jrupert@vizpainter.com,2250,2/4/2017,2/18/2017,JM-16195,American (AA),212,DFW-SEA,Economy,379,Jocasta Rupert
+jepp@vizpainter.com,333,3/19/2018,4/29/2018,JL-15850,American,310,DFW-SEA,Business,373,Jim Epp
+bpatterson@vizpainter.com,1234,5/18/2018,5/31/2018,BG-11695,United,200,DFW-LNK,Economy,82,Benjamin Patterson
+mchen@vizpainter.com,5522,9/30/2019,12/8/2019,MS-17980,American Airlines,317,DFW-HIO,Economy,522,Michael Chen
+azypern@vizpainter.com,1990,9/6/2017,11/13/2017,AS-10090,Delta,216,DFW-MEM,Economy,50,Annie Zypern
+csayre@vizpainter.com,1782,3/15/2017,7/13/2017,CB-12535,American (AA),142,DFW-COS,Economy,122,Cari Sayre
+hwasserman@vizpainter.com,221,11/8/2017,12/27/2017,JB-15925,Delta,447,DFW-COS,1st Class,328,Helen Wasserman
+mbrown@vizpainter.com,4345,3/10/2019,3/22/2019,ND-18370,Delta,309,DFW-HIO,Business,538,Mick Brown
+tbutterfield@vizpainter.com,2291,3/28/2017,4/25/2017,TS-21160,United,429,DFW-SAN,1st Class,736,Ted Butterfield
+jkimmel@vizpainter.com,2434,4/17/2019,6/1/2019,JH-15910,American,205,DFW-SAN,Economy,357,Jay Kimmel
+jstevenson@vizpainter.com,7195,12/10/2017,2/14/2018,JS-15880,United,115,DFW-SEA,Economy,391,John Stevenson
+bdonatelli@vizpainter.com,840,11/10/2017,11/25/2017,BM-11650,United,172,DFW-CMH,Economy,88,Bill Donatelli
+dmartin@vizpainter.com,1249,12/12/2019,12/24/2019,DJ-13630,American,230,DFW-CMH,Business,200,Darrin Martin
+shopkins@vizpainter.com,4333,7/24/2019,9/6/2019,SS-20875,United,153,DFW-SEA,Business,692,Shahid Hopkins
+ehildebrand@vizpainter.com,3554,9/18/2019,11/25/2019,FH-14275,American,147,DFW-SEA,Economy,274,Eugene Hildebrand
+jellison@vizpainter.com,2280,9/9/2019,11/2/2019,JK-15625,American (AA),416,DFW-SLC,Economy,364,Jeremy Ellison
+dbenoit@vizpainter.com,9555,10/24/2017,12/2/2017,EB-14110,American (AA),234,DFW-MCO,Economy,243,Duane Benoit
+kandreada@vizpainter.com,7886,8/13/2019,12/6/2019,LC-16870,American Airlines,260,DFW-MCO,Business,434,Kelly Andreada
+sphelps@vizpainter.com,3672,11/3/2016,12/13/2016,TB-21250,American (AA),276,DFW-JFK,Economy,709,Stephanie Phelps
+ajones@vizpainter.com,8229,3/13/2018,4/8/2018,BC-11125,American Airlines,322,DFW-JFK,Business,64,Astrea Jones
+nfritzler@vizpainter.com,3052,8/26/2019,10/11/2019,NZ-18565,AA,152,DFW-GRB,Economy,558,Natalie Fritzler
+jritter@vizpainter.com,9795,4/20/2016,5/23/2016,KH-16360,United,122,DFW-SEA,Economy,413,Justin Ritter
+pwener@vizpainter.com,9846,5/27/2016,6/6/2016,RE-19450,United,438,DFW-JFK,Business,615,Pierre Wener
+gdortch@vizpainter.com,1325,8/4/2016,10/3/2016,GZ-14545,AA,381,DFW-JFK,Business,305,Giulietta Dortch
+dphilippe@vizpainter.com,9516,1/23/2016,2/24/2016,DL-13315,Delta,257,DFW-CMH,Business,210,David Philippe
+sweien@vizpainter.com,3890,4/14/2016,6/6/2016,SV-20785,United,301,DFW-JFK,Economy,696,Shaun Weien
+rausman@vizpainter.com,8234,6/6/2016,9/28/2016,SE-20110,American (AA),305,DFW-JFK,Economy,658,Ruben Ausman
+eashbrook@vizpainter.com,2758,5/18/2018,6/13/2018,ES-14020,United,237,DFW-HIO,Economy,268,Erin Ashbrook
+rmesse@vizpainter.com,8974,4/1/2019,4/27/2019,RL-19615,American (AA),207,DFW-BUF,Economy,624,Raymond Messe
+lolson@vizpainter.com,7523,8/1/2018,9/11/2018,MD-17350,American (AA),97,DFW-SEA,Economy,477,Lori Olson
+marnett@vizpainter.com,1922,9/11/2017,10/9/2017,MZ-17515,Delta,408,DFW-JFK,Economy,532,Michelle Arnett
+ddickinson@vizpainter.com,6289,4/23/2016,7/12/2016,EB-13705,United,153,DFW-SEA,Business,237,Dorothy Dickinson
+schapman@vizpainter.com,2723,3/2/2018,4/19/2018,TB-21400,American,322,DFW-JFK,Economy,712,Steve Chapman
+hwasserman@vizpainter.com,223,12/7/2017,12/27/2017,JB-15925,Delta,352,DFW-MCO,Economy,328,Helen Wasserman
+scooley@vizpainter.com,5262,8/4/2016,9/10/2016,SZ-20035,Delta,227,DFW-SEA,Economy,704,Sonia Cooley
+ebecker@vizpainter.com,6088,8/22/2017,12/18/2017,EH-13945,American (AA),180,DFW-MCO,Economy,249,Edward Becker
+pknutson@vizpainter.com,7474,3/14/2018,4/15/2018,QJ-19255,American,194,DFW-CMH,Economy,593,Paul Knutson
+rd'ascenzo@vizpainter.com,3901,12/10/2016,1/8/2017,SF-20965,American,327,DFW-COS,1st Class,661,Russell D'Ascenzo
+ccheatham@vizpainter.com,8995,7/5/2016,8/17/2016,CS-12355,United,107,DFW-COS,Economy,169,Clay Cheatham
+gmcgarr@vizpainter.com,7070,7/10/2016,8/14/2016,GM-14500,Delta,203,DFW-COS,Economy,295,Gary McGarr
+lshagiari@vizpainter.com,4203,10/21/2017,12/10/2017,MA-17560,American (AA),188,DFW-COS,Economy,464,Lindsay Shagiari
+dpardue@vizpainter.com,7817,8/14/2018,10/26/2018,DP-13390,American Airlines,220,DFW-CMH,Business,225,Dennis Pardue
+bhoffman@vizpainter.com,2289,4/27/2019,6/13/2019,BW-11200,American (AA),236,DFW-CMH,Business,114,Brosina Hoffman
+kwillman@vizpainter.com,2747,4/25/2016,5/17/2016,KT-16480,United,212,DFW-ELP,Economy,428,Katrina Willman
+dkane@vizpainter.com,2878,12/13/2017,1/19/2018,Dp-13240,Delta,134,DFW-MEM,Economy,224,Dennis Kane
+pwebber@vizpainter.com,5980,7/1/2016,9/13/2016,RB-19465,Delta,40,DFW-SEA,Economy,601,Pauline Webber
+dmonton@vizpainter.com,8569,10/10/2018,12/11/2018,DP-13105,Delta,276,DFW-SEA,Business,222,Denise Monton
+scarmichael@vizpainter.com,6759,5/24/2019,9/18/2019,TC-21145,Delta,232,DFW-JFK,Economy,717,Stewart Carmichael
+asdfa,3604,8/23/2019,8/27/2019,TH-21550,American (AA),70,DFW-COS,Economy,727,Susan Pistek
+jdryer@vizpainter.com,7483,9/6/2016,9/30/2016,JP-16135,American Airlines,120,DFW-SEA,Economy,385,John Dryer
+cconant@vizpainter.com,2968,11/18/2016,12/31/2016,Co-12640,Delta,392,DFW-JFK,Economy,157,Christopher Conant
+dpardue@vizpainter.com,7818,10/1/2018,10/26/2018,DP-13390,American (AA),155,DFW-COS,Economy,225,Dennis Pardue
+scooley@vizpainter.com,5265,8/14/2016,9/10/2016,SZ-20035,United,189,DFW-CMH,Business,704,Sonia Cooley
+lpelletier@vizpainter.com,2612,9/5/2016,11/30/2016,MC-17590,American Airlines,233,DFW-COS,Economy,471,Liz Pelletier
+pcoakley@vizpainter.com,4300,5/29/2019,8/26/2019,PO-18850,American (AA),279,DFW-GRB,Economy,582,Pamela Coakley
+asdfa,1075,8/22/2018,11/19/2018,MS-17710,United,42,DFW-SEA,Economy,519,Meg O'Connel
+mgockenbach@vizpainter.com,1055,2/8/2017,4/8/2017,NF-18595,Delta,225,DFW-MCO,Economy,542,Mike Gockenbach
+po'brill@vizpainter.com,4736,4/6/2017,6/19/2017,PS-19045,American,172,DFW-SEA,Business,589,Patrick O'Brill
+tchapman@vizpainter.com,3073,9/30/2016,11/22/2016,YC-21895,United,319,DFW-CMH,Business,763,Tony Chapman
+atate@vizpainter.com,8447,9/9/2019,10/23/2019,AH-10075,AA,191,DFW-MCO,Economy,29,Alyssa Tate
+rhightower@vizpainter.com,1425,7/29/2017,9/30/2017,RW-19540,United,375,DFW-SAN,Business,636,Ritsa Hightower
+achong@vizpainter.com,189,6/20/2018,7/21/2018,AM-10360,Delta,228,DFW-COS,Business,41,Ann Chong
+jellison@vizpainter.com,7337,10/22/2017,12/30/2017,JK-15625,American Airlines,339,DFW-BUF,Business,364,Jeremy Ellison
+ahunt@vizpainter.com,5255,1/26/2017,3/7/2017,AH-10195,Delta,384,DFW-SLC,Economy,31,Amy Hunt
+jellison@vizpainter.com,3716,11/20/2016,12/10/2016,JK-15625,Delta,368,DFW-SLC,Business,364,Jeremy Ellison
+tsayre@vizpainter.com,1198,3/7/2018,4/12/2018,ZC-21910,American,293,DFW-HIO,Economy,765,Tony Sayre
+jritter@vizpainter.com,9793,5/1/2016,5/23/2016,KH-16360,United,542,DFW-SLC,Business,413,Justin Ritter
+kbraun@vizpainter.com,7680,11/28/2016,1/7/2017,KM-16375,AA,302,DFW-HIO,Economy,420,Karl Braun
+c@vizpainter.com,5331,7/19/2018,9/8/2018,CV-12295,American,442,DFW-MCO,1st Class,175,Corey-Lock
+mmoore@vizpainter.com,9397,8/12/2016,9/23/2016,MW-18220,Delta,308,DFW-IAD,Business,527,Michael Moore
+scompany@vizpainter.com,9170,12/8/2017,3/19/2018,SJ-20125,Delta,159,DFW-COS,Economy,669,Sample Company A
+bpak@vizpainter.com,2247,10/7/2019,11/25/2019,BF-11005,Delta,236,DFW-SAN,Economy,77,Becky Pak
+asdf,5356,3/8/2016,5/19/2016,AH-10030,Delta,216,DFW-COS,Business,28,Alyssa Crouse
+rbarcio@vizpainter.com,1923,6/19/2018,7/9/2018,SC-20230,United,263,DFW-SAN,Economy,646,Roger Barcio
+fharton@vizpainter.com,6816,5/7/2016,6/21/2016,GH-14425,Delta,375,DFW-MCO,Business,289,Fred Harton
+bgillingham@vizpainter.com,816,2/10/2017,3/23/2017,BW-11110,American Airlines,338,DFW-COS,Business,113,Brooke Gillingham
+imaddox@vizpainter.com,8754,7/8/2019,9/10/2019,JD-16015,American (AA),243,DFW-IAD,Economy,337,Irene Maddox
+bgillingham@vizpainter.com,6444,10/11/2018,10/19/2018,BW-11110,AA,217,DFW-IAD,Economy,113,Brooke Gillingham
+ebern@vizpainter.com,6131,12/17/2018,4/2/2019,EM-14200,United,433,DFW-BUR,1st Class,264,Erica Bern
+ashami@vizpainter.com,3434,10/24/2019,12/9/2019,AB-10165,AA,73,DFW-SEA,Economy,9,Adrian Shami
+larmstrong@vizpainter.com,9237,7/24/2018,9/6/2018,LR-16915,American,336,DFW-ELP,Business,451,Laura Armstrong
+jprescott@vizpainter.com,1732,9/18/2016,10/3/2016,KD-16495,Delta,236,DFW-COS,Economy,408,Julie Prescott
+mlonsdale@vizpainter.com,3802,10/9/2018,10/20/2018,NC-18415,American Airlines,170,DFW-HIO,Economy,535,Michelle Lonsdale
+jsundaresam@vizpainter.com,2003,10/17/2019,12/28/2019,JW-15955,United,213,DFW-JFK,Economy,395,Joni Sundaresam
+swendt@vizpainter.com,9479,9/7/2016,9/14/2016,SS-20410,Delta,259,DFW-BUR,Economy,689,Sean Wendt
+mclasen@vizpainter.com,1982,10/5/2017,12/16/2017,MM-18280,Delta,180,DFW-SEA,Economy,508,Matthew Clasen
+mhernandez,3153,10/24/2017,12/18/2017,NF-18385,American,362,DFW-SAN,Business,540,Mick Hernandez
+mo'connel@vizpainter.com,1275,4/17/2018,5/26/2018,MS-17710,Delta,348,DFW-SLC,Economy,519,Meg O'Connel
+folsen@vizpainter.com,614,5/28/2018,9/12/2018,GD-14590,Delta,166,DFW-SAN,Economy,286,Frank Olsen
+belias@vizpainter.com,4387,9/5/2018,11/1/2018,BP-11095,American Airlines,134,DFW-GRB,Economy,94,Bobby Elias
+jmolinari@vizpainter.com,2970,9/27/2019,11/9/2019,JF-15565,Delta,207,DFW-COS,Economy,350,Janet Molinari
+pgardner@vizpainter.com,9578,4/27/2017,5/28/2017,PS-18760,United,440,DFW-SLC,Economy,587,Patrick Gardner
+asdfa,6230,12/25/2017,1/27/2018,BT-11530,Delta,226,DFW-HIO,Economy,109,Brian Derr
+jblumstein@vizpainter.com,5881,9/10/2018,9/21/2018,JW-15220,AA,559,DFW-SLC,1st Class,394,Joni Blumstein
+svan@vizpainter.com,4961,9/10/2018,11/22/2018,TC-21535,Delta,389,DFW-GRB,1st Class,720,Stuart Van
+lleatherbury@vizpainter.com,5152,9/2/2019,9/27/2019,LS-17200,American Airlines,298,DFW-JFK,Economy,455,Lauren Leatherbury
+btalbott@vizpainter.com,5847,11/2/2017,11/21/2017,BS-11665,American Airlines,415,DFW-SLC,Economy,102,Bradley Talbott
+ashami@vizpainter.com,4316,6/17/2017,7/1/2017,AB-10165,AA,171,DFW-SEA,Business,9,Adrian Shami
+bvenier@vizpainter.com,8305,8/10/2019,11/9/2019,BG-11740,United,309,DFW-ELP,Business,83,Benjamin Venier
+fcarlisle@vizpainter.com,2756,4/7/2017,4/21/2017,GA-14515,AA,357,DFW-GRB,Business,282,Frank Carlisle
+nfritzler@vizpainter.com,778,7/3/2017,8/23/2017,NZ-18565,Delta,380,DFW-SLC,Economy,558,Natalie Fritzler
+jgross@vizpainter.com,5667,5/22/2018,7/21/2018,JG-15310,AA,272,DFW-JFK,Economy,353,Jason Gross
+mlee@vizpainter.com,1583,5/27/2017,8/12/2017,NP-18325,American,134,DFW-SEA,Economy,550,Muhammed Lee
+bmills@vizpainter.com,6668,4/6/2019,5/14/2019,CA-12775,Delta,90,DFW-IAD,Economy,119,Bryan Mills
+pcoakley@vizpainter.com,6348,4/27/2017,5/6/2017,PO-18850,Delta,129,DFW-SEA,Economy,582,Pamela Coakley
+kbraun@vizpainter.com,1402,10/23/2018,11/5/2018,KM-16375,United,60,DFW-MEM,Economy,420,Karl Braun
+emurdock@vizpainter.com,5589,6/12/2016,7/24/2016,EM-14140,AA,245,DFW-SEA,Business,263,Eric Murdock
+ashonely@vizpainter.com,4929,11/5/2019,12/6/2019,AD-10180,Delta,554,DFW-SLC,Business,16,Alan Shonely
+tswindell@vizpainter.com,7992,4/14/2018,6/17/2018,VM-21835,American Airlines,217,DFW-SEA,Economy,755,Toby Swindell
+bweirich@vizpainter.com,588,4/15/2017,7/9/2017,BD-11725,United,129,DFW-IAD,Economy,71,Barry Weirich
+khastings@vizpainter.com,3741,10/17/2018,12/13/2018,LH-17155,United,531,DFW-GRB,1st Class,445,Kristen Hastings
+ncrebassa@vizpainter.com,4212,4/15/2016,5/9/2016,PF-19120,Delta,207,DFW-COS,Economy,568,Nick Crebassa
+bcastell@vizpainter.com,9878,2/22/2019,4/21/2019,BE-11455,Delta,173,DFW-SEA,Economy,75,Becky Castell
+mlee@vizpainter.com,1589,7/3/2017,8/12/2017,NP-18325,Delta,334,DFW-HIO,Business,550,Muhammed Lee
+jhirsh@vizpainter.com,6015,2/23/2018,3/11/2018,KF-16285,American (AA),179,DFW-SAN,Economy,411,Justin Hirsh
+rausman@vizpainter.com,5668,4/5/2018,6/15/2018,SE-20110,United,118,DFW-IAD,Economy,658,Ruben Ausman
+abergman@vizpainter.com,7470,9/9/2016,9/20/2016,AA-10315,American,341,DFW-MCO,Economy,1,Aaron Bergman
+ccarroll@vizpainter.com,1088,7/4/2018,8/19/2018,CY-12745,American (AA),143,DFW-SAN,Economy,178,Craig Carroll
+shopkins@vizpainter.com,7139,9/20/2017,11/27/2017,SS-20875,Delta,95,DFW-SEA,Economy,692,Shahid Hopkins
+ghansen@vizpainter.com,8999,2/16/2019,3/20/2019,HG-14845,Delta,78,DFW-COS,Economy,310,Greg Hansen
+nfjeld@vizpainter.com,268,1/10/2018,1/28/2018,PG-18895,United,66,DFW-BUR,Economy,572,Nicole Fjeld
+otoch@vizpainter.com,97,10/18/2019,11/11/2019,PN-18775,United,343,DFW-MCO,Business,581,Olvera Toch
+jcaffey@vizpainter.com,211,10/29/2019,12/7/2019,JH-15985,American,583,DFW-JFK,1st Class,358,Jenna Caffey
+ttrevino@vizpainter.com,7770,5/12/2018,8/1/2018,TS-21205,Delta,249,DFW-SAN,Economy,737,Ted Trevino
+rmurray@vizpainter.com,7948,1/22/2016,3/5/2016,SC-20380,Delta,76,DFW-BUR,Economy,649,Roland Murray
+nfranzösisch@vizpainter.com,4858,12/4/2016,1/17/2017,PB-19150,American,255,DFW-MCO,Economy,564,Neil Französisch
+jcastell@vizpainter.com,5731,11/9/2019,12/13/2019,JP-15520,Delta,471,DFW-BUF,1st Class,384,John Castell
+cbergmann@vizpainter.com,9721,9/12/2018,9/25/2018,CS-12250,AA,481,DFW-MCO,1st Class,168,Claudia Bergmann
+azypern@vizpainter.com,3459,7/19/2019,9/18/2019,AS-10090,United,232,DFW-SEA,Economy,50,Annie Zypern
+afoster@vizpainter.com,8721,5/22/2018,6/16/2018,AW-10930,Delta,673,DFW-SLC,1st Class,59,Art Foster
+ehildebrand@vizpainter.com,8622,2/19/2019,5/17/2019,FH-14275,Delta,283,DFW-GRB,Economy,274,Eugene Hildebrand
+nlomonaco@vizpainter.com,9403,7/30/2018,8/17/2018,NP-18700,Delta,212,DFW-ELP,Economy,553,Nancy Lomonaco
+nchilds@vizpainter.com,2395,8/22/2017,11/19/2017,PJ-18835,United,203,DFW-HIO,Economy,574,Noah Childs
+jkunitz@vizpainter.com,7363,3/12/2018,4/14/2018,JF-15295,AA,115,DFW-SEA,Economy,346,Jamie Kunitz
+bgonzalez@vizpainter.com,2822,12/16/2018,1/5/2019,BD-11620,United,143,DFW-SAN,Economy,69,Barry Gonzalez
+aallen@vizpainter.com,4978,11/9/2017,12/9/2017,AH-10210,United,207,DFW-SEA,Economy,32,Andrew Allen
+rkennedy@vizpainter.com,1004,5/25/2017,7/31/2017,RH-19495,United,196,DFW-COS,Economy,619,Ralph Kennedy
+rwilson@vizpainter.com,3712,6/14/2019,10/16/2019,RS-19765,American (AA),166,DFW-COS,Economy,635,Rick Wilson
+mjones@vizpainter.com,8776,10/17/2018,12/9/2018,MP-18175,United,240,DFW-CMH,Business,515,Max Jones
+dwardle@vizpainter.com,1560,3/9/2018,4/13/2018,EB-13750,United,139,DFW-SEA,Economy,238,Dorothy Wardle
+gzrebassa@vizpainter.com,3565,6/21/2018,7/6/2018,GT-14755,Delta,237,DFW-COS,Business,302,George Zrebassa
+dwilson@vizpainter.com,5340,10/31/2017,11/14/2017,DV-13465,American (AA),73,DFW-MEM,Economy,231,Dianna Wilson
+rsperren@vizpainter.com,3736,1/19/2019,3/11/2019,RM-19750,American (AA),338,DFW-MCO,Business,627,Ricardo Sperren
+jgalang@vizpainter.com,1439,8/24/2017,10/15/2017,JE-15745,Delta,333,DFW-SLC,Economy,343,James Galang
+mgranlund@vizpainter.com,5738,12/26/2015,1/25/2016,MV-17485,United,300,DFW-MCO,Economy,525,Michael Granlund
+jhirsh@vizpainter.com,3988,3/17/2019,4/14/2019,KF-16285,American Airlines,152,DFW-GRB,Economy,411,Justin Hirsh
+hgreene@vizpainter.com,6421,8/24/2018,11/4/2018,HW-14935,United,483,DFW-CMH,1st Class,322,Harry Greene
+agarverick@vizpainter.com,548,10/2/2019,11/22/2019,AS-10135,United,244,DFW-COS,Economy,51,Anthony Garverick
+lhughes@vizpainter.com,561,9/15/2019,11/22/2019,LP-17080,United,460,DFW-SEA,1st Class,449,Larry Hughes
+dbolton@vizpainter.com,708,10/24/2016,12/4/2016,DP-13165,United,238,DFW-HIO,Economy,223,Dennis Bolton
+bpaige@vizpainter.com,1224,10/6/2018,12/5/2018,BM-11140,American (AA),284,DFW-HIO,Economy,86,Beth Paige
+khughes@vizpainter.com,4876,9/25/2016,12/7/2016,KN-16390,American (AA),283,DFW-HIO,Business,423,Katherine Hughes
+folsen@vizpainter.com,8597,4/6/2016,5/7/2016,GD-14590,United,341,DFW-COS,Business,286,Frank Olsen
+schapman@vizpainter.com,1518,1/16/2016,2/6/2016,TB-21400,United,126,DFW-SEA,Economy,712,Steve Chapman
+tdahlen@vizpainter.com,3088,1/6/2019,2/14/2019,TP-21415,Delta,165,DFW-GRB,Economy,732,Tamara Dahlen
+lsouthworth@vizpainter.com,6312,8/13/2016,9/16/2016,LW-17125,United,312,DFW-MCO,Economy,462,Linda Southworth
+tthornton@vizpainter.com,8477,8/18/2019,11/1/2019,TW-21025,American,244,DFW-COS,Business,747,Thomas Thornton
+jkriz@vizpainter.com,9478,4/25/2017,6/5/2017,JM-15265,American,217,DFW-SEA,Economy,375,Jim Kriz
+bstugart@vizpainter.com,6732,3/22/2017,6/20/2017,BV-11245,Delta,125,DFW-COS,Economy,111,Brian Stugart
+rdowd@vizpainter.com,1961,9/7/2019,9/15/2019,RW-19690,Delta,552,DFW-HIO,1st Class,638,Rob Dowd
+mludwig@vizpainter.com,1796,7/6/2019,8/30/2019,MR-17545,United,391,DFW-JFK,Business,516,Max Ludwig
+igibson@vizpainter.com,4744,2/13/2019,3/5/2019,JD-16060,United,237,DFW-BUR,Economy,338,Ivan Gibson
+dbickford@vizpainter.com,4757,8/27/2019,9/25/2019,EB-13870,American Airlines,259,DFW-SEA,Business,240,Doug Bickford
+jstevenson@vizpainter.com,7515,10/11/2019,12/12/2019,JL-15835,American (AA),182,DFW-SEA,Economy,372,Jill Stevenson
+mzewe@vizpainter.com,5961,2/2/2019,2/13/2019,ML-17395,United,540,DFW-MCO,1st Class,500,Mary Zewe
+mskach@vizpainter.com,2210,10/20/2016,11/16/2016,ML-17410,American Airlines,301,DFW-SAN,Economy,501,MaryBeth Skach
+aarmold@vizpainter.com,2975,2/24/2017,5/12/2017,AG-10675,AA,258,DFW-ELP,Economy,25,Allen Armold
+sbern@vizpainter.com,3180,11/23/2019,12/10/2019,SM-20950,American Airlines,262,DFW-MCO,Economy,677,Sarah Bern
+emurdock@vizpainter.com,2955,11/1/2019,11/12/2019,EM-14140,United,176,DFW-SAN,Economy,263,Eric Murdock
+sshariari@vizpainter.com,5016,11/11/2016,11/29/2016,TH-21100,American Airlines,400,DFW-MCO,Business,724,Sung Shariari
+carntzen@vizpainter.com,522,3/9/2017,3/26/2017,DB-13210,United,200,DFW-SEA,Economy,184,Cynthia Arntzen
+tashbrook@vizpainter.com,7662,11/9/2015,1/12/2016,VS-21820,United,82,DFW-SEA,Economy,758,Tom Ashbrook
+rfjeld@vizpainter.com,9413,1/5/2017,1/29/2017,SC-20305,United,521,DFW-SLC,Business,648,Roland Fjeld
+tmolinari@vizpainter.com,1614,11/3/2019,12/24/2019,YS-21880,Delta,365,DFW-JFK,Economy,764,Tony Molinari
+tchand@vizpainter.com,5061,11/28/2018,12/7/2018,TP-21130,Delta,627,DFW-JFK,1st Class,731,Tamara Chand
+schance@vizpainter.com,6101,7/24/2019,9/26/2019,SV-20365,United,369,DFW-SAN,1st Class,695,Shaun Chance
+areiter,5043,9/27/2018,11/13/2018,AI-10855,American (AA),299,DFW-GRB,Economy,36,Andy Reiter
+spak@vizpainter.com,578,8/23/2017,9/22/2017,TG-21640,American Airlines,171,DFW-DSM,Economy,723,Sung Pak
+jjenkins@vizpainter.com,3133,7/15/2016,8/26/2016,JP-15460,Delta,352,DFW-MCO,Business,383,Joel Jenkins
+khughes@vizpainter.com,6007,11/23/2019,12/17/2019,KN-16390,Delta,186,DFW-SAN,Economy,423,Katherine Hughes
+pjones@vizpainter.com,5583,3/26/2018,5/13/2018,PS-18970,Delta,75,DFW-CMH,Economy,588,Patrick Jones
+afoster@vizpainter.com,9218,10/19/2019,11/17/2019,AW-10930,United,188,DFW-MEM,Economy,59,Art Foster
+sgoranitis@vizpainter.com,58,6/3/2018,6/18/2018,TB-21055,United,310,DFW-SLC,Economy,706,Speros Goranitis
+nstaavos@vizpainter.com,9804,6/2/2017,7/20/2017,PJ-19015,American (AA),282,DFW-SAN,Economy,575,Noel Staavos
+imcgrath@vizpainter.com,8681,9/22/2018,12/2/2018,JD-15895,United,374,DFW-GRB,1st Class,336,Ionia McGrath
+mharrigan@vizpainter.com,9165,4/7/2017,6/12/2017,MG-17695,American,400,DFW-GRB,Business,485,Marc Harrigan
+tstivers@vizpainter.com,9836,9/12/2018,10/12/2018,WB-21850,United,157,DFW-SEA,Business,761,Tom Stivers
+adominguez@vizpainter.com,6237,1/4/2018,2/27/2018,AC-10420,Delta,166,DFW-MEM,Business,12,Alan Dominguez
+kmiller@vizpainter.com,2279,4/24/2016,7/1/2016,LM-17065,Delta,248,DFW-HIO,Economy,447,Kunst Miller
+asd,3057,9/8/2019,10/23/2019,HH-15010,United,221,DFW-MEM,Business,313,Greg Tran
+aballentine@vizpainter.com,5609,9/2/2017,12/11/2017,AF-10870,American,266,DFW-GRB,Business,17,Alejandro Ballentine
+fmerwin@vizpainter.com,7235,2/11/2018,3/12/2018,GB-14575,Delta,68,DFW-COS,Economy,285,Frank Merwin
+ajones@vizpainter.com,3628,5/15/2019,5/21/2019,BC-11125,American (AA),273,DFW-HIO,Economy,64,Astrea Jones
+mcaudle@vizpainter.com,4237,6/10/2018,7/27/2018,NF-18475,United,189,DFW-SEA,Business,541,Mike Caudle
+rdemir@vizpainter.com,8946,10/19/2016,11/17/2016,SC-20260,American Airlines,236,DFW-DSM,Business,647,Roger Demir
+ashillingsburg@vizpainter.com,353,8/21/2018,9/3/2018,AB-10060,United,218,DFW-COS,Business,6,Adam Shillingsburg
+jgalang@vizpainter.com,1178,11/17/2018,12/5/2018,JE-15745,American,408,DFW-SLC,Economy,343,James Galang
+svittorini@vizpainter.com,5208,7/21/2017,9/18/2017,TM-21010,American (AA),185,DFW-IAD,Economy,728,Susan Vittorini
+tdahlen@vizpainter.com,7244,7/9/2019,8/22/2019,TP-21415,United,425,DFW-SLC,Economy,732,Tamara Dahlen
+belias@vizpainter.com,7153,8/16/2016,10/15/2016,BP-11095,United,328,DFW-COS,Business,94,Bobby Elias
+acrouse@vizpainter.com,9680,11/5/2017,12/31/2017,AH-10030,Delta,213,DFW-JFK,Economy,28,Alyssa Crouse
+ehenry@vizpainter.com,9227,8/17/2019,11/4/2019,FM-14290,American Airlines,304,DFW-JFK,Economy,278,Evan Henry
+mconnell@vizpainter.com,6170,6/19/2016,8/30/2016,MM-17920,United,189,DFW-COS,Economy,506,Matt Connell
+bpond@vizpainter.com,8401,10/13/2017,12/9/2017,BD-11635,American (AA),425,DFW-SEA,1st Class,70,Barry Pond
+sshifley@vizpainter.com,2703,2/27/2016,3/23/2016,SM-20320,United,207,DFW-MCO,Economy,675,Saphhira Shifley
+sperrino@vizpainter.com,4880,10/12/2019,11/4/2019,TB-21175,Delta,68,DFW-MEM,Economy,707,Stefania Perrino
+tboland@vizpainter.com,8792,3/6/2019,3/24/2019,TT-21220,American (AA),145,DFW-SAN,Economy,744,Thomas Boland
+knunn@vizpainter.com,885,2/16/2016,5/4/2016,LL-16840,AA,396,DFW-MCO,Business,446,Kristina Nunn
+rhaberlin@vizpainter.com,1826,12/14/2018,12/28/2018,SA-20830,American Airlines,317,DFW-MCO,Business,639,Rob Haberlin
+ehildebrand@vizpainter.com,1137,11/4/2018,11/14/2018,FH-14275,United,239,DFW-MEM,Business,274,Eugene Hildebrand
+hgreene@vizpainter.com,7216,8/29/2017,9/30/2017,HW-14935,United,227,DFW-COS,Business,322,Harry Greene
+metezadi@vizpainter.com,2607,1/28/2018,3/10/2018,MG-17890,AA,182,DFW-CMH,Economy,487,Maria Etezadi
+mskach@vizpainter.com,6250,3/7/2019,6/4/2019,ML-17410,American (AA),159,DFW-GRB,Economy,501,MaryBeth Skach
+jradford@vizpainter.com,2620,12/2/2019,12/25/2019,JM-15655,United,233,DFW-SAN,Economy,377,Jim Radford
+tstivers@vizpainter.com,9411,11/8/2019,12/13/2019,WB-21850,Delta,500,DFW-MCO,1st Class,761,Tom Stivers
+shopkins@vizpainter.com,7138,9/28/2017,11/27/2017,SS-20875,AA,309,DFW-JFK,Economy,692,Shahid Hopkins
+nstaavos@vizpainter.com,815,2/7/2019,5/14/2019,PJ-19015,United,320,DFW-HIO,Economy,575,Noel Staavos
+schapman@vizpainter.com,4223,5/13/2019,6/13/2019,TB-21400,Delta,229,DFW-JFK,Economy,712,Steve Chapman
+lleatherbury@vizpainter.com,8601,11/3/2016,12/1/2016,LS-17200,AA,386,DFW-GRB,1st Class,455,Lauren Leatherbury
+pbzostek@vizpainter.com,5224,4/24/2019,5/22/2019,PP-18955,American,224,DFW-SEA,Economy,586,Patrick Bzostek
+asd,2154,6/17/2018,7/17/2018,DR-12880,United,228,DFW-SEA,Economy,226,Denny Blanton
+bferrer@vizpainter.com,8019,8/13/2019,10/18/2019,BF-11020,Delta,114,DFW-SAN,Economy,78,Ben Ferrer
+rduston@vizpainter.com,9452,7/24/2017,10/5/2017,RP-19855,United,268,DFW-GRB,Economy,631,Rick Duston
+rdilbeck@vizpainter.com,5167,11/1/2016,11/16/2016,SC-20020,American Airlines,218,DFW-COS,Economy,643,Robert Dilbeck
+thudgings@vizpainter.com,5472,9/22/2019,12/23/2019,TS-21505,United,303,DFW-MCO,Economy,740,Thea Hudgings
+kheidel@vizpainter.com,3431,9/21/2019,12/9/2019,LF-17185,American,623,DFW-JFK,1st Class,441,Ken Heidel
+azypern@vizpainter.com,6109,8/20/2018,9/16/2018,AS-10090,United,295,DFW-IAD,Business,50,Annie Zypern
+dwilson@vizpainter.com,9086,8/30/2018,9/12/2018,DV-13465,United,328,DFW-SEA,Business,231,Dianna Wilson
+aroberts,4305,9/24/2016,10/30/2016,AH-10585,United,412,DFW-MCO,Business,34,Andrew Roberts
+jsmith@vizpainter.com,4649,3/10/2019,5/18/2019,KB-16585,United,258,DFW-COS,Business,401,Joy Smith
+azypern@vizpainter.com,5227,6/2/2018,6/26/2018,AS-10090,American Airlines,217,DFW-SEA,Economy,50,Annie Zypern
+tcarlisle@vizpainter.com,6911,7/13/2019,8/2/2019,VG-21790,United,440,DFW-BUF,1st Class,752,Toby Carlisle
+pflathmann@vizpainter.com,8218,9/23/2016,10/7/2016,RD-19930,United,229,DFW-BUR,Economy,614,Phillip Flathmann
+rwaldorf@vizpainter.com,4099,8/23/2016,9/28/2016,SC-20095,United,222,DFW-SEA,Economy,645,Robert Waldorf
+bpaige@vizpainter.com,168,6/26/2016,9/12/2016,BM-11140,Delta,313,DFW-SLC,Economy,86,Beth Paige
+lleatherbury@vizpainter.com,2919,10/21/2018,11/23/2018,LS-17200,Delta,104,DFW-BUR,Economy,455,Lauren Leatherbury
+ttaslimi@vizpainter.com,1377,7/13/2016,8/9/2016,VD-21670,Delta,237,DFW-COS,Business,750,Tim Taslimi
+mengle@vizpainter.com,423,10/12/2019,10/22/2019,MP-17965,Delta,259,DFW-MCO,Economy,514,Max Engle
+a,3636,10/27/2018,11/14/2018,PP-18955,Delta,255,DFW-COS,Business,586,Patrick Bzostek
+dreichenbach@vizpainter.com,8556,12/28/2016,3/22/2017,DC-13285,United,322,DFW-HIO,Business,191,Dan Reichenbach
+lwilliams@vizpainter.com,9111,6/20/2016,10/15/2016,MA-17995,United,484,DFW-MEM,1st Class,465,Lindsay Williams
+cdarley@vizpainter.com,9380,10/1/2016,12/27/2016,CC-12670,Delta,226,DFW-COS,Economy,131,Carol Darley
+scoram@vizpainter.com,664,1/16/2018,3/30/2018,SP-20545,American,230,DFW-JFK,Economy,681,Scot Coram
+lschmidt@vizpainter.com,5086,5/18/2017,6/23/2017,ME-17320,American,285,DFW-SEA,Business,479,Luke Schmidt
+tseio@vizpainter.com,7133,9/11/2019,12/1/2019,TT-21460,American Airlines,337,DFW-SAN,Business,746,Thomas Seio
+darnett@vizpainter.com,7941,11/8/2018,12/16/2018,DS-13180,American Airlines,613,DFW-SLC,1st Class,229,Dianna Arnett
+ajones@vizpainter.com,8230,2/10/2018,4/8/2018,BC-11125,United,215,DFW-HIO,Economy,64,Astrea Jones
+pkriz@vizpainter.com,96,10/16/2019,11/12/2019,RB-19705,Delta,292,DFW-SEA,Business,604,Pete Kriz
+snguyen@vizpainter.com,6874,9/5/2016,10/22/2016,TB-21520,United,226,DFW-SEA,Economy,713,Steve Nguyen
+jlonsdale@vizpainter.com,4494,10/11/2016,12/3/2016,JK-15730,Delta,214,DFW-COS,Economy,366,Jeremy Lonsdale
+kmiller@vizpainter.com,9511,7/23/2018,8/11/2018,LM-17065,American (AA),478,DFW-CMH,1st Class,447,Kunst Miller
+tcoyne@vizpainter.com,8128,1/4/2017,2/13/2017,TS-21655,Delta,225,DFW-JFK,Economy,742,Theresa Coyne
+npaige@vizpainter.com,442,8/27/2018,9/7/2018,PK-19075,American (AA),229,DFW-JFK,Economy,577,Nora Paige
+mskach@vizpainter.com,6251,5/11/2019,6/4/2019,ML-17410,American,490,DFW-COS,1st Class,501,MaryBeth Skach
+tprescott@vizpainter.com,1754,11/14/2019,12/4/2019,VW-21775,American Airlines,115,DFW-COS,Economy,760,Tom Prescott
+abellavance@vizpainter.com,6040,8/20/2018,9/8/2018,AA-10645,United,228,DFW-CMH,Economy,4,Adam Bellavance
+mengle@vizpainter.com,4156,12/3/2018,1/2/2019,MP-17965,AA,337,DFW-SEA,Business,514,Max Engle
+aballentine@vizpainter.com,3359,4/21/2018,5/10/2018,AF-10870,United,126,DFW-SEA,Economy,17,Alejandro Ballentine
+rbaird@vizpainter.com,5912,11/19/2018,12/22/2018,SC-20680,United,280,DFW-JFK,Economy,652,Ross Baird
+dcampbell@vizpainter.com,4569,10/20/2017,11/13/2017,DB-13660,Delta,140,DFW-SEA,Business,189,Dan Campbell
+achung,3177,9/9/2019,9/29/2019,AP-10915,Delta,454,DFW-HIO,Business,44,Anna Chung
+sroelle@vizpainter.com,4381,9/30/2017,10/30/2017,TB-21625,United,342,DFW-CMH,1st Class,715,Steven Roelle
+bstewart@vizpainter.com,9495,12/25/2017,1/8/2018,BO-11350,Delta,226,DFW-SEA,Economy,92,Bill Stewart
+ahwang@vizpainter.com,1958,6/28/2019,9/5/2019,AC-10615,Delta,142,DFW-COS,Economy,14,Alan Hwang
+jfortune-@vizpainter.com,8664,2/17/2017,5/17/2017,JG-15160,Delta,229,DFW-COS,Economy,352,Jason Fortune-
+bwatters@vizpainter.com,9587,10/20/2018,11/18/2018,BE-11410,American,58,DFW-SEA,Economy,74,Bart Watters
+bspruell@vizpainter.com,4153,7/24/2019,9/11/2019,CB-12025,Delta,310,DFW-COS,Business,120,Bryan Spruell
+ahane@vizpainter.com,8500,2/22/2016,3/8/2016,AB-10150,Delta,70,DFW-SEA,Economy,8,Adrian Hane
+rbaird@vizpainter.com,2717,8/4/2019,9/1/2019,SC-20680,AA,313,DFW-HIO,Business,652,Ross Baird
+mschnelling@vizpainter.com,9847,8/26/2019,9/4/2019,MH-17290,AA,285,DFW-GRB,Economy,490,Maribeth Schnelling
+cadams@vizpainter.com,9177,1/15/2018,3/24/2018,CC-12610,Delta,181,DFW-SEA,Business,130,Carol Adams
+dordway@vizpainter.com,4465,8/25/2019,10/1/2019,DS-13030,Delta,351,DFW-GRB,Business,228,Denny Ordway
+pvan@vizpainter.com,4148,8/30/2019,10/28/2019,RB-19330,Delta,143,DFW-SEA,Economy,598,Paul Van Hugh
+povercash@vizpainter.com,4525,8/12/2016,11/6/2016,RD-19720,AA,336,DFW-MCO,Business,611,Philisse Overcash
+jlee@vizpainter.com,9005,1/25/2017,4/6/2017,JF-15415,Delta,246,DFW-CMH,Business,348,Janet Lee
+agannaway@vizpainter.com,3587,6/24/2019,9/7/2019,AG-10300,AA,88,DFW-CMH,Economy,20,Aleksandra Gannaway
+amcfarland@vizpainter.com,5357,9/25/2018,10/3/2018,AR-10540,United,236,DFW-SEA,Business,47,Anne McFarland
+rwaldorf@vizpainter.com,498,6/29/2018,7/31/2018,SC-20095,American Airlines,272,DFW-MCO,Economy,645,Robert Waldorf
+tchand@vizpainter.com,9600,3/6/2017,4/18/2017,TP-21130,Delta,224,DFW-GRB,Economy,731,Tamara Chand
+dcatini@vizpainter.com,8853,8/10/2016,10/13/2016,DN-13690,Delta,278,DFW-COS,Business,218,Debra Catini
+otoch@vizpainter.com,5109,4/4/2019,4/26/2019,PN-18775,American (AA),248,DFW-CMH,Business,581,Olvera Toch
+cmolinari@vizpainter.com,7872,9/1/2018,10/7/2018,DB-12910,AA,64,DFW-IAD,Economy,180,Craig Molinari
+bwallace@vizpainter.com,2644,3/1/2018,4/21/2018,BF-11170,Delta,262,DFW-SAN,Economy,80,Ben Wallace
+ccheatham@vizpainter.com,1119,8/9/2017,9/8/2017,CS-12355,AA,285,DFW-HIO,Economy,169,Clay Cheatham
+jmackendrick@vizpainter.com,2905,5/13/2018,6/30/2018,KH-16330,United,490,DFW-SLC,Business,412,Justin MacKendrick
+rhightower@vizpainter.com,1423,9/13/2017,9/30/2017,RW-19540,Delta,211,DFW-SEA,Economy,636,Ritsa Hightower
+ebarchas@vizpainter.com,3978,7/12/2019,10/7/2019,FG-14260,United,232,DFW-BUR,Economy,273,Eugene Barchas
+fchung@vizpainter.com,9160,7/19/2018,8/14/2018,GH-14410,American Airlines,53,DFW-SEA,Economy,288,Fred Chung
+ehildebrand@vizpainter.com,7572,10/12/2016,10/26/2016,FH-14275,Delta,371,DFW-JFK,Economy,274,Eugene Hildebrand
+agrove@vizpainter.com,847,9/16/2017,10/17/2017,AF-10885,American (AA),116,DFW-SAN,Economy,18,Alejandro Grove
+khughes@vizpainter.com,9913,7/22/2017,10/12/2017,KN-16390,United,504,DFW-SLC,Business,423,Katherine Hughes
+knunn@vizpainter.com,7460,3/26/2017,4/18/2017,LL-16840,United,153,DFW-BUF,Economy,446,Kristina Nunn
+larmstrong@vizpainter.com,597,7/2/2016,8/15/2016,LR-16915,United,390,DFW-SAN,Business,451,Laura Armstrong
+aandreadi@vizpainter.com,9806,8/1/2018,10/26/2018,AP-10720,American,423,DFW-MCO,Business,43,Anna Andreadi
+emull@vizpainter.com,6042,8/24/2019,9/28/2019,FA-14230,American Airlines,150,DFW-CHS,Economy,270,Erin Mull
+ajarboe@vizpainter.com,8768,10/24/2017,11/27/2017,BB-11545,United,63,DFW-SEA,Economy,63,Ashley Jarboe
+fpreis@vizpainter.com,2064,9/1/2016,11/4/2016,GG-14650,American,114,DFW-SEA,Economy,287,Frank Preis
+ncrebassa@vizpainter.com,4214,3/16/2016,5/9/2016,PF-19120,United,177,DFW-COS,Economy,568,Nick Crebassa
+schance@vizpainter.com,2538,12/24/2016,1/29/2017,SV-20365,American (AA),123,DFW-SAN,Economy,695,Shaun Chance
+azypern@vizpainter.com,1988,9/28/2017,11/13/2017,AS-10090,Delta,197,DFW-SEA,Economy,50,Annie Zypern
+tturnell@vizpainter.com,482,9/26/2016,10/10/2016,XP-21865,AA,183,DFW-HIO,Economy,762,Tonja Turnell
+hholden@vizpainter.com,6785,6/7/2019,7/28/2019,JC-15775,Delta,246,DFW-ELP,Business,333,Hilary Holden
+deno@vizpainter.com,3966,10/19/2016,11/17/2016,DM-13345,United,228,DFW-CMH,Business,216,Deanra Eno
+jcacioppo@vizpainter.com,8958,12/1/2019,12/28/2019,JH-15430,Delta,167,DFW-CHS,Economy,355,Jasper Cacioppo
+ahood@vizpainter.com,5163,10/27/2018,11/23/2018,AJ-10945,United,333,DFW-SLC,Economy,39,Angele Hood
+bstewart@vizpainter.com,9310,2/26/2016,3/30/2016,CA-12265,United,164,DFW-CMH,Economy,117,Bruce Stewart
+lbeltran@vizpainter.com,8368,5/13/2016,9/12/2016,LR-17035,Delta,235,DFW-COS,Economy,452,Laurel Beltran
+hredmond@vizpainter.com,1362,10/9/2019,10/24/2019,HM-14860,United,182,DFW-COS,Economy,317,Hallie Redmond
+lcastell@vizpainter.com,9768,11/11/2019,12/15/2019,LW-17215,American Airlines,107,DFW-SEA,Economy,463,Lindsay Castell
+jlebron@vizpainter.com,3126,5/27/2017,6/12/2017,JE-15610,United,400,DFW-JFK,Business,341,Jack Lebron
+cmeador@vizpainter.com,3237,3/15/2018,5/2/2018,CC-12475,United,350,DFW-JFK,Business,128,Carlos Meador
+ltron@vizpainter.com,7465,8/8/2018,9/15/2018,LP-17095,AA,248,DFW-COS,Business,450,Larry Tron
+scoram@vizpainter.com,8934,3/10/2018,3/19/2018,SP-20545,Delta,280,DFW-MCO,Economy,681,Scot Coram
+nchilds@vizpainter.com,5677,3/27/2016,6/2/2016,PJ-18835,Delta,350,DFW-HIO,Business,574,Noah Childs
+bdonatelli@vizpainter.com,2791,7/14/2016,9/22/2016,BM-11650,AA,523,DFW-GRB,1st Class,88,Bill Donatelli
+ahane@vizpainter.com,1601,10/11/2019,11/21/2019,AB-10150,Delta,575,DFW-MCO,1st Class,8,Adrian Hane
+aratner@vizpainter.com,4039,11/2/2016,1/2/2017,AJ-10795,United,113,DFW-COS,Economy,38,Anemone Ratner
+dwiener@vizpainter.com,4113,12/21/2017,1/1/2018,DL-13495,American,185,DFW-CMH,Business,212,David Wiener
+pmacintyre@vizpainter.com,2577,10/18/2016,11/27/2016,RA-19885,AA,275,DFW-MEM,Business,595,Paul MacIntyre
+dlatchford@vizpainter.com,8521,9/28/2019,12/10/2019,DO-13645,AA,532,DFW-SLC,1st Class,220,Delfina Latchford
+jsmith@vizpainter.com,3770,11/19/2016,12/20/2016,KB-16585,Delta,230,DFW-BUR,Economy,401,Joy Smith
+kducich@vizpainter.com,65,10/25/2017,11/30/2017,KM-16720,American Airlines,166,DFW-COS,Business,422,Katherine Ducich
+sperrino@vizpainter.com,9136,2/2/2018,4/17/2018,TB-21175,AA,472,DFW-JFK,Business,707,Stefania Perrino
+mkennedy@vizpainter.com,5983,10/13/2018,11/28/2018,MV-18190,Delta,125,DFW-COS,Economy,526,Michael Kennedy
+btalbott@vizpainter.com,5842,9/4/2017,11/21/2017,BS-11665,United,224,DFW-SAN,Economy,102,Bradley Talbott
+ddickinson@vizpainter.com,7484,11/4/2016,12/17/2016,EB-13705,United,400,DFW-SLC,Economy,237,Dorothy Dickinson
+rd'ascenzo@vizpainter.com,624,10/10/2017,12/3/2017,SF-20965,American Airlines,149,DFW-GRB,Economy,661,Russell D'Ascenzo
+emurdock@vizpainter.com,2954,10/5/2019,11/12/2019,EM-14140,Delta,214,DFW-SAN,Economy,263,Eric Murdock
+bkampe@vizpainter.com,9,5/6/2016,6/14/2016,BH-11710,Delta,284,DFW-SEA,Business,84,Berenike Kampe
+tseio@vizpainter.com,7132,11/11/2019,12/1/2019,TT-21460,AA,65,DFW-ELP,Economy,746,Thomas Seio
+jjenkins@vizpainter.com,5616,7/10/2018,8/26/2018,JP-15460,Delta,409,DFW-GRB,Business,383,Joel Jenkins
+mtillman@vizpainter.com,9664,6/19/2019,9/5/2019,MS-17770,Delta,321,DFW-JFK,Economy,520,Meg Tillman
+sgoranitis@vizpainter.com,60,3/22/2018,6/18/2018,TB-21055,Delta,247,DFW-HIO,Economy,706,Speros Goranitis
+tturnell@vizpainter.com,4487,10/8/2018,11/8/2018,XP-21865,AA,219,DFW-COS,Economy,762,Tonja Turnell
+jdunbar@vizpainter.com,5517,11/5/2018,11/20/2018,KC-16255,American (AA),390,DFW-HIO,Business,403,Julia Dunbar
+snguyen@vizpainter.com,284,8/26/2017,10/2/2017,TB-21520,United,69,DFW-COS,Economy,713,Steve Nguyen
+cdarley@vizpainter.com,9381,12/11/2016,12/27/2016,CC-12670,Delta,520,DFW-SLC,1st Class,131,Carol Darley
+csievert@vizpainter.com,2199,2/14/2017,4/2/2017,CK-12205,United,235,DFW-COS,Economy,141,Chad Sievert
+smackendrick@vizpainter.com,3980,10/26/2016,12/27/2016,TH-21235,Delta,115,DFW-ELP,Economy,726,Susan MacKendrick
+lsmith@vizpainter.com,6856,10/25/2019,12/27/2019,MF-18250,AA,271,DFW-COS,Business,482,Lynn Smith
+kducich@vizpainter.com,9727,10/25/2019,12/4/2019,KM-16720,Delta,219,DFW-GRB,Economy,422,Katherine Ducich
+cbergmann@vizpainter.com,5481,9/18/2019,10/13/2019,CS-12250,Delta,477,DFW-SAN,1st Class,168,Claudia Bergmann
+jpistek@vizpainter.com,5787,9/14/2019,10/8/2019,JK-16090,American,221,DFW-SEA,Economy,367,Jeremy Pistek
+rmesse@vizpainter.com,6763,7/25/2018,9/8/2018,RL-19615,Delta,78,DFW-IAD,Economy,624,Raymond Messe
+jmatthias@vizpainter.com,9187,7/8/2019,8/11/2019,JL-15505,United,271,DFW-GRB,Economy,371,Jill Matthias
+jblumstein@vizpainter.com,5556,7/28/2019,10/5/2019,JW-15220,United,273,DFW-MCO,Business,394,Joni Blumstein
+ccarreira@vizpainter.com,7821,11/7/2019,12/10/2019,CW-11905,United,548,DFW-JFK,1st Class,177,Craig Carreira
+croper@vizpainter.com,2035,9/16/2019,9/29/2019,CT-11995,American,79,DFW-SEA,Economy,174,Corey Roper
+cmolinari@vizpainter.com,7873,9/9/2018,10/7/2018,DB-12910,United,442,DFW-SLC,Business,180,Craig Molinari
+kherrera@vizpainter.com,9703,7/26/2019,8/4/2019,LB-16795,United,103,DFW-COS,Economy,433,Keith Herrera
+scoram@vizpainter.com,1272,12/24/2017,4/26/2018,SP-20545,Delta,300,DFW-GRB,Economy,681,Scot Coram
+sbraxton@vizpainter.com,6113,9/9/2018,11/16/2018,SP-20920,AA,245,DFW-BUR,Business,685,Sean Braxton
+mkennedy@vizpainter.com,390,10/19/2019,12/15/2019,MV-18190,Delta,199,DFW-SEA,Economy,526,Michael Kennedy
+jcreighton@vizpainter.com,3330,10/31/2016,11/15/2016,KD-16270,United,127,DFW-SAN,Economy,406,Julie Creighton
+bdegenhardt@vizpainter.com,6528,12/3/2018,12/27/2018,CA-11965,Delta,150,DFW-LNK,Economy,115,Bruce Degenhardt
+lryan@vizpainter.com,4108,7/21/2017,9/7/2017,MC-17275,Delta,341,DFW-JFK,Economy,468,Lisa Ryan
+cmitchell@vizpainter.com,111,11/7/2019,12/29/2019,CV-12805,Delta,537,DFW-MCO,1st Class,176,Corinna Mitchell
+dlatchford@vizpainter.com,7905,9/26/2017,11/13/2017,DO-13645,United,231,DFW-COS,Business,220,Delfina Latchford
+scartwright@vizpainter.com,447,2/2/2019,3/25/2019,TB-21595,Delta,359,DFW-MCO,Economy,714,Steven Cartwright
+asavely@vizpainter.com,7384,8/3/2018,9/18/2018,AG-10270,American (AA),106,DFW-COS,Economy,19,Alejandro Savely
+ahwang@vizpainter.com,1956,8/18/2019,9/5/2019,AC-10615,United,360,DFW-HIO,Business,14,Alan Hwang
+asdfa,1002,6/24/2017,7/31/2017,RH-19495,American (AA),165,DFW-HIO,Economy,619,Ralph Kennedy
+dkotsonis@vizpainter.com,3048,8/25/2016,10/4/2016,DB-13615,Delta,83,DFW-SEA,Economy,188,Damala Kotsonis
+hengle@vizpainter.com,9557,11/5/2017,12/5/2017,HP-14815,American Airlines,342,DFW-COS,Business,319,Harold Engle
+mludwig@vizpainter.com,724,8/4/2016,10/13/2016,MR-17545,Delta,348,DFW-MCO,Economy,516,Max Ludwig
+awiediger@vizpainter.com,9194,10/25/2017,11/7/2017,BB-10990,Delta,176,DFW-SAN,Economy,62,Arthur Wiediger
+hgreene@vizpainter.com,6419,10/20/2018,11/4/2018,HW-14935,United,63,DFW-DSM,Economy,322,Harry Greene
+mhagelstein@vizpainter.com,8359,3/24/2016,4/18/2016,MM-18055,Delta,161,DFW-SAN,Economy,507,Matt Hagelstein
+afoster@vizpainter.com,8720,5/24/2018,6/16/2018,AW-10930,Delta,81,DFW-COS,Economy,59,Art Foster
+mhamilton@vizpainter.com,4924,11/14/2019,12/29/2019,MH-18115,United,214,DFW-COS,Economy,496,Mark Hamilton
+ddickinson@vizpainter.com,2043,8/18/2017,10/8/2017,EB-13705,Delta,142,DFW-SEA,Economy,237,Dorothy Dickinson
+carntzen@vizpainter.com,3651,10/16/2019,12/11/2019,DB-13210,American (AA),526,DFW-HIO,1st Class,184,Cynthia Arntzen
+jhirsh@vizpainter.com,3044,8/20/2019,9/12/2019,KF-16285,AA,349,DFW-SLC,Economy,411,Justin Hirsh
+jcacioppo@vizpainter.com,8957,11/25/2019,12/28/2019,JH-15430,Delta,380,DFW-MCO,Business,355,Jasper Cacioppo
+dlacy@vizpainter.com,8925,1/23/2018,2/3/2018,DF-13135,AA,408,DFW-SAN,Business,194,Daniel Lacy
+bvenier@vizpainter.com,6591,3/10/2016,3/26/2016,BG-11740,Delta,480,DFW-IAD,1st Class,83,Benjamin Venier
+abixby@vizpainter.com,4573,5/5/2019,7/21/2019,AB-10255,AA,359,DFW-LNK,Business,10,Aimee Bixby
+gphonely@vizpainter.com,2186,6/30/2019,8/3/2019,HK-14890,United,159,DFW-SEA,Business,315,Guy Phonely
+khastings@vizpainter.com,3740,11/30/2018,12/13/2018,LH-17155,United,311,DFW-HIO,Economy,445,Kristen Hastings
+nlomonaco@vizpainter.com,2399,7/5/2019,8/16/2019,NP-18700,United,223,DFW-CMH,Economy,553,Nancy Lomonaco
+aallen@vizpainter.com,4885,3/5/2019,3/15/2019,AH-10210,United,246,DFW-CMH,Business,32,Andrew Allen
+pcoakley@vizpainter.com,4298,7/9/2019,8/26/2019,PO-18850,Delta,140,DFW-SAN,Economy,582,Pamela Coakley
+sshifley@vizpainter.com,7854,12/14/2017,12/29/2017,SM-20320,AA,74,DFW-COS,Economy,675,Saphhira Shifley
+dbrumfield@vizpainter.com,5383,8/15/2018,9/6/2018,DM-13525,United,90,DFW-BUR,Economy,217,Deborah Brumfield
+jdunbar@vizpainter.com,941,5/14/2018,6/19/2018,KC-16255,United,470,DFW-COS,1st Class,403,Julia Dunbar
+boverfelt@vizpainter.com,8440,12/26/2018,3/16/2019,BN-11470,Delta,263,DFW-SAN,Economy,90,Bill Overfelt
+kbraun@vizpainter.com,2379,11/11/2017,12/11/2017,KM-16375,Delta,72,DFW-COS,Economy,420,Karl Braun
+dbyrd@vizpainter.com,1027,12/18/2017,1/13/2018,DE-13255,Delta,100,DFW-COS,Economy,193,Daniel Byrd
+pwener@vizpainter.com,4810,11/29/2017,12/30/2017,RE-19450,United,255,DFW-COS,Economy,615,Pierre Wener
+jkunitz@vizpainter.com,5939,5/15/2019,5/25/2019,JF-15295,United,187,DFW-SAN,Economy,346,Jamie Kunitz
+lryan@vizpainter.com,4109,6/30/2017,9/7/2017,MC-17275,American (AA),348,DFW-ELP,Business,468,Lisa Ryan
+dbudd@vizpainter.com,3852,9/11/2017,9/21/2017,DH-13675,United,175,DFW-MCO,Economy,197,Darren Budd
+ahwang@vizpainter.com,1949,8/23/2019,9/5/2019,AC-10615,American Airlines,234,DFW-ELP,Business,14,Alan Hwang
+bgonzalez@vizpainter.com,5330,9/18/2018,12/28/2018,BD-11620,American (AA),222,DFW-SEA,Economy,69,Barry Gonzalez
+mpacker@vizpainter.com,8739,11/28/2019,12/11/2019,MJ-17740,Delta,196,DFW-CMH,Economy,497,Mark Packer
+mjones@vizpainter.com,2947,11/24/2019,12/18/2019,MP-18175,Delta,197,DFW-MCO,Economy,515,Max Jones
+dwilson@vizpainter.com,583,10/31/2019,12/5/2019,DV-13465,Delta,226,DFW-SAN,Economy,231,Dianna Wilson
+msatty@vizpainter.com,193,9/16/2017,10/14/2017,MP-17470,AA,249,DFW-BUF,Business,513,Maurice Satty
+jdoherty@vizpainter.com,6054,8/24/2018,9/26/2018,JS-15940,Delta,229,DFW-MCO,Economy,392,Jonathan Doherty
+jcreighton@vizpainter.com,8002,11/24/2017,12/15/2017,KD-16270,United,357,DFW-HIO,Economy,406,Julie Creighton
+sgilcrest@vizpainter.com,5505,10/18/2019,11/5/2019,TH-21115,United,339,DFW-MEM,Business,725,Susan Gilcrest
+ncrebassa@vizpainter.com,4213,3/8/2016,5/9/2016,PF-19120,United,172,DFW-CMH,Business,568,Nick Crebassa
+tseio@vizpainter.com,1757,10/28/2017,12/11/2017,TT-21460,United,317,DFW-SAN,Business,746,Thomas Seio
+mmoray@vizpainter.com,8948,8/25/2019,12/27/2019,NC-18535,Delta,217,DFW-SEA,Economy,536,Michelle Moray
+mpacker@vizpainter.com,9168,6/9/2018,6/26/2018,MJ-17740,United,205,DFW-GRB,Economy,497,Mark Packer
+po'donnell@vizpainter.com,1102,5/23/2018,6/17/2018,PV-18985,American,193,DFW-CMH,Economy,590,Patrick O'Donnell
+sbrown@vizpainter.com,2042,4/2/2017,6/23/2017,SN-20560,Delta,235,DFW-MCO,Economy,678,Sarah Brown
+beplett@vizpainter.com,1306,4/1/2018,7/16/2018,BM-11785,United,211,DFW-SAN,Business,89,Bill Eplett
+jbraxton@vizpainter.com,9316,2/15/2018,4/9/2018,JH-16180,Delta,349,DFW-SAN,Business,359,Jennifer Braxton
+ahawkins@vizpainter.com,2265,11/6/2018,11/16/2018,AA-10375,Delta,189,DFW-COS,Business,2,Aaron Hawkins
+hzydlo@vizpainter.com,3024,10/18/2019,11/23/2019,JB-16000,American,153,DFW-BUF,Economy,329,Henia Zydlo
+folsen@vizpainter.com,5926,4/14/2019,6/7/2019,GD-14590,AA,369,DFW-HIO,Business,286,Frank Olsen
+jgross@vizpainter.com,7409,4/23/2018,6/5/2018,JG-15310,Delta,397,DFW-MCO,Business,353,Jason Gross
+pprost@vizpainter.com,806,10/3/2016,11/7/2016,RA-19915,Delta,177,DFW-CMH,Business,596,Paul Prost
+npaige@vizpainter.com,445,6/11/2018,9/7/2018,PK-19075,United,456,DFW-SLC,Business,577,Nora Paige
+csievert@vizpainter.com,2200,2/21/2017,4/2/2017,CK-12205,Delta,255,DFW-COS,Economy,141,Chad Sievert
+mdona@vizpainter.com,5789,1/16/2019,4/13/2019,MG-18205,Delta,345,DFW-MCO,Business,489,Maribeth Dona
+agannaway@vizpainter.com,2615,3/9/2016,5/3/2016,AG-10300,AA,317,DFW-SLC,Economy,20,Aleksandra Gannaway
+dliebe@vizpainter.com,570,6/16/2019,10/7/2019,EB-13840,American (AA),370,DFW-SLC,Economy,239,Dorris liebe
+lwillingham@vizpainter.com,8212,10/19/2018,11/12/2018,MC-17845,American (AA),220,DFW-MCO,Economy,474,Liz Willingham
+rbarroso@vizpainter.com,6673,7/28/2017,9/16/2017,SB-20290,United,268,DFW-CMH,Business,642,Robert Barroso
+jo'briant@vizpainter.com,5420,9/26/2017,10/26/2017,JE-15715,United,297,DFW-SAN,Economy,342,Jack O'Briant
+mgrace@vizpainter.com,8306,7/14/2018,8/16/2018,MT-18070,United,335,DFW-COS,Business,524,Michael Grace
+jklamczynski@vizpainter.com,480,5/14/2018,7/1/2018,JG-15805,Delta,245,DFW-CMH,Economy,354,Jason Klamczynski
+cyedwab@vizpainter.com,1181,6/14/2016,6/25/2016,DB-13060,Delta,378,DFW-SAN,1st Class,182,Craig Yedwab
+bpaige@vizpainter.com,1228,9/8/2018,12/5/2018,BM-11140,American Airlines,398,DFW-JFK,Economy,86,Beth Paige
+fcarlisle@vizpainter.com,2754,3/26/2017,4/21/2017,GA-14515,Delta,177,DFW-HIO,Economy,282,Frank Carlisle
+mpaige@vizpainter.com,3834,10/12/2016,11/24/2016,MY-18295,United,130,DFW-SAN,Economy,530,Michael Paige
+mjones@vizpainter.com,2812,10/13/2017,11/18/2017,MP-18175,United,175,DFW-MCO,Economy,515,Max Jones
+ahane@vizpainter.com,2631,9/6/2017,9/15/2017,AB-10150,Delta,350,DFW-COS,1st Class,8,Adrian Hane
+jmyrick@vizpainter.com,3505,11/15/2018,12/20/2018,JK-16120,American,334,DFW-JFK,Business,368,Jessica Myrick
+kherrera@vizpainter.com,4725,10/29/2018,11/15/2018,LB-16795,AA,196,DFW-SEA,Business,433,Keith Herrera
+bfranz,8488,12/30/2018,3/31/2019,BD-11560,United,103,DFW-COS,Economy,67,Barry Franz
+mhaberlin@vizpainter.com,9223,9/20/2019,10/14/2019,MH-18025,Delta,69,DFW-COS,Economy,495,Mark Haberlin
+nfritzler@vizpainter.com,3051,9/2/2019,10/11/2019,NZ-18565,United,483,DFW-MCO,1st Class,558,Natalie Fritzler
+mchen@vizpainter.com,4503,5/18/2016,7/4/2016,MS-17980,American (AA),210,DFW-BUR,Economy,522,Michael Chen
+dbenoit@vizpainter.com,4813,10/22/2018,11/19/2018,EB-14110,United,197,DFW-LNK,Business,243,Duane Benoit
+amccarthy@vizpainter.com,8628,8/28/2017,9/12/2017,AG-10525,Delta,178,DFW-HIO,Economy,24,Alice McCarthy
+jmurray@vizpainter.com,7965,7/23/2019,11/22/2019,JS-15685,Delta,263,DFW-COS,Business,390,John Murray
+bfolk@vizpainter.com,1781,10/20/2018,11/16/2018,BD-11770,United,510,DFW-JFK,1st Class,72,Bart Folk
+imcgrath@vizpainter.com,303,9/6/2018,11/2/2018,JD-15895,American,90,DFW-SEA,Economy,336,Ionia McGrath
+nducich@vizpainter.com,2517,10/3/2016,11/22/2016,PB-19105,American,204,DFW-MEM,Business,563,Neil Ducich
+dbenoit@vizpainter.com,9556,9/3/2017,12/2/2017,EB-14110,United,288,DFW-BUR,Business,243,Duane Benoit
+mtillman@vizpainter.com,4608,4/8/2017,6/2/2017,MS-17770,Delta,402,DFW-JFK,Economy,520,Meg Tillman
+mludwig@vizpainter.com,1797,8/5/2019,8/30/2019,MR-17545,AA,324,DFW-SAN,Business,516,Max Ludwig
+deno@vizpainter.com,5408,9/13/2019,12/13/2019,DM-13345,United,167,DFW-COS,Economy,216,Deanra Eno
+dvittorini@vizpainter.com,7347,10/11/2019,12/16/2019,DV-13045,American Airlines,197,DFW-CMH,Economy,230,Dianna Vittorini
+lschmidt@vizpainter.com,5873,12/9/2018,4/3/2019,ME-17320,American (AA),442,DFW-JFK,Business,479,Luke Schmidt
+bcastell@vizpainter.com,1795,8/6/2018,9/10/2018,BE-11455,Delta,164,DFW-CMH,Economy,75,Becky Castell
+jklamczynski@vizpainter.com,990,4/12/2019,5/25/2019,JG-15805,Delta,197,DFW-CMH,Economy,354,Jason Klamczynski
+jkimmel@vizpainter.com,219,10/22/2018,11/1/2018,JH-15910,United,138,DFW-SAN,Economy,357,Jay Kimmel
+aandreadi@vizpainter.com,6951,9/26/2019,11/19/2019,AP-10720,American,445,DFW-ELP,1st Class,43,Anna Andreadi
+mschwartz@vizpainter.com,4834,10/13/2016,11/12/2016,MS-17365,United,208,DFW-SEA,Economy,517,Maxwell Schwartz
+eminnotte@vizpainter.com,9264,10/5/2017,10/13/2017,FM-14380,United,174,DFW-GRB,Economy,279,Evan Minnotte
+pbreyer@vizpainter.com,5872,8/22/2018,9/28/2018,RD-19900,Delta,168,DFW-MCO,Economy,613,Phillip Breyer
+cjackson@vizpainter.com,5969,6/10/2016,7/22/2016,CC-12145,Delta,170,DFW-COS,Business,124,Carl Jackson
+cbrandow@vizpainter.com,1894,9/28/2018,11/29/2018,CD-11980,AA,133,DFW-COS,Economy,134,Cassandra Brandow
+ashillingsburg@vizpainter.com,8170,9/29/2019,11/13/2019,AB-10060,United,401,DFW-SLC,Economy,6,Adam Shillingsburg
+hmarie@vizpainter.com,2799,9/19/2019,10/27/2019,IG-15085,United,153,DFW-COS,Economy,323,Harry Marie
+imcgrath@vizpainter.com,341,3/26/2016,4/17/2016,JD-15895,AA,400,DFW-CMH,1st Class,336,Ionia McGrath
+gmatthias@vizpainter.com,1316,12/2/2018,12/22/2018,HG-14965,American Airlines,385,DFW-MCO,Business,311,Greg Matthias
+pbreyer@vizpainter.com,3207,11/3/2016,11/16/2016,RD-19900,AA,161,DFW-MCO,Economy,613,Phillip Breyer
+grosenberg@vizpainter.com,7822,8/26/2018,10/24/2018,GW-14605,United,389,DFW-JFK,Economy,303,Georgia Rosenberg
+parmstrong@vizpainter.com,4995,12/4/2017,12/25/2017,RB-19645,United,282,DFW-MCO,Economy,603,Pete Armstrong
+emurdock@vizpainter.com,6344,2/24/2017,3/10/2017,EM-14140,American Airlines,42,DFW-SEA,Economy,263,Eric Murdock
+nstaavos@vizpainter.com,7987,5/25/2018,7/23/2018,PJ-19015,United,154,DFW-SAN,Economy,575,Noel Staavos
+mgnade@vizpainter.com,2771,3/24/2017,4/7/2017,MO-17950,American,562,DFW-HIO,1st Class,512,Maureen Gnade
+dpowers@vizpainter.com,2534,6/18/2016,8/21/2016,DJ-13510,Delta,264,DFW-HIO,Economy,199,Darren Powers
+,6883,11/1/2017,12/5/2017,TW-21025,American (AA),231,DFW-JFK,Economy,747,Thomas Thornton
+bmills@vizpainter.com,822,6/16/2016,7/2/2016,CA-12775,Delta,69,DFW-COS,Economy,119,Bryan Mills
+rwilliams@vizpainter.com,6202,3/21/2017,4/20/2017,SB-20185,American Airlines,359,DFW-HIO,Economy,641,Rob Williams
+twillingham@vizpainter.com,7401,8/6/2018,9/13/2018,TR-21325,United,441,DFW-MCO,1st Class,734,Tamara Willingham
+lcacioppo@vizpainter.com,5818,8/30/2016,11/26/2016,LS-17245,Delta,227,DFW-SEA,Economy,457,Lena Cacioppo
+jblumstein@vizpainter.com,8857,9/26/2019,10/19/2019,JW-15220,United,455,DFW-HIO,Business,394,Joni Blumstein
+tturnell@vizpainter.com,8329,7/26/2019,10/11/2019,XP-21865,United,240,DFW-COS,Business,762,Tonja Turnell
+ttrevino@vizpainter.com,7853,11/27/2016,12/15/2016,TS-21205,American (AA),350,DFW-GRB,Business,737,Ted Trevino
+amccarthy@vizpainter.com,8627,6/3/2017,9/12/2017,AG-10525,United,396,DFW-JFK,Economy,24,Alice McCarthy
+gguthrie@vizpainter.com,3162,9/17/2016,9/25/2016,HF-14995,American (AA),175,DFW-MEM,Economy,309,Greg Guthrie
+bdegenhardt@vizpainter.com,8151,9/28/2015,1/29/2016,CA-11965,Delta,454,DFW-BUF,1st Class,115,Bruce Degenhardt
+bdavis@vizpainter.com,4902,11/28/2019,12/20/2019,CA-12310,Delta,88,DFW-DSM,Economy,118,Bryan Davis
+jcastell@vizpainter.com,5728,10/7/2019,12/13/2019,JP-15520,United,198,DFW-HIO,Economy,384,John Castell
+kducich@vizpainter.com,6572,3/25/2016,4/22/2016,KM-16720,American (AA),221,DFW-HIO,Economy,422,Katherine Ducich
+eballard@vizpainter.com,8395,11/24/2018,12/6/2018,EJ-14155,American Airlines,219,DFW-GRB,Economy,255,Ellis Ballard
+ckelty@vizpainter.com,3378,10/20/2018,11/3/2018,CS-12490,Delta,324,DFW-JFK,Economy,172,Clytie Kelty
+dhallsten@vizpainter.com,7812,1/23/2018,2/15/2018,DK-13090,United,106,DFW-CMH,Economy,204,Dave Hallsten
+sgoranitis@vizpainter.com,3346,8/16/2018,9/1/2018,TB-21055,United,213,DFW-BUR,Business,706,Speros Goranitis
+pbreyer@vizpainter.com,7295,3/29/2017,5/31/2017,RD-19900,United,301,DFW-MCO,Economy,613,Phillip Breyer
+arosenblatt@vizpainter.com,9162,11/26/2018,12/12/2018,AG-10900,American (AA),68,DFW-BUF,Economy,27,Allen Rosenblatt
+ghale@vizpainter.com,2030,11/12/2017,11/30/2017,GP-14740,Delta,248,DFW-JFK,Economy,298,Gene Hale
+mcollister@vizpainter.com,4347,8/13/2018,9/25/2018,MM-17260,American,396,DFW-SLC,Economy,505,Matt Collister
+imcgrath@vizpainter.com,8682,8/9/2018,12/2/2018,JD-15895,United,157,DFW-DSM,Economy,336,Ionia McGrath
+asd,6363,10/4/2019,11/25/2019,CK-12205,American Airlines,76,DFW-SEA,Economy,141,Chad Sievert
+ldonovan@vizpainter.com,3937,5/3/2017,6/20/2017,LS-17230,United,298,DFW-MEM,Business,456,Lela Donovan
+bfritzler@vizpainter.com,2017,2/17/2017,3/23/2017,BK-11260,Delta,286,DFW-SEA,Business,85,Beth Fritzler
+cschild@vizpainter.com,759,7/5/2019,7/27/2019,CP-12340,Delta,115,DFW-SEA,Economy,159,Christopher Schild
+fgastineau@vizpainter.com,6060,10/16/2016,1/3/2017,GA-14725,Delta,213,DFW-HIO,Economy,283,Frank Gastineau
+rcollins@vizpainter.com,9435,7/22/2017,8/23/2017,SC-20725,United,98,DFW-CMH,Economy,654,Roy Collins
+cmeador@vizpainter.com,8869,10/7/2018,11/8/2018,CC-12475,American Airlines,315,DFW-CHS,Business,128,Carlos Meador
+smiller@vizpainter.com,7915,6/4/2019,6/21/2019,SR-20740,United,251,DFW-CHS,Economy,687,Sean Miller
+bderr@vizpainter.com,9141,9/9/2019,10/2/2019,BT-11530,American,560,DFW-HIO,1st Class,109,Brian Derr
+scooley@vizpainter.com,9072,4/6/2017,6/16/2017,SZ-20035,Delta,334,DFW-JFK,Economy,704,Sonia Cooley
+fgastineau@vizpainter.com,849,10/22/2018,1/6/2019,GA-14725,American (AA),381,DFW-MCO,Business,283,Frank Gastineau
+mlichtenstein@vizpainter.com,9873,8/19/2019,10/6/2019,MH-17455,American (AA),327,DFW-CMH,Business,492,Marina Lichtenstein
+ltron@vizpainter.com,8198,8/2/2019,9/9/2019,LP-17095,AA,116,DFW-CMH,Economy,450,Larry Tron
+ttrevino@vizpainter.com,8703,4/21/2019,6/19/2019,TS-21205,United,157,DFW-COS,Economy,737,Ted Trevino
+dkotsonis@vizpainter.com,336,8/19/2017,9/4/2017,DB-13615,Delta,259,DFW-LNK,Business,188,Damala Kotsonis
+pjohnson@vizpainter.com,9968,11/2/2019,12/17/2019,RB-19435,Delta,52,DFW-SEA,Economy,600,Pauline Johnson
+kbraun@vizpainter.com,6655,1/7/2019,2/27/2019,KM-16375,United,110,DFW-SAN,Economy,420,Karl Braun
+sweien@vizpainter.com,9059,9/11/2017,10/24/2017,SV-20785,American,234,DFW-ELP,Economy,696,Shaun Weien
+svisinsky@vizpainter.com,7500,5/7/2019,7/18/2019,TC-21295,American Airlines,332,DFW-MCO,Economy,718,Stewart Visinsky
+ccortes@vizpainter.com,4559,12/8/2016,1/5/2017,CM-11815,United,167,DFW-MEM,Economy,147,Chris Cortes
+mmacintyre@vizpainter.com,8020,8/27/2019,11/5/2019,NP-18670,United,302,DFW-GRB,Economy,551,Muhammed MacIntyre
+pknutson@vizpainter.com,8011,3/2/2016,3/20/2016,QJ-19255,American Airlines,493,DFW-COS,1st Class,593,Paul Knutson
+lhaushalter@vizpainter.com,4591,10/14/2018,12/30/2018,MC-18130,United,467,DFW-DSM,1st Class,476,Logan Haushalter
+bgillingham@vizpainter.com,7829,4/12/2017,5/1/2017,BW-11110,American Airlines,425,DFW-SLC,Business,113,Brooke Gillingham
+mcousins@vizpainter.com,9638,9/30/2016,11/25/2016,MH-17785,Delta,93,DFW-ELP,Economy,494,Mark Cousins
+cmartinez@vizpainter.com,2712,9/24/2019,10/10/2019,CP-12085,American,274,DFW-MCO,Economy,158,Christopher Martinez
+rhaberlin@vizpainter.com,1284,3/17/2019,4/11/2019,SA-20830,American,68,DFW-COS,Economy,639,Rob Haberlin
+hmarie@vizpainter.com,8467,3/22/2017,4/14/2017,IG-15085,United,157,DFW-GRB,Economy,323,Harry Marie
+smiller@vizpainter.com,5814,6/15/2017,7/3/2017,SR-20740,United,233,DFW-COS,Economy,687,Sean Miller
+bstewart@vizpainter.com,8352,4/15/2019,5/7/2019,BO-11350,American,337,DFW-MCO,Economy,92,Bill Stewart
+stom@vizpainter.com,5014,4/5/2019,7/26/2019,SW-20350,Delta,258,DFW-JFK,Economy,701,Shui Tom
+lpreis@vizpainter.com,6161,2/5/2016,3/21/2016,MC-17605,Delta,415,DFW-SAN,1st Class,472,Liz Preis
+abergman@vizpainter.com,1161,5/10/2019,7/4/2019,AA-10315,American,476,DFW-SEA,1st Class,1,Aaron Bergman
+spistek@vizpainter.com,1468,4/3/2017,5/16/2017,TH-21550,Delta,263,DFW-HIO,Economy,727,Susan Pistek
+ghansen@vizpainter.com,805,3/24/2019,4/24/2019,GM-14440,United,341,DFW-MCO,Business,293,Gary Hansen
+spak@vizpainter.com,5672,4/28/2017,6/11/2017,TG-21640,Delta,262,DFW-SAN,Economy,723,Sung Pak
+sward@vizpainter.com,8338,11/29/2016,1/3/2017,TC-20980,Delta,216,DFW-COS,Economy,716,Steven Ward
+bgeld@vizpainter.com,4489,6/4/2017,9/11/2017,CA-12055,United,161,DFW-DSM,Business,116,Bruce Geld
+mmoore@vizpainter.com,9399,8/7/2016,9/23/2016,MW-18220,Delta,242,DFW-SAN,Economy,527,Michael Moore
+jfrazer@vizpainter.com,2011,10/14/2016,11/21/2016,JF-15190,American (AA),396,DFW-COS,1st Class,345,Jamie Frazer
+jo'briant@vizpainter.com,6632,11/7/2018,12/30/2018,JE-15715,United,236,DFW-ELP,Economy,342,Jack O'Briant
+handreada@vizpainter.com,835,5/4/2018,7/26/2018,JB-15400,Delta,264,DFW-GRB,Economy,327,Helen Andreada
+mellison@vizpainter.com,5378,11/23/2016,12/7/2016,NB-18655,United,181,DFW-MEM,Economy,533,Michelle Ellison
+hgoldwyn@vizpainter.com,2987,3/18/2018,5/30/2018,JB-16045,American Airlines,81,DFW-COS,Economy,330,Henry Goldwyn
+jkunitz@vizpainter.com,3292,9/14/2018,11/4/2018,JF-15295,American (AA),151,DFW-CMH,Economy,346,Jamie Kunitz
+jfrazer@vizpainter.com,8810,9/11/2019,10/31/2019,JF-15190,United,209,DFW-IAD,Economy,345,Jamie Frazer
+fhawley@vizpainter.com,8549,10/17/2017,12/10/2017,GB-14530,United,272,DFW-IAD,Business,284,Frank Hawley
+asdf,3570,5/21/2019,7/3/2019,JK-15640,United,92,DFW-CHS,Economy,365,Jeremy Farry
+eludwig,4893,12/14/2018,12/29/2018,EH-13765,United,264,DFW-CMH,Business,248,Ed Ludwig
+ekiefer@vizpainter.com,7895,6/2/2019,6/25/2019,EH-14125,United,186,DFW-SEA,Economy,252,Eileen Kiefer
+mschwartz@vizpainter.com,2617,3/24/2019,4/5/2019,MS-17365,Delta,211,DFW-IAD,Business,517,Maxwell Schwartz
+jellison@vizpainter.com,7336,10/26/2017,12/30/2017,JK-15625,United,296,DFW-HIO,Business,364,Jeremy Ellison
+belias@vizpainter.com,7967,1/3/2017,3/30/2017,BP-11095,United,74,DFW-COS,Economy,94,Bobby Elias
+esmith@vizpainter.com,8891,9/2/2018,10/21/2018,FC-14245,American,415,DFW-GRB,1st Class,271,Erin Smith
+ngelder@vizpainter.com,110,9/21/2017,10/20/2017,PA-19060,United,202,DFW-HIO,Economy,561,Nathan Gelder
+cstewart@vizpainter.com,345,11/14/2017,12/24/2017,CS-12130,Delta,471,DFW-JFK,Business,166,Cindy Stewart
+ngilpin@vizpainter.com,8644,10/22/2017,11/15/2017,NS-18640,United,85,DFW-IAD,Economy,556,Nat Gilpin
+bkampe@vizpainter.com,5759,11/9/2017,11/23/2017,BH-11710,United,66,DFW-CHS,Economy,84,Berenike Kampe
+phirasaki@vizpainter.com,741,12/31/2015,1/8/2016,PO-19195,AA,600,DFW-JFK,1st Class,585,Patricia Hirasaki
+kducich@vizpainter.com,64,11/8/2017,11/30/2017,KM-16720,Delta,182,DFW-SEA,Economy,422,Katherine Ducich
+ecreighton@vizpainter.com,4541,1/14/2017,3/2/2017,ES-14080,American,358,DFW-ELP,1st Class,269,Erin Creighton
+mmoore@vizpainter.com,9648,10/27/2016,11/24/2016,MW-18220,AA,280,DFW-JFK,Economy,527,Michael Moore
+jsink@vizpainter.com,7656,11/26/2017,12/2/2017,JM-15865,United,256,DFW-COS,Business,378,Jim Sink
+mmoray@vizpainter.com,8947,11/6/2019,12/27/2019,NC-18535,American Airlines,140,DFW-COS,Economy,536,Michelle Moray
+ctriggs@vizpainter.com,8494,9/23/2017,10/28/2017,CC-12685,AA,127,DFW-LNK,Economy,132,Carol Triggs
+bfranzösisch@vizpainter.com,526,10/23/2017,1/2/2018,BD-11605,United,175,DFW-BUR,Business,68,Barry Französisch
+dpercer@vizpainter.com,3874,8/20/2018,9/7/2018,DM-13015,Delta,79,DFW-MEM,Economy,215,Dean percer
+kthornton@vizpainter.com,8559,11/22/2018,12/25/2018,LA-16780,Delta,220,DFW-IAD,Economy,431,Kean Thornton
+cmccrossin@vizpainter.com,7166,9/6/2018,9/22/2018,CK-12595,United,505,DFW-JFK,Business,143,Charles McCrossin
+apryor@vizpainter.com,651,11/10/2018,12/15/2018,AR-10825,American,558,DFW-HIO,1st Class,48,Anne Pryor
+gkelly@vizpainter.com,2167,10/7/2018,10/19/2018,HA-14920,Delta,119,DFW-CMH,Economy,307,Grace Kelly
+mdominguez@vizpainter.com,3580,6/28/2018,7/29/2018,MT-17815,American Airlines,124,DFW-COS,Economy,523,Michael Dominguez
+pkriz@vizpainter.com,9580,6/18/2019,9/16/2019,RB-19705,American Airlines,236,DFW-JFK,Economy,604,Pete Kriz
+kandreada@vizpainter.com,9759,2/20/2019,3/29/2019,LC-16870,American,259,DFW-COS,Economy,434,Kelly Andreada
+mherman@vizpainter.com,6581,9/12/2018,10/22/2018,MS-17530,Delta,354,DFW-CMH,1st Class,518,Maya Herman
+pbzostek@vizpainter.com,7923,9/16/2019,9/29/2019,PP-18955,Delta,270,DFW-SAN,Economy,586,Patrick Bzostek
+ajohnson@vizpainter.com,9935,4/3/2018,4/12/2018,AS-10240,AA,154,DFW-GRB,Economy,53,Anthony Johnson
+iliston@vizpainter.com,2942,3/12/2019,3/30/2019,JD-16150,American (AA),394,DFW-SLC,Economy,339,Ivan Liston
+pflathmann@vizpainter.com,3504,2/28/2019,4/10/2019,RD-19930,United,319,DFW-HIO,Economy,614,Phillip Flathmann
+sweien@vizpainter.com,6605,5/4/2018,5/31/2018,SV-20785,United,263,DFW-BUR,Business,696,Shaun Weien
+rfjeld@vizpainter.com,9278,11/1/2019,12/5/2019,SC-20305,American Airlines,229,DFW-IAD,Economy,648,Roland Fjeld
+schapman@vizpainter.com,1519,1/5/2016,2/6/2016,TB-21400,United,60,DFW-SEA,Economy,712,Steve Chapman
+creiter@vizpainter.com,9953,10/21/2017,12/16/2017,DB-12970,AA,242,DFW-SEA,Business,181,Craig Reiter
+jhirsh@vizpainter.com,5469,9/17/2016,9/27/2016,KF-16285,Delta,469,DFW-SLC,Business,411,Justin Hirsh
+lolson@vizpainter.com,9712,9/24/2016,11/10/2016,MD-17350,Delta,136,DFW-SEA,Economy,477,Lori Olson
+mhuthwaite@vizpainter.com,7296,3/25/2016,5/5/2016,NC-18340,United,287,DFW-CMH,Business,534,Michelle Huthwaite
+nfjeld@vizpainter.com,545,3/29/2016,5/16/2016,PG-18895,United,309,DFW-SAN,Business,572,Nicole Fjeld
+nschneider@vizpainter.com,896,11/1/2018,11/11/2018,PC-18745,American (AA),147,DFW-SEA,Business,566,Neola Schneider
+khastings@vizpainter.com,3739,11/28/2018,12/13/2018,LH-17155,American (AA),113,DFW-SAN,Economy,445,Kristen Hastings
+tswindell@vizpainter.com,7993,5/9/2018,6/17/2018,VM-21835,Delta,357,DFW-HIO,Business,755,Toby Swindell
+ecreighton@vizpainter.com,3226,6/12/2016,10/5/2016,ES-14080,Delta,301,DFW-MEM,Business,269,Erin Creighton
+hmacallister@vizpainter.com,533,8/27/2019,9/11/2019,JC-15340,Delta,295,DFW-MCO,Business,331,Henry MacAllister
+swendt@vizpainter.com,8182,10/7/2017,11/25/2017,SS-20410,United,294,DFW-SAN,Economy,689,Sean Wendt
+sroelle@vizpainter.com,4382,9/25/2017,10/30/2017,TB-21625,American Airlines,117,DFW-ELP,Economy,715,Steven Roelle
+abarnes@vizpainter.com,4217,1/5/2017,2/22/2017,AB-10600,United,215,DFW-IAD,Business,11,Alan Barnes
+rbensley@vizpainter.com,1792,10/31/2016,12/3/2016,RP-19390,United,452,DFW-SLC,Economy,630,Rick Bensley
+mzewe@vizpainter.com,5592,9/13/2016,10/18/2016,ML-17395,AA,338,DFW-SLC,Economy,500,Mary Zewe
+rschwarz@vizpainter.com,7333,10/14/2019,10/29/2019,SC-20440,United,280,DFW-SEA,Business,650,Roland Schwarz
+mkennedy@vizpainter.com,6315,10/31/2016,11/29/2016,NG-18355,Delta,133,DFW-CMH,Economy,543,Mike Kennedy
+dwardle@vizpainter.com,6559,4/21/2017,6/10/2017,EB-13750,Delta,313,DFW-SLC,Economy,238,Dorothy Wardle
+cclark@vizpainter.com,657,5/2/2018,8/28/2018,CR-12730,Delta,258,DFW-MEM,Business,161,Chuck Clark
+hzydlo@vizpainter.com,4583,5/30/2018,6/12/2018,JB-16000,United,94,DFW-IAD,Economy,329,Henia Zydlo
+gmatthias@vizpainter.com,9607,10/3/2019,11/8/2019,HG-14965,United,402,DFW-JFK,Economy,311,Greg Matthias
+ecreighton@vizpainter.com,9332,9/13/2018,10/2/2018,ES-14080,Delta,187,DFW-SAN,Economy,269,Erin Creighton
+pwebber@vizpainter.com,5937,6/22/2018,7/4/2018,RB-19465,Delta,373,DFW-SAN,Business,601,Pauline Webber
+aallen@vizpainter.com,2482,10/3/2019,12/31/2019,AH-10210,American Airlines,297,DFW-JFK,Economy,32,Andrew Allen
+jlebron@vizpainter.com,3124,5/2/2017,6/12/2017,JE-15610,United,118,DFW-SEA,Economy,341,Jack Lebron
+kthornton@vizpainter.com,8560,9/16/2018,12/25/2018,LA-16780,American (AA),242,DFW-SAN,Economy,431,Kean Thornton
+tchand@vizpainter.com,2056,12/13/2019,12/25/2019,TP-21130,Delta,390,DFW-HIO,Business,731,Tamara Chand
+bmills@vizpainter.com,6667,3/23/2019,5/14/2019,CA-12775,AA,250,DFW-MCO,Economy,119,Bryan Mills
+lpreis@vizpainter.com,8281,4/11/2019,5/9/2019,MC-17605,United,506,DFW-MEM,1st Class,472,Liz Preis
+dmedina@vizpainter.com,4704,6/7/2018,6/27/2018,DH-13075,United,182,DFW-GRB,Economy,196,Dario Medina
+tstivers@vizpainter.com,2136,10/25/2017,12/4/2017,WB-21850,Delta,285,DFW-SAN,Business,761,Tom Stivers
+jsink@vizpainter.com,4093,4/22/2019,5/18/2019,JM-15865,AA,335,DFW-JFK,Business,378,Jim Sink
+abarton@vizpainter.com,9103,9/25/2017,11/12/2017,AB-10105,AA,235,DFW-JFK,Economy,7,Adrian Barton
+hmarie,2798,10/2/2019,10/27/2019,IG-15085,American,137,DFW-CMH,Economy,323,Harry Marie
+cmartinez@vizpainter.com,2716,9/16/2016,12/8/2016,CP-12085,American,226,DFW-SAN,Business,158,Christopher Martinez
+belias@vizpainter.com,7435,6/16/2017,7/31/2017,BP-11095,Delta,72,DFW-SEA,Economy,94,Bobby Elias
+lsmith@vizpainter.com,6855,11/27/2019,12/27/2019,MF-18250,Delta,380,DFW-JFK,Economy,482,Lynn Smith
+dhuffman@vizpainter.com,9558,9/12/2016,10/19/2016,EB-14170,American,307,DFW-MCO,Economy,244,Duane Huffman
+mseite@vizpainter.com,594,12/6/2015,1/13/2016,MS-17830,American (AA),321,DFW-HIO,Economy,521,Melanie Seite
+jmolinari@vizpainter.com,2969,10/11/2019,11/9/2019,JF-15565,Delta,283,DFW-GRB,Business,350,Janet Molinari
+jmitchum@vizpainter.com,6191,12/17/2018,12/28/2018,JM-15535,American,536,DFW-MCO,1st Class,376,Jim Mitchum
+adominguez@vizpainter.com,1857,3/7/2019,5/14/2019,AC-10420,United,484,DFW-JFK,Business,12,Alan Dominguez
+cmitchell@vizpainter.com,963,8/3/2018,9/3/2018,CV-12805,AA,139,DFW-MEM,Economy,176,Corinna Mitchell
+dbrumfield@vizpainter.com,5439,4/21/2016,7/8/2016,DM-13525,Delta,239,DFW-MCO,Economy,217,Deborah Brumfield
+nfranzösisch@vizpainter.com,1024,5/25/2017,6/20/2017,PB-19150,Delta,70,DFW-MEM,Economy,564,Neil Französisch
+mkennedy@vizpainter.com,617,7/4/2019,8/22/2019,NG-18355,Delta,445,DFW-MCO,Business,543,Mike Kennedy
+cconant@vizpainter.com,1490,10/31/2016,12/6/2016,Co-12640,United,162,DFW-IAD,Economy,157,Christopher Conant
+schand@vizpainter.com,2600,3/30/2019,4/29/2019,SK-19990,American Airlines,303,DFW-GRB,Economy,672,Sanjit Chand
+dliebe@vizpainter.com,1534,8/13/2018,12/7/2018,EB-13840,Delta,397,DFW-JFK,Economy,239,Dorris liebe
+scartwright@vizpainter.com,6382,3/9/2018,4/2/2018,TB-21595,United,154,DFW-BUF,Economy,714,Steven Cartwright
+lblacks@vizpainter.com,6822,12/10/2019,12/31/2019,LO-17170,Delta,337,DFW-MCO,Economy,448,Larry Blacks
+kcarlisle@vizpainter.com,7585,1/10/2016,3/25/2016,KH-16690,American Airlines,303,DFW-IAD,Business,416,Karen Carlisle
+jsundaresam@vizpainter.com,3574,7/28/2019,8/12/2019,JW-15955,United,65,DFW-CMH,Economy,395,Joni Sundaresam
+lelliston@vizpainter.com,4230,6/30/2019,7/9/2019,LS-16945,AA,300,DFW-MCO,Economy,453,Laurel Elliston
+scarroll@vizpainter.com,1290,11/4/2018,11/25/2018,TB-21355,AA,107,DFW-CMH,Economy,711,Steve Carroll
+hholden@vizpainter.com,6787,7/9/2019,7/28/2019,JC-15775,Delta,101,DFW-COS,Economy,333,Hilary Holden
+smackendrick@vizpainter.com,3214,5/5/2018,5/31/2018,TH-21235,American (AA),78,DFW-CMH,Economy,726,Susan MacKendrick
+nmautz@vizpainter.com,2178,9/29/2018,10/21/2018,PB-18805,Delta,129,DFW-SEA,Economy,562,Nathan Mautz
+lsmith@vizpainter.com,8379,10/25/2017,11/18/2017,MF-18250,American Airlines,142,DFW-COS,Economy,482,Lynn Smith
+mcrier@vizpainter.com,4477,7/27/2019,9/29/2019,MG-17680,Delta,340,DFW-COS,Business,484,Marc Crier
+fhawley@vizpainter.com,3610,3/21/2016,5/3/2016,GB-14530,United,225,DFW-JFK,Economy,284,Frank Hawley
+schance@vizpainter.com,717,12/28/2015,1/14/2016,SV-20365,American Airlines,268,DFW-MCO,Business,695,Shaun Chance
+rhuthwaite@vizpainter.com,2671,8/1/2016,9/12/2016,RR-19525,American (AA),373,DFW-COS,1st Class,633,Rick Huthwaite
+bthompson@vizpainter.com,2327,7/10/2017,9/19/2017,BM-11575,United,66,DFW-BUF,Economy,87,Beth Thompson
+eballard@vizpainter.com,7104,7/16/2019,9/8/2019,EJ-14155,United,406,DFW-JFK,Economy,255,Ellis Ballard
+rbierner@vizpainter.com,8959,9/4/2019,11/30/2019,RO-19780,Delta,211,DFW-SAN,Economy,628,Richard Bierner
+jsmith@vizpainter.com,3769,11/9/2016,12/20/2016,KB-16585,United,528,DFW-SLC,Business,401,Joy Smith
+kbern@vizpainter.com,3734,7/16/2017,9/23/2017,KH-16630,American (AA),92,DFW-SEA,Economy,415,Karen Bern
+rdilbeck@vizpainter.com,5166,8/13/2016,11/16/2016,SC-20020,Delta,160,DFW-COS,Business,643,Robert Dilbeck
+dhallsten@vizpainter.com,5750,11/9/2019,11/22/2019,DK-13090,American (AA),187,DFW-SAN,Economy,204,Dave Hallsten
+jkunitz@vizpainter.com,4677,3/6/2016,3/19/2016,JF-15295,Delta,189,DFW-SEA,Business,346,Jamie Kunitz
+tchand@vizpainter.com,9146,8/25/2017,9/24/2017,TP-21130,American (AA),230,DFW-SEA,Business,731,Tamara Chand
+rdevincentis@vizpainter.com,6707,7/12/2018,9/14/2018,SC-20695,American,251,DFW-SAN,Economy,653,Ross DeVincentis
+croper@vizpainter.com,4693,10/25/2016,12/22/2016,CT-11995,United,285,DFW-COS,Business,174,Corey Roper
+mgastineau@vizpainter.com,8141,6/20/2018,7/22/2018,NK-18490,Delta,459,DFW-COS,1st Class,546,Mitch Gastineau
+folsen@vizpainter.com,613,8/5/2018,9/12/2018,GD-14590,United,331,DFW-COS,Business,286,Frank Olsen
+ahawkins@vizpainter.com,6750,9/1/2019,12/15/2019,AA-10375,Delta,303,DFW-SAN,Economy,2,Aaron Hawkins
+lcarlisle@vizpainter.com,6216,7/31/2017,12/3/2017,MC-17425,Delta,363,DFW-MCO,Business,469,Liz Carlisle
+dsayre@vizpainter.com,7931,3/17/2018,3/27/2018,DK-12835,United,474,DFW-CMH,1st Class,201,Darrin Sayre
+bodegard@vizpainter.com,6754,5/22/2018,6/30/2018,BP-11155,Delta,122,DFW-SEA,Economy,95,Bobby Odegard
+sgordon@vizpainter.com,1419,8/20/2017,9/24/2017,SV-20815,United,276,DFW-MCO,Economy,697,Sheri Gordon
+bhoffman@vizpainter.com,9535,9/7/2018,10/31/2018,BW-11200,United,226,DFW-JFK,Economy,114,Brosina Hoffman
+ahart@vizpainter.com,4964,2/16/2016,3/8/2016,AB-10015,United,290,DFW-JFK,Economy,5,Adam Hart
+pgonzalez@vizpainter.com,8817,9/1/2017,11/25/2017,PW-19240,United,184,DFW-CMH,Business,592,Paul Gonzalez
+pstevenson@vizpainter.com,3440,9/6/2019,10/30/2019,RA-19945,American Airlines,326,DFW-JFK,Economy,597,Paul Stevenson
+cglotzbach@vizpainter.com,9473,9/8/2019,11/10/2019,CD-12280,United,534,DFW-SLC,Business,135,Catherine Glotzbach
+tthornton@vizpainter.com,6881,10/5/2017,12/5/2017,TW-21025,United,432,DFW-COS,1st Class,747,Thomas Thornton
+larmstrong@vizpainter.com,9233,8/8/2018,9/6/2018,LR-16915,Delta,421,DFW-MCO,Business,451,Laura Armstrong
+schristensen@vizpainter.com,5221,5/26/2016,6/20/2016,SR-20425,American,325,DFW-BUF,1st Class,686,Sean Christensen
+dbyrd@vizpainter.com,3427,9/13/2017,9/28/2017,DE-13255,United,445,DFW-SLC,Economy,193,Daniel Byrd
+kbrennan@vizpainter.com,1461,10/10/2017,12/8/2017,LC-17140,United,453,DFW-SEA,1st Class,439,Ken Brennan
+bmills@vizpainter.com,8509,9/28/2017,12/14/2017,CA-12775,American Airlines,431,DFW-HIO,Business,119,Bryan Mills
+jcaffey@vizpainter.com,460,11/23/2017,12/22/2017,JH-15985,United,262,DFW-GRB,Economy,358,Jenna Caffey
+areiter@vizpainter.com,6305,3/18/2019,5/5/2019,AI-10855,Delta,309,DFW-COS,Business,36,Andy Reiter
+rritter@vizpainter.com,3781,10/29/2016,11/20/2016,RH-19510,American Airlines,482,DFW-SAN,1st Class,620,Ralph Ritter
+fgastineau@vizpainter.com,2838,10/9/2019,11/16/2019,GA-14725,Delta,149,DFW-SEA,Economy,283,Frank Gastineau
+pbühler@vizpainter.com,4403,11/29/2018,12/27/2018,RC-19825,American,115,DFW-CMH,Economy,606,Peter Bühler
+scohen@vizpainter.com,7331,9/22/2018,11/12/2018,SP-20650,Delta,450,DFW-MCO,1st Class,683,Scott Cohen
+tthornton@vizpainter.com,152,3/1/2018,3/16/2018,TW-21025,United,188,DFW-GRB,Economy,747,Thomas Thornton
+jmartin@vizpainter.com,1532,8/20/2019,9/5/2019,JF-15490,United,242,DFW-JFK,Economy,349,Janet Martin
+dlacy@vizpainter.com,7100,10/14/2017,12/30/2017,DF-13135,Delta,215,DFW-COS,Economy,194,Daniel Lacy
+mcollister@vizpainter.com,2091,6/9/2019,7/19/2019,MM-17260,American,405,DFW-SEA,1st Class,505,Matt Collister
+hdahlen@vizpainter.com,8638,4/5/2019,5/2/2019,HM-14980,Delta,270,DFW-MCO,Economy,318,Harold Dahlen
+dpoirier@vizpainter.com,5959,3/1/2018,3/15/2018,DK-13225,American Airlines,89,DFW-MEM,Economy,206,Dave Poirier
+tpippenger@vizpainter.com,1690,7/20/2016,8/20/2016,TS-21610,Delta,106,DFW-ELP,Economy,741,Theone Pippenger
+dkipp@vizpainter.com,181,10/27/2016,12/9/2016,DK-13150,United,586,DFW-JFK,1st Class,205,Dave Kipp
+lelliston@vizpainter.com,1201,5/23/2018,7/23/2018,LS-16945,Delta,656,DFW-SLC,1st Class,453,Laurel Elliston
+cadams@vizpainter.com,7969,7/21/2018,10/11/2018,CC-12610,Delta,273,DFW-SAN,Business,130,Carol Adams
+habelman@vizpainter.com,7600,8/31/2016,9/22/2016,JA-15970,United,104,DFW-COS,Economy,326,Helen Abelman
+dweiss@vizpainter.com,5913,7/7/2016,8/26/2016,DW-13585,United,254,DFW-DSM,Business,235,Don Weiss
+khastings@vizpainter.com,4855,11/9/2016,12/15/2016,LH-17155,American (AA),223,DFW-JFK,Economy,445,Kristen Hastings
+sweien@vizpainter.com,4662,4/3/2017,5/7/2017,SV-20785,Delta,262,DFW-SLC,Economy,696,Shaun Weien
+imaddox@vizpainter.com,4948,9/9/2016,10/9/2016,JD-16015,United,144,DFW-IAD,Economy,337,Irene Maddox
+mmorse@vizpainter.com,3392,7/15/2016,8/13/2016,MG-17650,Delta,125,DFW-SAN,Economy,483,Magdelene Morse
+npreis@vizpainter.com,8555,11/12/2018,12/11/2018,PM-18940,American,191,DFW-ELP,Economy,579,Nora Preis
+jfarry@vizpainter.com,3571,5/14/2019,7/3/2019,JK-15640,American (AA),492,DFW-HIO,1st Class,365,Jeremy Farry
+bkampe@vizpainter.com,3093,2/20/2018,3/8/2018,BH-11710,American,259,DFW-COS,Business,84,Berenike Kampe
+educich@vizpainter.com,2540,7/5/2017,7/16/2017,EM-13810,AA,458,DFW-SLC,Economy,258,Emily Ducich
+scompany@vizpainter.com,5525,9/22/2018,12/12/2018,SJ-20125,Delta,229,DFW-COS,Business,669,Sample Company A
+agayman@vizpainter.com,653,4/19/2019,6/22/2019,AR-10405,United,291,DFW-COS,Business,45,Anna Gayman
+bgeld@vizpainter.com,5702,11/16/2018,11/26/2018,CA-12055,American,338,DFW-HIO,Economy,116,Bruce Geld
+bmills@vizpainter.com,821,6/15/2016,7/2/2016,CA-12775,Delta,344,DFW-SEA,1st Class,119,Bryan Mills
+sbern@vizpainter.com,4056,7/24/2016,10/3/2016,SM-20950,AA,429,DFW-JFK,Business,677,Sarah Bern
+lleatherbury@vizpainter.com,8600,11/14/2016,12/1/2016,LS-17200,Delta,255,DFW-COS,Economy,455,Lauren Leatherbury
+npatel@vizpainter.com,6483,2/20/2019,6/10/2019,NR-18550,Delta,278,DFW-HIO,Economy,554,Naresj Patel
+klampkin@vizpainter.com,7210,6/16/2018,9/12/2018,LC-16930,Delta,203,DFW-COS,Economy,436,Kelly Lampkin
+bfisher@vizpainter.com,4950,11/15/2019,12/2/2019,BD-11320,AA,249,DFW-MCO,Economy,65,Barbara Fisher
+spak@vizpainter.com,7141,8/21/2019,9/7/2019,TG-21640,Delta,594,DFW-HIO,1st Class,723,Sung Pak
+jstevenson@vizpainter.com,3533,3/23/2016,4/23/2016,JL-15835,United,163,DFW-CHS,Business,372,Jill Stevenson
+mtran@vizpainter.com,9546,10/8/2016,11/2/2016,NC-18625,Delta,332,DFW-HIO,Business,537,Michelle Tran
+shughsby@vizpainter.com,9522,12/8/2016,12/25/2016,SG-20605,Delta,124,DFW-SAN,Economy,664,Sally Hughsby
+nmautz@vizpainter.com,9528,10/25/2019,12/6/2019,PB-18805,United,85,DFW-SEA,Economy,562,Nathan Mautz
+aarmold@vizpainter.com,1736,6/27/2019,8/1/2019,AG-10675,Delta,251,DFW-SAN,Business,25,Allen Armold
+jmolinari@vizpainter.com,2971,10/20/2019,11/9/2019,JF-15565,United,474,DFW-SEA,1st Class,350,Janet Molinari
+csachs@vizpainter.com,5266,6/5/2019,10/2/2019,CS-11845,American Airlines,334,DFW-COS,Business,163,Chuck Sachs
+sward@vizpainter.com,6829,9/15/2018,10/8/2018,TC-20980,Delta,267,DFW-SEA,Business,716,Steven Ward
+jkriz@vizpainter.com,9476,3/10/2017,6/5/2017,JM-15265,United,222,DFW-COS,Business,375,Jim Kriz
+ptakahito@vizpainter.com,7564,9/19/2019,10/7/2019,RB-19795,American Airlines,334,DFW-HIO,Economy,605,Pete Takahito
+cstewart@vizpainter.com,2693,7/17/2018,9/2/2018,CS-12130,United,361,DFW-SAN,Business,166,Cindy Stewart
+kbraun@vizpainter.com,6660,2/9/2019,2/27/2019,KM-16375,AA,78,DFW-ELP,Economy,420,Karl Braun
+sulpright@vizpainter.com,1639,5/19/2018,6/1/2018,TB-21280,United,144,DFW-COS,Economy,710,Stephanie Ulpright
+iliston@vizpainter.com,8784,8/7/2018,9/19/2018,JD-16150,United,199,DFW-ELP,Economy,339,Ivan Liston
+dbickford@vizpainter.com,4560,4/21/2016,5/8/2016,EB-13870,United,428,DFW-SLC,Economy,240,Doug Bickford
+dordway@vizpainter.com,736,11/4/2018,1/25/2019,DS-13030,Delta,157,DFW-SEA,Business,228,Denny Ordway
+hjas@vizpainter.com,8705,6/7/2018,7/26/2018,IL-15100,Delta,285,DFW-SAN,Business,324,Heather Jas
+jgalang@vizpainter.com,830,5/31/2019,6/21/2019,JE-15745,Delta,277,DFW-SLC,Economy,343,James Galang
+cjackson@vizpainter.com,5970,6/21/2016,7/22/2016,CC-12145,United,238,DFW-SEA,Economy,124,Carl Jackson
+bdrucker@vizpainter.com,7541,9/5/2019,12/5/2019,BS-11380,AA,457,DFW-BUF,1st Class,100,Bradley Drucker
+nstaavos@vizpainter.com,9803,6/15/2017,7/20/2017,PJ-19015,American (AA),110,DFW-SEA,Economy,575,Noel Staavos
+scoram@vizpainter.com,7027,12/23/2018,2/11/2019,SP-20545,United,158,DFW-SEA,Economy,681,Scot Coram
+as,8911,9/18/2019,11/8/2019,CA-12265,United,426,DFW-HIO,1st Class,117,Bruce Stewart
+remerson@vizpainter.com,184,9/20/2016,11/24/2016,RM-19675,American,283,DFW-SAN,Economy,626,Ricardo Emerson
+pgardner@vizpainter.com,6858,2/10/2019,4/22/2019,PS-18760,United,187,DFW-COS,Economy,587,Patrick Gardner
+btalbott@vizpainter.com,2127,5/5/2016,6/28/2016,BS-11665,Delta,172,DFW-HIO,Economy,102,Bradley Talbott
+bdodson@vizpainter.com,969,2/4/2019,4/11/2019,BS-11800,Delta,239,DFW-IAD,Business,104,Brendan Dodson
+bkampe@vizpainter.com,7,5/13/2016,6/14/2016,BH-11710,Delta,79,DFW-CMH,Economy,84,Berenike Kampe
+qjones@vizpainter.com,6872,9/15/2018,12/7/2018,RF-19345,Delta,250,DFW-IAD,Economy,616,Quincy Jones
+fhawley@vizpainter.com,8550,8/12/2017,9/12/2017,GB-14530,AA,249,DFW-MCO,Economy,284,Frank Hawley
+jbell-@vizpainter.com,4133,6/1/2017,7/9/2017,KB-16315,American Airlines,296,DFW-COS,Business,399,Joy Bell-
+emartin@vizpainter.com,7648,2/3/2018,3/16/2018,FC-14335,AA,144,DFW-SEA,Economy,272,Eudokia Martin
+mvan@vizpainter.com,7376,6/21/2019,8/19/2019,MK-17905,United,222,DFW-SEA,Business,498,Mark Van Huff
+cbergmann@vizpainter.com,2586,10/3/2017,11/10/2017,CS-12250,Delta,346,DFW-MEM,Business,168,Claudia Bergmann
+pwebber@vizpainter.com,100,8/15/2018,9/2/2018,RB-19465,United,94,DFW-COS,Economy,601,Pauline Webber
+schung@vizpainter.com,2240,8/17/2018,11/17/2018,TG-21310,American,215,DFW-SEA,Economy,722,Sung Chung
+sschmidt@vizpainter.com,2213,9/22/2019,11/25/2019,SW-20275,American Airlines,315,DFW-MCO,Business,700,Shirley Schmidt
+rpayne@vizpainter.com,751,9/20/2019,10/6/2019,RF-19735,Delta,483,DFW-MCO,1st Class,617,Rachel Payne
+sfoster@vizpainter.com,3950,9/8/2018,11/22/2018,SN-20710,Delta,137,DFW-COS,Economy,679,Sarah Foster
+bdonatelli@vizpainter.com,914,9/20/2019,11/28/2019,BM-11650,Delta,311,DFW-MCO,Economy,88,Bill Donatelli
+agerbode@vizpainter.com,3812,10/9/2017,11/19/2017,AH-10690,Delta,298,DFW-SLC,Economy,35,Andy Gerbode
+emoffitt@vizpainter.com,6577,2/12/2019,3/8/2019,EJ-13720,AA,406,DFW-SLC,Business,254,Elizabeth Moffitt
+mgastineau@vizpainter.com,1242,8/10/2018,9/4/2018,MO-17800,American,157,DFW-SAN,Economy,511,Maureen Gastineau
+kbraun@vizpainter.com,1401,8/23/2018,11/5/2018,KM-16375,United,427,DFW-SAN,1st Class,420,Karl Braun
+afoster@vizpainter.com,7275,10/9/2017,11/17/2017,AW-10930,American,286,DFW-SAN,Economy,59,Art Foster
+lthompson@vizpainter.com,2623,11/23/2016,12/6/2016,MC-17635,American (AA),82,DFW-COS,Economy,473,Liz Thompson
+darnett@vizpainter.com,7365,7/31/2018,12/3/2018,DS-13180,United,277,DFW-BUR,Business,229,Dianna Arnett
+cchapman@vizpainter.com,7037,4/10/2016,5/4/2016,CS-11860,Delta,372,DFW-LNK,Business,164,Cindy Chapman
+arawles@vizpainter.com,987,6/4/2019,10/5/2019,AS-10630,United,198,DFW-CHS,Economy,55,Anthony Rawles
+bgillingham@vizpainter.com,9458,4/17/2019,6/2/2019,BW-11110,Delta,58,DFW-SEA,Economy,113,Brooke Gillingham
+gguthrie@vizpainter.com,3163,6/8/2016,9/25/2016,HF-14995,AA,228,DFW-MEM,Economy,309,Greg Guthrie
+hryan@vizpainter.com,7798,2/24/2019,3/26/2019,HR-14830,AA,146,DFW-MEM,Economy,321,Harold Ryan
+nfritzler@vizpainter.com,3053,7/21/2019,10/11/2019,NZ-18565,United,169,DFW-COS,Business,558,Natalie Fritzler
+scooley@vizpainter.com,5264,5/16/2016,9/10/2016,SZ-20035,American (AA),318,DFW-HIO,Economy,704,Sonia Cooley
+btyler@vizpainter.com,1554,6/27/2019,10/21/2019,BO-11425,Delta,217,DFW-SEA,Economy,93,Bill Tyler
+pmcvee@vizpainter.com,2055,10/19/2018,12/7/2018,RD-19480,United,307,DFW-MCO,Economy,608,Peter McVee
+stom@vizpainter.com,5015,6/19/2019,7/26/2019,SW-20350,Delta,181,DFW-SAN,Economy,701,Shui Tom
+lshagiari@vizpainter.com,5964,10/25/2016,11/13/2016,MA-17560,Delta,174,DFW-COS,Economy,464,Lindsay Shagiari
+jkarlsson@vizpainter.com,3974,2/16/2018,4/2/2018,JM-15250,United,101,DFW-SEA,Economy,374,Jim Karlsson
+sbrown@vizpainter.com,2039,6/1/2017,6/23/2017,SN-20560,Delta,111,DFW-COS,Economy,678,Sarah Brown
+kducich@vizpainter.com,3839,7/17/2016,8/2/2016,KM-16720,American (AA),371,DFW-SLC,Economy,422,Katherine Ducich
+ehildebrand@vizpainter.com,1138,9/28/2018,11/14/2018,FH-14275,United,147,DFW-GRB,Economy,274,Eugene Hildebrand
+dlatchford@vizpainter.com,8520,8/26/2019,12/10/2019,DO-13645,Delta,297,DFW-SLC,Economy,220,Delfina Latchford
+reichhorn@vizpainter.com,939,11/27/2017,12/17/2017,RP-19270,Delta,176,DFW-COS,Economy,629,Richard Eichhorn
+jeaton@vizpainter.com,695,4/7/2017,5/17/2017,JO-15550,American,62,DFW-CMH,Economy,382,Joel Eaton
+sgoranitis@vizpainter.com,3345,8/1/2018,9/1/2018,TB-21055,Delta,181,DFW-COS,Business,706,Speros Goranitis
+mabelman@vizpainter.com,5638,2/4/2019,4/1/2019,ML-18040,United,228,DFW-MCO,Economy,503,Matt Abelman
+dvan@vizpainter.com,4076,10/1/2019,11/20/2019,DK-12895,Delta,342,DFW-MCO,Business,202,Darrin Van Huff
+emoren@vizpainter.com,4839,4/23/2019,6/3/2019,FH-14350,United,185,DFW-COS,Economy,275,Eugene Moren
+ndecherney@vizpainter.com,3370,11/3/2017,11/25/2017,NW-18400,United,182,DFW-SEA,Economy,557,Natalie DeCherney
+bpak@vizpainter.com,2243,11/12/2019,11/25/2019,BF-11005,American (AA),233,DFW-JFK,Economy,77,Becky Pak
+mschwartz@vizpainter.com,9650,10/20/2018,11/30/2018,MS-17365,AA,105,DFW-BUF,Economy,517,Maxwell Schwartz
+scartwright@vizpainter.com,2415,12/6/2018,1/2/2019,TB-21595,Delta,269,DFW-SLC,Economy,714,Steven Cartwright
+scoram@vizpainter.com,7026,1/15/2019,2/11/2019,SP-20545,American Airlines,351,DFW-SAN,Business,681,Scot Coram
+scraven@vizpainter.com,3178,8/25/2019,9/10/2019,SH-20395,AA,78,DFW-COS,Economy,667,Sam Craven
+lradford@vizpainter.com,7859,5/3/2016,6/1/2016,LW-16825,United,149,DFW-GRB,Economy,460,Lena Radford
+bnorvell@vizpainter.com,8846,11/11/2019,12/23/2019,BP-11290,American,222,DFW-BUR,Business,98,Brad Norvell
+cbergmann@vizpainter.com,5482,6/28/2019,10/13/2019,CS-12250,AA,304,DFW-HIO,Economy,168,Claudia Bergmann
+mmoore,9649,10/17/2016,11/24/2016,MW-18220,American,359,DFW-SAN,Business,527,Michael Moore
+bfisher@vizpainter.com,4949,10/26/2019,12/2/2019,BD-11320,American (AA),256,DFW-SEA,Business,65,Barbara Fisher
+nwebber@vizpainter.com,3348,7/2/2017,8/20/2017,ON-18715,Delta,84,DFW-CMH,Economy,559,Natalie Webber
+mkennedy@vizpainter.com,618,8/7/2019,8/22/2019,NG-18355,United,252,DFW-MCO,Economy,543,Mike Kennedy
+tsissman@vizpainter.com,9450,7/8/2016,9/13/2016,TS-21340,Delta,114,DFW-SEA,Economy,738,Thais Sissman
+sshifley@vizpainter.com,2574,6/3/2019,7/14/2019,SM-20320,American (AA),227,DFW-MCO,Economy,675,Saphhira Shifley
+kcarter@vizpainter.com,5288,3/4/2019,5/6/2019,LH-17020,United,111,DFW-BUF,Economy,444,Kimberly Carter
+djones@vizpainter.com,3082,3/16/2019,6/2/2019,DW-13480,AA,65,DFW-SEA,Economy,233,Don Jones
+ashami@vizpainter.com,8665,2/26/2019,4/1/2019,AB-10165,Delta,379,DFW-MCO,Business,9,Adrian Shami
+bvenier@vizpainter.com,4195,5/15/2017,6/22/2017,BG-11740,American Airlines,76,DFW-CMH,Economy,83,Benjamin Venier
+tsayre@vizpainter.com,1230,10/20/2019,11/11/2019,ZC-21910,Delta,178,DFW-MCO,Economy,765,Tony Sayre
+jlanier@vizpainter.com,148,11/17/2018,12/8/2018,JE-16165,Delta,270,DFW-SAN,Economy,344,James Lanier
+mgnade@vizpainter.com,2769,3/18/2017,4/7/2017,MO-17950,United,387,DFW-GRB,Business,512,Maureen Gnade
+sjordon@vizpainter.com,8593,3/21/2019,4/26/2019,SO-20335,American,306,DFW-MCO,Business,680,Sarah Jordon
+schance@vizpainter.com,6098,9/9/2019,9/26/2019,SV-20365,United,174,DFW-SEA,Economy,695,Shaun Chance
+bthompson@vizpainter.com,5758,7/21/2017,8/16/2017,BW-11065,United,263,DFW-MCO,Economy,112,Brian Thompson
+jlebron@vizpainter.com,3120,4/26/2017,6/12/2017,JE-15610,American,291,DFW-SAN,Economy,341,Jack Lebron
+dpowers@vizpainter.com,326,8/23/2019,11/4/2019,DJ-13510,Delta,429,DFW-MCO,Business,199,Darren Powers
+cdemoss@vizpainter.com,8578,12/14/2019,12/26/2019,CM-12190,United,239,DFW-ELP,Economy,151,Christina DeMoss
+hwasserman@vizpainter.com,222,12/16/2017,12/27/2017,JB-15925,AA,74,DFW-SEA,Economy,328,Helen Wasserman
+hlopez@vizpainter.com,8161,2/2/2018,2/20/2018,JD-15790,American Airlines,620,DFW-SLC,1st Class,335,Hunter Lopez
+fhopkins@vizpainter.com,36,11/9/2018,12/9/2018,GH-14485,American (AA),293,DFW-SAN,Business,290,Fred Hopkins
+mellison@vizpainter.com,9009,10/23/2019,11/18/2019,NB-18655,United,376,DFW-MCO,Business,533,Michelle Ellison
+bderr@vizpainter.com,1190,1/26/2019,2/28/2019,BT-11530,Delta,167,DFW-SAN,Economy,109,Brian Derr
+lworkman@vizpainter.com,6555,9/25/2016,10/22/2016,LS-16975,United,266,DFW-JFK,Economy,454,Laurel Workman
+gzrebassa@vizpainter.com,3566,6/8/2018,7/6/2018,GT-14755,Delta,170,DFW-BUR,Business,302,George Zrebassa
+pbreyer@vizpainter.com,9508,3/22/2016,4/7/2016,RD-19900,AA,215,DFW-SEA,Economy,613,Phillip Breyer
+rcollins@vizpainter.com,5348,3/4/2019,3/23/2019,SC-20725,American,52,DFW-SEA,Economy,654,Roy Collins
+szeldin@vizpainter.com,4271,7/29/2017,11/30/2017,SH-20635,Delta,598,DFW-MCO,1st Class,668,Sam Zeldin
+rdartt@vizpainter.com,8226,7/13/2019,11/4/2019,SF-20065,United,264,DFW-COS,Business,659,Ruben Dartt
+tseio@vizpainter.com,8479,10/1/2019,12/24/2019,TT-21460,Delta,96,DFW-CMH,Economy,746,Thomas Seio
+bnorvell@vizpainter.com,8845,11/30/2019,12/23/2019,BP-11290,Delta,141,DFW-SEA,Business,98,Brad Norvell
+creiten@vizpainter.com,2232,5/6/2019,7/1/2019,DB-13405,Delta,208,DFW-MCO,Economy,187,Cyra Reiten
+cglotzbach@vizpainter.com,1655,8/23/2019,11/21/2019,CD-12280,Delta,178,DFW-BUR,Economy,135,Catherine Glotzbach
+schristensen@vizpainter.com,7151,12/10/2019,12/26/2019,SR-20425,United,614,DFW-SLC,1st Class,686,Sean Christensen
+beplett@vizpainter.com,9437,8/5/2017,9/25/2017,BM-11785,American Airlines,269,DFW-SEA,Business,89,Bill Eplett
+asdfa,8385,10/15/2018,11/28/2018,CD-12790,United,184,DFW-COS,Business,136,Cathy Armstrong
+cselesnick@vizpainter.com,1340,12/7/2018,4/2/2019,CM-12115,United,191,DFW-COS,Economy,149,Chris Selesnick
+kcollister@vizpainter.com,2714,2/16/2016,4/29/2016,LC-16885,American,167,DFW-SAN,Economy,435,Kelly Collister
+hlopez@vizpainter.com,1496,8/2/2019,9/8/2019,JD-15790,United,212,DFW-CMH,Business,335,Hunter Lopez
+acox@vizpainter.com,8882,3/17/2018,7/3/2018,AH-10120,AA,322,DFW-HIO,Economy,30,Amy Cox
+agrove@vizpainter.com,2868,9/16/2018,11/12/2018,AF-10885,United,109,DFW-DSM,Economy,18,Alejandro Grove
+jlee@vizpainter.com,9897,5/13/2016,6/20/2016,JF-15415,American (AA),212,DFW-COS,Business,348,Janet Lee
+tcoyne@vizpainter.com,6052,4/14/2017,4/30/2017,TS-21655,United,283,DFW-GRB,Economy,742,Theresa Coyne
+ephan@vizpainter.com,6912,6/27/2019,8/5/2019,EM-13960,Delta,344,DFW-JFK,Economy,260,Emily Phan
+rapplegate@vizpainter.com,2567,8/16/2019,11/3/2019,SF-20200,Delta,145,DFW-SEA,Economy,660,Russell Applegate
+jjackson@vizpainter.com,1708,10/15/2019,11/5/2019,JK-15205,United,269,DFW-SAN,Economy,362,Jennifer Jackson
+bpeterman@vizpainter.com,9608,10/3/2019,12/8/2019,BF-11080,United,139,DFW-COS,Economy,79,Ben Peterman
+mbrown@vizpainter.com,1702,6/2/2017,7/15/2017,ND-18370,United,439,DFW-SLC,Economy,538,Mick Brown
+mmorse@vizpainter.com,1060,11/2/2018,12/1/2018,MG-17650,American Airlines,226,DFW-BUR,Economy,483,Magdelene Morse
+stom@vizpainter.com,3790,3/9/2018,4/21/2018,SW-20350,Delta,118,DFW-BUR,Economy,701,Shui Tom
+aratner@vizpainter.com,4044,10/21/2016,1/2/2017,AJ-10795,Delta,194,DFW-MCO,Economy,38,Anemone Ratner
+jkimmel@vizpainter.com,6914,5/9/2017,6/16/2017,JH-15910,United,197,DFW-SAN,Economy,357,Jay Kimmel
+fpreis@vizpainter.com,2061,7/13/2016,11/4/2016,GG-14650,United,487,DFW-JFK,1st Class,287,Frank Preis
+dvittorini@vizpainter.com,7345,10/27/2019,12/16/2019,DV-13045,United,242,DFW-ELP,Business,230,Dianna Vittorini
+kdana@vizpainter.com,770,3/26/2018,5/24/2018,LE-16810,American Airlines,423,DFW-SLC,Economy,440,Ken Dana
+pryan@vizpainter.com,9251,10/26/2018,12/5/2018,PW-19030,American,438,DFW-SEA,1st Class,591,Patrick Ryan
+mbrown@vizpainter.com,2833,10/24/2016,11/5/2016,ND-18370,American (AA),397,DFW-SAN,Business,538,Mick Brown
+sphelps@vizpainter.com,3668,11/20/2016,12/13/2016,TB-21250,Delta,164,DFW-DSM,Economy,709,Stephanie Phelps
+cmartinez@vizpainter.com,9276,3/23/2018,5/28/2018,CP-12085,Delta,502,DFW-JFK,Business,158,Christopher Martinez
+mschwartz,2082,12/18/2017,12/29/2017,MS-17365,Delta,346,DFW-MCO,Economy,517,Maxwell Schwartz
+tprescott@vizpainter.com,1755,9/27/2019,12/4/2019,VW-21775,American (AA),203,DFW-COS,Economy,760,Tom Prescott
+scompany@vizpainter.com,7804,9/11/2017,9/26/2017,SJ-20125,American,277,DFW-JFK,Economy,669,Sample Company A
+kducich@vizpainter.com,7110,4/3/2018,4/26/2018,KM-16720,AA,300,DFW-JFK,Economy,422,Katherine Ducich
+ejacobs@vizpainter.com,3197,6/6/2019,7/27/2019,FH-14365,United,326,DFW-SAN,Business,276,Eva Jacobs
+jfarry@vizpainter.com,3569,6/1/2019,7/3/2019,JK-15640,American,389,DFW-HIO,Business,365,Jeremy Farry
+sweien@vizpainter.com,6609,5/20/2018,5/31/2018,SV-20785,United,279,DFW-CHS,Business,696,Shaun Weien
+sglassco,5479,11/9/2018,11/24/2018,SJ-20500,United,57,DFW-SEA,Economy,671,Sandra Glassco
+bfolk@vizpainter.com,5973,12/21/2018,2/11/2019,BD-11770,Delta,300,DFW-BUF,Business,72,Bart Folk
+asdfa,4141,10/6/2019,12/4/2019,RA-19285,American (AA),502,DFW-MCO,1st Class,594,Paul Lucas
+lryan@vizpainter.com,7214,10/6/2019,10/19/2019,MC-17275,United,82,DFW-IAD,Economy,468,Lisa Ryan
+gmitchum@vizpainter.com,9439,7/7/2019,8/5/2019,GM-14680,Delta,134,DFW-SAN,Economy,296,Gary Mitchum
+jdunbar@vizpainter.com,1280,8/30/2016,9/11/2016,KC-16255,American,324,DFW-HIO,Economy,403,Julia Dunbar
+mtillman@vizpainter.com,3115,7/2/2018,8/30/2018,MS-17770,AA,88,DFW-COS,Economy,520,Meg Tillman
+kmiller@vizpainter.com,5777,11/11/2018,12/8/2018,LM-17065,American Airlines,308,DFW-SEA,Business,447,Kunst Miller
+kbavinger@vizpainter.com,4998,2/24/2019,3/14/2019,KS-16300,United,103,DFW-SEA,Economy,426,Katrina Bavinger
+cweiss@vizpainter.com,3983,5/19/2018,7/9/2018,CC-12370,United,410,DFW-SLC,Economy,126,Carl Weiss
+ejacobs@vizpainter.com,8109,11/1/2019,12/15/2019,EG-13900,Delta,369,DFW-SLC,Business,247,Ed Jacobs
+bodegard@vizpainter.com,2927,6/30/2019,7/14/2019,BP-11155,Delta,170,DFW-MCO,Economy,95,Bobby Odegard
+bkampe@vizpainter.com,3091,1/13/2018,3/8/2018,BH-11710,United,424,DFW-SEA,1st Class,84,Berenike Kampe
+sphelps@vizpainter.com,9725,11/21/2017,12/11/2017,TB-21250,United,348,DFW-MEM,Business,709,Stephanie Phelps
+jo'carroll@vizpainter.com,8987,11/20/2017,12/7/2017,JG-15115,United,96,DFW-SEA,Economy,351,Jas O'Carroll
+jcreighton@vizpainter.com,3327,10/1/2016,11/15/2016,KD-16270,United,239,DFW-CMH,Economy,406,Julie Creighton
+dmonton@vizpainter.com,8571,11/7/2018,12/11/2018,DP-13105,United,347,DFW-LNK,1st Class,222,Denise Monton
+cdaly@vizpainter.com,877,12/17/2017,1/21/2018,CC-12430,Delta,309,DFW-HIO,Business,127,Carlos Daly
+jradford@vizpainter.com,2622,11/11/2019,12/25/2019,JM-15655,AA,238,DFW-IAD,Economy,377,Jim Radford
+bspruell@vizpainter.com,8058,6/29/2017,9/4/2017,CB-12025,AA,183,DFW-SEA,Economy,120,Bryan Spruell
+jjenkins@vizpainter.com,8978,10/14/2019,11/25/2019,JP-15460,Delta,109,DFW-SEA,Economy,383,Joel Jenkins
+stom@vizpainter.com,3054,3/26/2018,4/14/2018,SW-20350,American,175,DFW-SAN,Economy,701,Shui Tom
+imaddox@vizpainter.com,1975,12/9/2016,12/19/2016,JD-16015,Delta,174,DFW-HIO,Economy,337,Irene Maddox
+dsayre@vizpainter.com,1470,12/4/2019,12/12/2019,DK-12835,AA,215,DFW-SEA,Economy,201,Darrin Sayre
+sweien@vizpainter.com,4661,4/26/2017,5/7/2017,SV-20785,Delta,591,DFW-HIO,1st Class,696,Shaun Weien
+carntzen@vizpainter.com,5468,5/22/2018,6/14/2018,DB-13210,AA,297,DFW-SLC,Economy,184,Cynthia Arntzen
+tboyes@vizpainter.com,5586,10/20/2019,12/4/2019,VP-21730,United,222,DFW-SAN,Business,756,Todd Boyes
+a,6158,7/21/2018,8/5/2018,AG-10330,Delta,60,DFW-MEM,Economy,21,Alex Avila
+gmaxwell@vizpainter.com,2668,9/12/2018,10/1/2018,HG-15025,American (AA),230,DFW-COS,Economy,312,Greg Maxwell
+fmerwin@vizpainter.com,6182,9/10/2017,9/26/2017,GB-14575,American,145,DFW-SAN,Economy,285,Frank Merwin
+swooten@vizpainter.com,7758,7/17/2019,11/15/2019,SP-20620,American Airlines,281,DFW-SAN,Economy,682,Scot Wooten
+bgillingham@vizpainter.com,7830,3/31/2017,5/1/2017,BW-11110,Delta,247,DFW-CMH,Economy,113,Brooke Gillingham
+tboyes@vizpainter.com,3003,5/31/2017,7/10/2017,VP-21730,Delta,234,DFW-SEA,Economy,756,Todd Boyes
+eludwig@vizpainter.com,4892,12/7/2018,12/29/2018,EH-13765,Delta,131,DFW-COS,Economy,248,Ed Ludwig
+tdahlen@vizpainter.com,4072,6/9/2018,8/31/2018,TP-21415,United,253,DFW-BUF,Economy,732,Tamara Dahlen
+sschmidt@vizpainter.com,9250,10/4/2018,11/14/2018,SW-20275,Delta,275,DFW-SAN,Economy,700,Shirley Schmidt
+rbarroso@vizpainter.com,1682,8/26/2016,9/13/2016,SB-20290,United,78,DFW-CHS,Economy,642,Robert Barroso
+jsink@vizpainter.com,5225,8/21/2019,9/17/2019,JM-15865,Delta,168,DFW-COS,Business,378,Jim Sink
+btrafton@vizpainter.com,8935,7/22/2019,8/27/2019,BP-11185,Delta,114,DFW-COS,Economy,96,Bobby Trafton
+eballard@vizpainter.com,8394,10/19/2018,12/6/2018,EJ-14155,Delta,161,DFW-MCO,Economy,255,Ellis Ballard
+svisinsky@vizpainter.com,3859,11/26/2016,12/20/2016,TC-21295,Delta,324,DFW-HIO,Economy,718,Stewart Visinsky
+nfritzler@vizpainter.com,6081,7/1/2019,8/8/2019,NZ-18565,United,526,DFW-JFK,1st Class,558,Natalie Fritzler
+aallen@vizpainter.com,4977,10/11/2017,12/9/2017,AH-10210,United,160,DFW-SEA,Business,32,Andrew Allen
+ajohnson@vizpainter.com,6215,7/6/2016,10/15/2016,AS-10240,Delta,86,DFW-MEM,Economy,53,Anthony Johnson
+jmartin@vizpainter.com,4724,4/6/2018,5/22/2018,JF-15490,American,258,DFW-IAD,Economy,349,Janet Martin
+larmstrong@vizpainter.com,9238,8/15/2018,9/6/2018,LR-16915,American Airlines,67,DFW-SEA,Economy,451,Laura Armstrong
+mvittorini@vizpainter.com,9947,1/3/2016,3/6/2016,NH-18610,United,265,DFW-HIO,Economy,545,Mike Vittorini
+cyedwab@vizpainter.com,158,2/15/2016,3/6/2016,DB-13060,AA,321,DFW-SLC,Economy,182,Craig Yedwab
+jfjeld@vizpainter.com,3729,3/20/2018,6/11/2018,JL-15235,Delta,249,DFW-IAD,Business,370,Jill Fjeld
+dbickford@vizpainter.com,25,8/13/2017,9/30/2017,EB-13870,United,240,DFW-ELP,Business,240,Doug Bickford
+ctriggs@vizpainter.com,8493,10/2/2017,10/28/2017,CC-12685,Delta,273,DFW-COS,Business,132,Carol Triggs
+lsouthworth@vizpainter.com,4820,5/8/2019,6/14/2019,LW-17125,Delta,227,DFW-SEA,Economy,462,Linda Southworth
+athurman@vizpainter.com,3040,9/24/2019,10/7/2019,AS-10045,AA,86,DFW-ELP,Economy,49,Annie Thurman
+tblumstein@vizpainter.com,20,7/26/2016,9/1/2016,ZD-21925,United,254,DFW-SAN,Economy,766,Tracy Blumstein
+mhagelstein@vizpainter.com,1660,10/4/2019,11/6/2019,MM-18055,American Airlines,168,DFW-SEA,Economy,507,Matt Hagelstein
+dmedina@vizpainter.com,5744,3/13/2019,3/30/2019,DH-13075,American Airlines,111,DFW-COS,Economy,196,Dario Medina
+dlawera@vizpainter.com,9130,2/1/2018,3/26/2018,DC-12850,American Airlines,60,DFW-BUF,Economy,190,Dan Lawera
+rwaldorf@vizpainter.com,4100,8/22/2016,9/28/2016,SC-20095,United,118,DFW-SEA,Economy,645,Robert Waldorf
+hredmond@vizpainter.com,8025,6/26/2016,7/25/2016,HM-14860,AA,271,DFW-SEA,Business,317,Hallie Redmond
+habelman@vizpainter.com,7603,7/26/2016,9/22/2016,JA-15970,Delta,322,DFW-HIO,Economy,326,Helen Abelman
+pprost@vizpainter.com,6198,10/12/2017,11/17/2017,RA-19915,AA,185,DFW-COS,Economy,596,Paul Prost
+so'donnell@vizpainter.com,6032,11/23/2018,12/31/2018,SS-20140,American (AA),270,DFW-MCO,Economy,688,Sean O'Donnell
+twillingham,7402,8/12/2018,9/13/2018,TR-21325,United,160,DFW-COS,Economy,734,Tamara Willingham
+jradford@vizpainter.com,3836,3/10/2016,4/15/2016,JM-15655,American (AA),249,DFW-BUR,Business,377,Jim Radford
+gzandusky@vizpainter.com,3413,9/14/2018,9/23/2018,GM-14695,United,210,DFW-CMH,Business,297,Gary Zandusky
+ngelder@vizpainter.com,3006,3/17/2016,5/21/2016,PA-19060,Delta,299,DFW-SEA,Business,561,Nathan Gelder
+bmills@vizpainter.com,819,6/9/2016,7/2/2016,CA-12775,United,128,DFW-SEA,Economy,119,Bryan Mills
+ehildebrand@vizpainter.com,1141,10/9/2018,11/14/2018,FH-14275,United,338,DFW-SEA,1st Class,274,Eugene Hildebrand
+reichhorn@vizpainter.com,9544,5/30/2017,8/10/2017,RP-19270,Delta,137,DFW-COS,Economy,629,Richard Eichhorn
+kbraun@vizpainter.com,6657,2/12/2019,2/27/2019,KM-16375,American,367,DFW-JFK,Business,420,Karl Braun
+kferguson@vizpainter.com,2507,6/23/2016,7/27/2016,KL-16645,United,225,DFW-MCO,Economy,418,Karen Ferguson
+bbowman@vizpainter.com,8531,11/25/2018,12/6/2018,BS-11755,American (AA),365,DFW-COS,1st Class,103,Brenda Bowman
+rmesse@vizpainter.com,7570,10/23/2016,12/10/2016,RL-19615,Delta,113,DFW-COS,Economy,624,Raymond Messe
+cmelton@vizpainter.com,1539,8/15/2019,9/17/2019,CL-11890,United,253,DFW-CMH,Economy,145,Charlotte Melton
+ltron@vizpainter.com,4944,11/29/2019,12/27/2019,LP-17095,United,295,DFW-JFK,Economy,450,Larry Tron
+ahunt@vizpainter.com,5403,8/9/2019,8/28/2019,AH-10195,American,115,DFW-SEA,Economy,31,Amy Hunt
+pcoakley@vizpainter.com,4664,8/13/2018,9/22/2018,PO-18850,AA,203,DFW-IAD,Economy,582,Pamela Coakley
+sfoster@vizpainter.com,3949,10/16/2018,11/22/2018,SN-20710,United,258,DFW-IAD,Business,679,Sarah Foster
+kferguson@vizpainter.com,2737,10/25/2017,11/19/2017,KL-16645,United,188,DFW-COS,Business,418,Karen Ferguson
+csievert@vizpainter.com,5523,5/23/2018,6/7/2018,CK-12205,United,176,DFW-SEA,Economy,141,Chad Sievert
+mconnell@vizpainter.com,9896,8/15/2016,10/1/2016,MM-17920,American (AA),336,DFW-HIO,Business,506,Matt Connell
+agerbode@vizpainter.com,5302,4/13/2018,6/2/2018,AH-10690,Delta,205,DFW-HIO,Economy,35,Andy Gerbode
+shopkins@vizpainter.com,5770,1/22/2017,3/1/2017,SS-20875,United,116,DFW-COS,Economy,692,Shahid Hopkins
+dbenoit@vizpainter.com,3127,6/24/2019,9/12/2019,EB-14110,AA,139,DFW-SAN,Economy,243,Duane Benoit
+lschmidt@vizpainter.com,7475,12/7/2015,1/10/2016,ME-17320,AA,364,DFW-SLC,Economy,479,Luke Schmidt
+ecreighton@vizpainter.com,7227,1/20/2019,2/27/2019,ES-14080,American,246,DFW-COS,Economy,269,Erin Creighton
+mhaberlin@vizpainter.com,2809,6/8/2017,7/27/2017,MH-18025,Delta,298,DFW-BUF,Business,495,Mark Haberlin
+nwebber@vizpainter.com,6602,9/24/2016,12/7/2016,ON-18715,Delta,328,DFW-SLC,Economy,559,Natalie Webber
+abergman@vizpainter.com,5202,1/3/2018,3/8/2018,AA-10315,United,354,DFW-HIO,Economy,1,Aaron Bergman
+tmanning@vizpainter.com,4165,11/4/2018,1/15/2019,TP-21565,Delta,400,DFW-HIO,Business,733,Tamara Manning
+as,7885,11/29/2019,12/6/2019,LC-16870,AA,210,DFW-DSM,Business,434,Kelly Andreada
+cludwig@vizpainter.com,3255,5/26/2018,7/14/2018,CC-12220,United,255,DFW-SAN,Economy,125,Carl Ludwig
+croper@vizpainter.com,4690,12/11/2016,12/22/2016,CT-11995,American Airlines,235,DFW-MCO,Economy,174,Corey Roper
+pfuller@vizpainter.com,553,9/1/2019,9/12/2019,RC-19960,United,315,DFW-MCO,Business,607,Peter Fuller
+tchapman@vizpainter.com,3071,10/28/2016,11/22/2016,YC-21895,Delta,560,DFW-JFK,1st Class,763,Tony Chapman
+tboyes@vizpainter.com,5587,9/28/2019,12/4/2019,VP-21730,American Airlines,382,DFW-JFK,Economy,756,Todd Boyes
+dhallsten@vizpainter.com,8823,10/24/2019,11/7/2019,DK-13090,Delta,240,DFW-CMH,Economy,204,Dave Hallsten
+ptakahito@vizpainter.com,948,10/13/2019,12/2/2019,RB-19795,Delta,328,DFW-MCO,Economy,605,Pete Takahito
+cschnelling@vizpainter.com,580,7/13/2019,7/26/2019,CS-11950,United,241,DFW-MCO,Economy,165,Cindy Schnelling
+ssunley@vizpainter.com,2624,10/9/2019,10/24/2019,TA-21385,Delta,153,DFW-LNK,Economy,705,Sonia Sunley
+mhagelstein@vizpainter.com,6742,1/29/2016,5/31/2016,MM-18055,AA,103,DFW-CMH,Economy,507,Matt Hagelstein
+lpelletier@vizpainter.com,2608,10/28/2016,11/30/2016,MC-17590,AA,209,DFW-HIO,Economy,471,Liz Pelletier
+kandreada@vizpainter.com,9755,3/15/2019,3/29/2019,LC-16870,Delta,44,DFW-SEA,Economy,434,Kelly Andreada
+thudgings@vizpainter.com,3320,11/29/2016,12/25/2016,TS-21505,United,151,DFW-GRB,Economy,740,Thea Hudgings
+kferguson@vizpainter.com,4675,6/4/2018,8/6/2018,KL-16645,American Airlines,200,DFW-MCO,Economy,418,Karen Ferguson
+mbertelson@vizpainter.com,6530,2/5/2016,2/27/2016,MG-17875,United,64,DFW-IAD,Economy,486,Maria Bertelson
+gmitchum@vizpainter.com,9200,2/17/2016,5/15/2016,GM-14680,American,420,DFW-SLC,Economy,296,Gary Mitchum
+bcastell@vizpainter.com,2381,3/24/2018,5/10/2018,BE-11455,United,324,DFW-COS,1st Class,75,Becky Castell
+jcastell@vizpainter.com,477,10/2/2016,11/11/2016,JP-15520,United,295,DFW-COS,Business,384,John Castell
+cschnelling@vizpainter.com,7325,9/10/2019,12/8/2019,CS-11950,Delta,211,DFW-IAD,Business,165,Cindy Schnelling
+cprescott@vizpainter.com,1828,1/27/2018,2/11/2018,CH-12070,American,154,DFW-SAN,Economy,138,Cathy Prescott
+smcnair@vizpainter.com,5298,5/13/2019,7/31/2019,TM-21490,Delta,288,DFW-SAN,Economy,729,Suzanne McNair
+sgordon@vizpainter.com,9586,7/22/2018,8/27/2018,SV-20815,Delta,259,DFW-COS,Business,697,Sheri Gordon
+mwillingham@vizpainter.com,319,10/16/2016,11/9/2016,NM-18445,United,255,DFW-CHS,Economy,548,Mitch Willingham
+dlawera@vizpainter.com,2479,7/13/2016,9/19/2016,DC-12850,United,156,DFW-CMH,Economy,190,Dan Lawera
+schung@vizpainter.com,7867,5/6/2017,7/19/2017,TG-21310,Delta,148,DFW-BUF,Economy,722,Sung Chung
+sulpright@vizpainter.com,1641,5/10/2018,6/1/2018,TB-21280,Delta,478,DFW-COS,1st Class,710,Stephanie Ulpright
+ghansen@vizpainter.com,8998,3/4/2019,3/20/2019,HG-14845,Delta,134,DFW-COS,Economy,310,Greg Hansen
+nchilds@vizpainter.com,5676,4/30/2016,6/2/2016,PJ-18835,Delta,387,DFW-SAN,Business,574,Noah Childs
+ahane@vizpainter.com,1556,5/14/2019,9/8/2019,AB-10150,American,400,DFW-HIO,Business,8,Adrian Hane
+cleslie@vizpainter.com,9622,8/4/2016,9/30/2016,DA-13450,United,194,DFW-HIO,Economy,179,Craig Leslie
+erittenbach@vizpainter.com,4776,10/13/2019,11/21/2019,EK-13795,Delta,206,DFW-CMH,Business,256,Elpida Rittenbach
+kwilliams@vizpainter.com,8086,9/22/2018,10/26/2018,LC-16960,United,425,DFW-MCO,Business,437,Kelly Williams
+myedwab@vizpainter.com,1475,9/24/2018,11/25/2018,NP-18685,American (AA),179,DFW-CMH,Economy,552,Muhammed Yedwab
+jocampo@vizpainter.com,8950,12/17/2019,12/28/2019,JL-15130,American,258,DFW-ELP,Economy,369,Jesus Ocampo
+a,8545,3/4/2018,3/31/2018,DS-13180,Delta,455,DFW-MCO,Business,229,Dianna Arnett
+swooten@vizpainter.com,7759,10/10/2019,11/15/2019,SP-20620,American Airlines,291,DFW-MCO,Economy,682,Scot Wooten
+csundaresam@vizpainter.com,8781,1/28/2017,3/4/2017,CM-12715,Delta,385,DFW-CMH,1st Class,156,Christine Sundaresam
+mvittorini@vizpainter.com,1511,4/16/2019,6/30/2019,NH-18610,American,474,DFW-CMH,1st Class,545,Mike Vittorini
+azypern@vizpainter.com,5226,5/8/2018,6/26/2018,AS-10090,Delta,177,DFW-SEA,Business,50,Annie Zypern
+jkriz@vizpainter.com,7953,11/4/2017,11/24/2017,KD-16345,American (AA),216,DFW-SAN,Business,407,Julie Kriz
+rritter@vizpainter.com,2024,6/19/2018,9/21/2018,RH-19510,United,280,DFW-SLC,Economy,620,Ralph Ritter
+ebraxton@vizpainter.com,7187,7/9/2019,8/24/2019,ED-13885,American,348,DFW-SLC,Economy,246,Ed Braxton
+mharrigan@vizpainter.com,4818,12/1/2016,12/31/2016,MG-17695,Delta,132,DFW-GRB,Economy,485,Marc Harrigan
+agrayson@vizpainter.com,4986,8/26/2016,9/3/2016,AG-10390,Delta,345,DFW-IAD,Business,22,Alex Grayson
+jgalang@vizpainter.com,1179,11/9/2018,12/5/2018,JE-15745,Delta,256,DFW-SAN,Economy,343,James Galang
+jlee@vizpainter.com,4976,7/1/2017,9/23/2017,JR-16210,Delta,451,DFW-HIO,Business,388,John Lee
+phirasaki@vizpainter.com,976,9/10/2019,10/8/2019,PO-19195,Delta,205,DFW-SEA,Business,585,Patricia Hirasaki
+ncano@vizpainter.com,6665,8/26/2019,11/1/2019,OT-18730,United,315,DFW-MEM,Business,560,Nathan Cano
+gbaptist@vizpainter.com,8894,6/5/2016,8/12/2016,GZ-14470,American Airlines,257,DFW-ELP,Economy,304,Giulietta Baptist
+fpreis@vizpainter.com,2060,9/4/2016,11/4/2016,GG-14650,United,70,DFW-BUR,Economy,287,Frank Preis
+kcarlisle@vizpainter.com,478,6/29/2018,7/18/2018,KH-16690,American,133,DFW-SAN,Economy,416,Karen Carlisle
+dflashing@vizpainter.com,5316,5/3/2018,5/8/2018,DL-12865,American (AA),529,DFW-SLC,Business,208,David Flashing
+ebraxton@vizpainter.com,2084,11/15/2016,11/29/2016,ED-13885,Delta,196,DFW-IAD,Economy,246,Ed Braxton
+tcarlisle@vizpainter.com,5943,4/3/2018,8/13/2018,VG-21790,Delta,150,DFW-SAN,Economy,752,Toby Carlisle
+sgoranitis@vizpainter.com,6682,7/15/2019,9/7/2019,TB-21055,United,147,DFW-COS,Economy,706,Speros Goranitis
+ckargatis@vizpainter.com,6208,9/26/2018,10/24/2018,CM-12445,Delta,440,DFW-SLC,Economy,154,Christine Kargatis
+csheldon@vizpainter.com,4630,8/30/2018,11/17/2018,CK-12760,Delta,215,DFW-JFK,Economy,144,Charles Sheldon
+ccarroll@vizpainter.com,7828,9/10/2019,11/4/2019,CY-12745,United,102,DFW-MEM,Economy,178,Craig Carroll
+dbudd@vizpainter.com,5493,11/2/2016,11/28/2016,DH-13675,United,219,DFW-DSM,Business,197,Darren Budd
+rcollins@vizpainter.com,124,5/10/2018,6/15/2018,SC-20725,Delta,140,DFW-SAN,Economy,654,Roy Collins
+jcaffey@vizpainter.com,209,11/12/2019,12/7/2019,JH-15985,United,326,DFW-SEA,Business,358,Jenna Caffey
+mzewe@vizpainter.com,8217,9/1/2017,10/2/2017,ML-17395,Delta,299,DFW-SEA,Business,500,Mary Zewe
+jlee@vizpainter.com,7089,10/6/2017,10/27/2017,JF-15415,AA,272,DFW-CMH,Business,348,Janet Lee
+pcoakley@vizpainter.com,5279,10/28/2016,12/13/2016,PO-18850,Delta,162,DFW-COS,Economy,582,Pamela Coakley
+dpardue@vizpainter.com,8247,3/20/2017,5/10/2017,DP-13390,United,135,DFW-GRB,Economy,225,Dennis Pardue
+ccarreira@vizpainter.com,2037,11/9/2016,1/27/2017,CW-11905,United,230,DFW-COS,Business,177,Craig Carreira
+abarton@vizpainter.com,9040,11/24/2018,12/21/2018,AB-10105,American (AA),237,DFW-SEA,Economy,7,Adrian Barton
+asdfa,5816,10/21/2016,11/26/2016,LS-17245,Delta,383,DFW-SAN,Business,457,Lena Cacioppo
+lradford@vizpainter.com,7860,5/13/2016,6/1/2016,LW-16825,American Airlines,227,DFW-COS,Economy,460,Lena Radford
+gmcgarr@vizpainter.com,5119,9/11/2017,10/3/2017,GM-14500,United,153,DFW-CHS,Economy,295,Gary McGarr
+jradford@vizpainter.com,3837,3/27/2016,4/15/2016,JM-15655,American Airlines,245,DFW-COS,Business,377,Jim Radford
+schance@vizpainter.com,6102,8/10/2019,9/26/2019,SV-20365,American Airlines,326,DFW-SLC,Economy,695,Shaun Chance
+mpelletier@vizpainter.com,1501,9/26/2019,11/18/2019,NG-18430,Delta,461,DFW-COS,1st Class,544,Mike Pelletier
+mzewe@vizpainter.com,9762,2/4/2016,2/18/2016,ML-17395,United,282,DFW-HIO,Economy,500,Mary Zewe
+dordway@vizpainter.com,737,12/25/2018,1/25/2019,DS-13030,United,264,DFW-BUF,Business,228,Denny Ordway
+eballard@vizpainter.com,8393,11/18/2018,12/6/2018,EJ-14155,American,282,DFW-SAN,Business,255,Ellis Ballard
+hlopez@vizpainter.com,1497,8/11/2019,9/8/2019,JD-15790,American,409,DFW-JFK,Business,335,Hunter Lopez
+jmackendrick@vizpainter.com,7554,10/29/2016,11/25/2016,KH-16330,Delta,220,DFW-COS,Economy,412,Justin MacKendrick
+cjumper@vizpainter.com,4389,11/1/2019,11/22/2019,CD-11920,Delta,348,DFW-COS,Business,133,Caroline Jumper
+bwallace@vizpainter.com,7160,3/4/2017,5/18/2017,BF-11170,United,244,DFW-SAN,Economy,80,Ben Wallace
+lsouthworth@vizpainter.com,8964,9/2/2018,11/7/2018,LW-17125,Delta,236,DFW-HIO,Economy,462,Linda Southworth
+jmatthias@vizpainter.com,355,2/3/2018,4/13/2018,JL-15505,American (AA),147,DFW-BUF,Economy,371,Jill Matthias
+ahawkins@vizpainter.com,536,6/17/2018,7/16/2018,AA-10375,Delta,334,DFW-JFK,Business,2,Aaron Hawkins
+sjordon@vizpainter.com,4625,8/28/2019,9/14/2019,SO-20335,Delta,491,DFW-JFK,Business,680,Sarah Jordon
+pbreyer@vizpainter.com,9510,2/20/2016,4/7/2016,RD-19900,AA,258,DFW-JFK,Economy,613,Phillip Breyer
+pbzostek@vizpainter.com,3635,9/25/2018,11/14/2018,PP-18955,American,243,DFW-SAN,Economy,586,Patrick Bzostek
+dbrooks@vizpainter.com,540,11/14/2017,12/11/2017,DK-12985,Delta,327,DFW-SLC,Economy,203,Dave Brooks
+dlawera@vizpainter.com,9131,1/11/2018,3/26/2018,DC-12850,United,346,DFW-CMH,1st Class,190,Dan Lawera
+csievert@vizpainter.com,4824,10/29/2018,11/26/2018,CK-12205,Delta,140,DFW-CHS,Economy,141,Chad Sievert
+knguyen@vizpainter.com,3168,8/31/2018,10/31/2018,KW-16435,Delta,185,DFW-MCO,Economy,429,Kean Nguyen
+eashbrook@vizpainter.com,794,9/4/2016,9/26/2016,ES-14020,United,76,DFW-IAD,Economy,268,Erin Ashbrook
+kandreada@vizpainter.com,8985,1/4/2018,3/12/2018,LC-16870,Delta,279,DFW-ELP,Business,434,Kelly Andreada
+eludwig@vizpainter.com,4897,10/25/2018,12/29/2018,EH-13765,United,315,DFW-JFK,Business,248,Ed Ludwig
+khughes@vizpainter.com,9914,9/8/2017,10/12/2017,KN-16390,American,62,DFW-IAD,Economy,423,Katherine Hughes
+po'brill@vizpainter.com,6922,3/1/2019,4/10/2019,PS-19045,Delta,77,DFW-MEM,Economy,589,Patrick O'Brill
+ccortes@vizpainter.com,8041,6/12/2019,8/24/2019,CM-11815,American (AA),521,DFW-JFK,1st Class,147,Chris Cortes
+jkamberova@vizpainter.com,4712,2/2/2016,3/31/2016,JO-15280,United,229,DFW-SEA,Economy,381,Joe Kamberova
+cdarley@vizpainter.com,9382,12/7/2016,12/27/2016,CC-12670,American Airlines,223,DFW-JFK,Economy,131,Carol Darley
+mkennedy@vizpainter.com,8089,6/25/2017,7/14/2017,MV-18190,United,218,DFW-SEA,Business,526,Michael Kennedy
+mhaberlin@vizpainter.com,9222,9/16/2019,10/14/2019,MH-18025,American (AA),237,DFW-ELP,Economy,495,Mark Haberlin
+sroelle@vizpainter.com,8014,3/23/2019,5/25/2019,TB-21625,United,355,DFW-HIO,Economy,715,Steven Roelle
+ecreighton@vizpainter.com,3229,9/11/2016,10/5/2016,ES-14080,American Airlines,329,DFW-HIO,Business,269,Erin Creighton
+dlawera@vizpainter.com,7900,4/16/2019,8/18/2019,DC-12850,United,61,DFW-BUR,Economy,190,Dan Lawera
+ajarboe@vizpainter.com,2514,10/5/2018,11/16/2018,BB-11545,United,267,DFW-HIO,Economy,63,Ashley Jarboe
+areiter@vizpainter.com,5042,9/19/2018,11/13/2018,AI-10855,American Airlines,224,DFW-COS,Economy,36,Andy Reiter
+rmesse@vizpainter.com,7571,11/10/2016,12/10/2016,RL-19615,United,371,DFW-BUR,1st Class,624,Raymond Messe
+djones@vizpainter.com,247,5/16/2016,6/6/2016,DW-13480,United,119,DFW-COS,Economy,233,Don Jones
+mpacker@vizpainter.com,9166,6/14/2018,6/26/2018,MJ-17740,United,255,DFW-CHS,Business,497,Mark Packer
+dpoirier@vizpainter.com,2270,11/17/2019,12/25/2019,DK-13225,Delta,238,DFW-SEA,Economy,206,Dave Poirier
+remerson@vizpainter.com,4620,12/5/2019,12/25/2019,RM-19675,United,172,DFW-LNK,Economy,626,Ricardo Emerson
+mnguyen@vizpainter.com,995,5/7/2016,5/25/2016,MW-18235,United,61,DFW-SEA,Economy,528,Michael Nguyen

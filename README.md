@@ -9,7 +9,7 @@ This is the code repository for [Learning Tableau 2019](https://prod.packtpub.co
 ## What is this book about?
 Tableau is the gold standard of business intelligence and visual analytics tools in every industry. It enables rapid data visualization and interpretation with charts, graphs, dashboards, and much more. Updated with the latest features of Tableau, this book takes you from the foundations of the Tableau 2019 paradigm through to advanced topics.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Develop stunning visualizations that explain complexity with clarity
 * Explore the exciting new features of Tableau Desktop and Tableau Prep
 * Connect to various data sources to bring all your data together

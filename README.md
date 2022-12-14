@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781788839525)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learning Tableau 2019
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/learning-tableau-2019-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839525"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/0/b09562_mockupcover.png" alt="Learning Tableau 2019" height="256px" align="right"></a>
